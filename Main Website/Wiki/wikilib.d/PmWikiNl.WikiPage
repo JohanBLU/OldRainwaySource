@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=reformat
+ctime=1257951146
+name=PmWikiNl.WikiPage
+rev=4
+targets=PmWikiNl.WikiWikiWeb,PmWiki.WikiStructure,Cookbook.EditTemplates,PmWiki.PageFileFormat,PmWiki.FlatFileAdvantages
+text=(:title Wiki pagina:) (:Summary: Wiki pagina informatie:)%0aEen '''Wiki pagina''' is de elementaire bouwsteen van een [[WikiWikiWeb|wiki-gebaseerd]] systeem dat tekst en/of afbeeldingen kan bevatten.\\%0aZie [[PmWiki.WikiStructure|Wiki structuur]] '^(en)^' voor meer informatie.%0a%0aWiki pagina's kunnen een bewerk sjabloon hebben om het bewerken van de pagina te stroomlijnen.\\%0aZie [[Cookbook:Edit Templates|Kookboek:Bewerk Sjablonen]] '^(en)^' [-{Cookbook/EditTemplates$:Summary}-]%0a%0aWiki pagina's worden opgeslagen in afzonderlijke platte bestanden.\\%0aZie [[PmWiki/Page File Format|Pagina bestandsformaat]] '^(en)^' en [[PmWiki:Flat File Advantages|PmWiki:Voordelen van platte bestanden]] '^(en)^'.%0a
+time=1315670189
+title=Wiki pagina

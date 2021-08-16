@@ -1,0 +1,11 @@
+version=pmwiki-2.2.95 ordered=1 urlencoded=1
+author=123
+charset=UTF-8
+csum=
+ctime=1333069453
+name=PmWikiZhCn.CreatingNewPages
+rev=5
+targets=PmWikiZhCn.Links,PmWikiZhCn.我的新页面,Site.SideBar,PmWiki.WikiGroup
+text=(:Summary:如何创建新页面:)%0a(:title 创建新页面:)%0a(:Audience: authors (basic) :)%0a你可以在已有的页面上创建一个新页面的连接。像这样[@[[新页面标题]]@]添加一个连接就可以了。%0a%0a-> 要链接到你的新页面，你首先要起个好的页面标题。%0a%0a-> 要创建一个链接，你只需要用双方括号括起来。要不试试这样[@[[我的新页面]]@]，您将会创建一个到新链接，像这样“[[我的新页面]]”。[[这里 -> Links]]有一些其它的链接样式，你可以创建丰富多样的链接。%0a%0a打开my new page将会提示还未创建该页面。还等什么？点击“创建”它吧。另外，编辑完记得保存哦。 %0a%0a----%0a另一个方便的方式是，直接在你需要的网址后面添加页面名，比如直接访问“ [=http://example.com/wiki/PmWiki/我的新页面=]”。然后创建它。%0a%0a这样创建的问题是，你将是唯一知道它的人，你无法从其它页面找到它。当然你也可以把他添加到[[Site/SideBar|侧栏]]中，方便其他人找到该页面。%0a----%0a%0a扩展阅读：%0a* 你可以学习[[PmWiki/wiki group]]，来对不同的页面分门别类。这是个好习惯。%0a%0a>>faq%3c%3c [[#faq]]%0a[[#beginning]]%0aQ: 我如何创建一个页面?%0aA: 输入[=[[my new page]]=]就可以了。%0a%0aQ: 为什么有些页面链接是"手册"，但页面标题却是“管理手册”？%0aA: 默认是页面链接中的名字。但是，你可以使用 [@(:title 这里是新页面标题:)@]来把页面改为其它你喜欢的名字。同时可以用“Summary”及“Author”框输入简介与作者。像这样[@ (:Summary:如何创建新页面:)@]。注意title后是没有“'''：'''”的，而Summary这些有。
+time=1489503535
+title=创建新页面

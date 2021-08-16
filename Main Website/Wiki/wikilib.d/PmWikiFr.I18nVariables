@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1143843244
+name=PmWikiFr.I18nVariables
+rev=3
+targets=PmWikiFr.Variables
+text=(:title Variables pour l'internationalisation:)%0a%3c%3c|[[Variables]]|>>%0a%0a:$VarPagesFmt:Tableau contenant les noms des pages où sont définies les variables. A modifier pour une documentation locale (dito, qui n'est pas en anglais). voir ''vardoc.php''
+time=1315669216
+title=Variables pour l'internationalisation

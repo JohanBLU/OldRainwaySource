@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1144514645
+name=PmWikiFr.ToutesLesModifs
+rev=3
+targets=
+text=(:redirect Site.AllRecentChanges:)
+time=1315669216

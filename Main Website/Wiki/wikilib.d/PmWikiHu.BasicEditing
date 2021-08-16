@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiHu.BasicEditing
+rev=20
+targets=PmWiki.BasicEditing,PmWikiHu.Jelszo,PmWikiHu.WikiWikiWeb,PmWikiHu.TextFormattingRules,Main.WikiSandbox,PmWikiHu.DocumentationIndex
+text=(:title Szerkesztési Alapok:)%0a!Szerkesztési Alapok '^[---([[PmWiki/BasicEditing|eredeti angol változat]])---]^'%0a%0aEz az oldal többszerzői, team dokumentáció készítésének céljából létrehozott [[WikiWikiWeb]] családba tartozó oldal. Az oldal szerkesztéséhez klikkeljen a '''Szerkesztés''' linkre valahol az oldalon (ez többnyire a fejlécben, vagy a láblécben található). Az oldalakat [[Jelszo | Jelszavas védelemmel]] láthatjuk el, attól függően, hogy a rendszer biztonsági szintje, hogyan van beállítva, több WikiWikiWeb rendszerben az összes oldal hozzáférhető.%0a%0aEgy oldal létrehozásához szükséges alap szerkesztési parancsok meglehetősen egyszerűek. Kezdjen minden bekezdést kezdő szóköz nélkül, és a bekezdéseket válassza el egy üres sorral.%0aA négy, vagy több kötőjellel '-' kezdődő sorok vizszintes vonallá alakulnak át, a csillaggal '*' kezdődő sorok bajusszá alakulnak. Erről bővebben a [[TextFormattingRules|Szöveg formázási szabályok]] cím alatt olvashatunk. %0a%0aA tanultakat kipróbálhatjuk a [[Main/WikiSandbox|próba oldalon]], ezt az oldalt minden különösebb következmény nélkül szabadon módosíthatjuk.%0a%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a%0a[[PmWikiHu.DocumentationIndex| Vissza a Tartalomhoz]]%0a
+time=1315668571
+title=Szerkesztési Alapok

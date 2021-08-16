@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=content moved and redirect to PmWikiSv.TextFormattingRules
+ctime=1192277651
+name=PmWikiSv.Textformatering
+rev=3
+targets=
+text=(:Summary: Redirects to [[PmWikiSv/TextFormattingRules]]:)%0a(:redirect PmWikiSv/TextFormattingRules:)
+time=1315670581

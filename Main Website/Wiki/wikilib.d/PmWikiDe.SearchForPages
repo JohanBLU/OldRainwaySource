@@ -1,0 +1,11 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=wording
+ctime=1310288935
+name=PmWikiDe.SearchForPages
+rev=11
+targets=
+text=(:title Suche nach Seiten:)%0a(:Summary: Eine kurze Zusammenfassung für die searchresults-Direktive.:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2011-07-10:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren:)%0a%0aDiese Seite beschreibt, wie man die [=(:searchresults:)=]-Direktive benutzt, um eine Liste von anderen Seiten in die aktuelle Wikiseite einzufügen, wenn sie angezeigt wird.%0aEs gibt eine Menge Einsatzmöglichkeiten für diese Direktive.%0a%0a!!!Eingebundene Suche%0a:[=(:searchresults SuchString:)=]:gibt direkt aus, was man auch erhält, wenn man ''`SuchString'' in die Suchmaske eingibt.%0a%0a:[=(:searchresults group=GruppenName SuchString:)=]:beschränkt die Suche auf eine bestimmte Gruppe.%0a%0a:[=(:searchresults list=normal SuchString:)=]:schließt einige spezielle Seiten aus der Liste der gefundenen Seiten aus (`RecentChanges, `GroupHeader, `GroupFooter und `GroupAttributes)%0a%0a:[=(:searchresults fmt=simple SuchString:)=]:entfernt die hierarchische Ordnung nach Gruppen und zeigt dafür den vollen Namen an wie in `GuppenName.SeitenName. %0a%0a!!!Anmerkung%0aJede Kombination des oben Gezeigten sollte ebenfalls funktionieren. %0a
+time=1459076642
+title=Suche nach Seiten

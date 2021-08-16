@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333116667
+name=PmWikiZhCn.PageHistory
+rev=1
+targets=Cookbook.ExpireDiff,Cookbook.LimitDiffsPerPage,Cookbook.ViewDiff,Cookbook.TrackChanges,PmWiki.PageFileFormat
+text=(:Summary: 自定义页面历史记录:)%0a(:Audience: authors (basic) :)%0a(:title 页面历史:)%0a当您的wiki页面添加“?action=diff”动作时，您将会看到一个页面历史界面，上面详细的表示出各个页面版本的差别。%0a%0a在每个变更版本后面，都有一个“恢复”（Restore）按钮，你可以打开编辑，并保存。这样，原来的页面就还原恢复了。%0a%0a值得说明的是，PmWiki有两个额外选项。隐藏细微变化和显示变更实际的输出效果。%0a%0a* '''Hide minor edits''' - 此功能可以隐藏作者标记为“minor”（这是小更新）的页面更新。 - 这个功能其实是在页面网址“?action=diff”后面添加“&minor=n”的动作。默认是显示细微变化的，即“&minor=y”。%0a%0a* '''Show changes to output''' - 此功能将会显示页面的实际输出效果，而非直接显示带有markup标记的原始代码。 它由在页面网址“?action=diff”后添加“&source=n”完成。从2.2.13版本开始，默认是显示带有markup标记的原始代码的，即“&source=y”。%0a%0a* 你可以直接通过网址设置"?action=diff&source=y&minor=y"来达到同样效果。%0a%0a你可以通过设置配置文件（config.php）来控制"Show changes to markup"功能。关闭页面历史的word-level highlighting功能只需要向“config.php”添加下面一行：%0a  $EnableDiffInline = 0;%0a%0a管理员可以通过设置$DiffKeepDays 和$DiffKeepNum进行自定义。当编辑页面并保存时，任何不符合设置的变量值的内容都会被自动删除。%0a%0a注意:直到下次编辑页面时，符合变量设置要求的内容才会被删除。%0a%0a!! 扩展阅读%0a* Cookbook:ExpireDiff%0a* Cookbook:LimitDiffsPerPage%0a* Cookbook:ViewDiff%0a* Cookbook:TrackChanges%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: [[#removepagehistory]] 如何删除页面历史？%0aA: 1. 管理员可以使用Cookbook:ExpireDiff 插件。 %0a%0aA: 2. 管理员可以通过各种工具编辑“wiki.d/”文件夹下的该页面文件。删除需要清除的内容，并（覆盖）保存就可以了。编辑的时候要小心。保证一些必要元素不被删除。具体参见:[[PmWiki/PageFileFormat#creating]].%0a%0aA: 3. 编辑这个页面，选择全部内容，进行剪切后保存，就可以删除该页面了。（全选：Ctrl+A，然后Ctrl+X剪切）。，然后，你在创建并粘贴刚才的内容就可以了。%0a%0aQ: [[#restrictpagehistory]] 如何设置别人是否可以查看修订记录[@(?action=diff)@]（页面历史）呢？%0aA: 在“local/config.php”配置文件中设置如下代码：%0a%0a->[@$HandleAuth['diff'] = 'edit'@];%0a%0a如果你有多个Wiki，希望其他的可以访问，请配置local/config.php如下代码:%0a%0a->[@$HandleAuth['diff'] = 'read'@];
+time=1333116667
+title=页面历史

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.SideBar
+rev=41
+targets=PmWikiFr.PmWikiFr,PmWikiFr.WikiSandbox,PmWikiFr.PmWikiFeatures,PmWikiFr.Download,PmWikiFr.Installation,PmWikiFr.BasicEditing,PmWikiFr.DocumentationIndex,PmWikiFr.FAQ,PmWikiFr.PmWikiPhilosophy,PmWikiFr.ReleaseNotes,PmWikiFr.RoadMap,PmWikiFr.IndexDocAdmin,PmWikiFr.IndexComplements,PmWikiFr.SitePages,PmWikiFr.StateOfTranslation,PmWikiFr.MailingLists,PmWikiFr.PmWikiUsers,PmWikiFr.SuccessStories,PmWikiFr.SendPmMoney,PmWikiFr.OtherLanguages,Main.HomePage,PmWiki.ChangeLog,Cookbook.Cookbook,Category.Category,Cookbook.Skins,PITS.PITS,Site.Site
+text=*[[Page de garde Fr->PmWikiFr.PmWikiFr]]%0a*[[PmWikiFr.WikiSandbox|Bac à sable]]%0a%0a%25sidehead%25 [[En Français->PmWikiFr.PmWikiFr]]%0a*[[PmWikiFeatures|Fonctionnalités]]%0a*[[Download|+]]%0a*[[Installation->Installation]]%0a*[[Bases de l'édition->BasicEditing]]%0a*[[Documentation(Index)]]%0a*[[FAQ PmWikiFr->FAQ]]%0a*[[Philosophie de PmWiki->PmWikiPhilosophy]]%0a*[[ReleaseNotes|+]]%0a*[[Feuille de route->RoadMap]]%0a%0a*[[Doc administration->PmWikiFr.IndexDocAdmin]]%0a*[[Doc compléments->index complements]]%0a*[[Administration site->SitePages]]%0a%0a%25sidehead%25 Traduction%0a*[[StateOfTranslation|+]]%0a%0a%0a%0a%25sidehead%25 [[Pmwiki.org->http://PmWiki.org]]%0a*[[Liste de discussion->MailingLists]]%0a*[[Utilisateurs->PmWikiUsers]]%0a*[[Réussites->SuccessStories]]%0a*[[Financer Pm->SendPmMoney]]%0a%0a*[[Autres langues->OtherLanguages]]%0a%0a%25sidehead%25[[En Anglais->Main.HomePage]]%0a*[[Change log->PmWiki.ChangeLog]]%0a*[[Livre de recettes->Cookbook.Cookbook]]%0a*[[Catégories->Category.Category]]%0a*[[Thèmes->Cookbook.Skins]]%0a*[[Rapports d'erreurs->PITS.PITS]]%0a*[[Administration du site->Site/Site]]%0a%0a%25sidehead%25 Menu de la version anglaise%0a(:include Site.SideBar:)
+time=1315669216

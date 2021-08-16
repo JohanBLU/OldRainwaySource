@@ -1,0 +1,10 @@
+version=pmwiki-2.2.130 ordered=1 urlencoded=1
+author=Theo
+charset=UTF-8
+csum= (+0)
+ctime=1152175514
+name=PmWikiNl.WikiSandbox
+rev=557
+targets=
+text=Drie enkele aanhalingstekens: '''Vet'''\\%0aEr zijn van die ''dagen'' dat ik niks kan velen.%0a%0aEen haakje en een plus rond een tekst: [+Grote tekst  [+grotere tekst+]+]%0a%0aTwee 'enkele' aanhalingstekens: ''Cursief''%0a%0a[[http:// | Linktekst]]%0a%0a%0aGewone tekst met ^_Superscript_^ en nog wat%0a%0a!! %25center%25Gecentreerde Kop%0a%0a^'+'test%0a%0a'''Dit is een test'''%0a%0a'+Grote tekst+'
+time=1594708250

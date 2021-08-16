@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiFr.AcceptPathInfo
+rev=3
+targets=
+text=This directive controls whether requests that contain trailing pathname information that follows an actual filename (or non-existent file in an existing directory) will be accepted or rejected. The trailing pathname information can be made available to scripts in the PATH_INFO environment variable.%0a%0a%0a%0aMore info at:%0ahttp://httpd.apache.org/docs-2.0/mod/core.html
+time=1315669216

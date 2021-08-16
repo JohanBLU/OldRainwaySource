@@ -1,0 +1,9 @@
+version=pmwiki-2.2.125 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=touch (+0)
+name=PmWikiDe.SideBar
+rev=68
+targets=PmWikiDe.PmWiki,PmWikiDe.WikiWikiWeb,PmWikiDe.WikiElements,PmWikiDe.Installation,PmWikiDe.BasicEditing,PmWikiDe.DocumentationIndex,PmWikiDe.FAQ,PmWikiDe.WikiSandbox,PmWikiDe.SideBar
+text=(:Summary: Liste mit den wichtigsten PmWikiDe-Verweisen, üblicherweise in der rechte Seitenleiste.:)%0a%25sidehead%25[[PmWikiDe.PmWiki|PmWiki (''deutsch'')]]%25%25(:Translation_Status: %25green%25fertig%25%25:)%25comment%25 für die Liste aller Seiten%25%25%0a* [[WikiWikiWeb | Was ist ein Wiki?]]%0a* [[WikiElements | + ]]%0a* [[Installation | + ]]%0a* [[BasicEditing | + ]]%0a* [[DocumentationIndex | + ]]%0a* [[FAQ | Häufige Fragen ]]%0a* [[WikiSandbox | + ]]%0a(:if false:)%25right%25[--[[PmWikiDe/SideBar?action=edit|$[Edit]]]--](:if:)%0a----%0a'''Englisch:'''%0a(:include Site/SideBar:)%0a
+time=1580283102

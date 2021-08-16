@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=
+name=PmWikiHu.Forum
+rev=15
+targets=PmWikiHu.SzerkesztesSugo
+text=!PmWikiHu Fórum%0a%0a%25block bgcolor=#dfdfdf border='1px solid black' padding=5px%25 A szerkesztési beviteli ablak alatt - legalábbis az anglus változatoknál - volt egy ''"minihelp"''. Hogy és mikor, nem tom, de eltünt. Ki tud róla? [-%25date%25(2004.12.16.)-]%0a%0a''Megtaláltam.\\%0aAz a pici ablak a beviteli mező alatt megadható a PmWikiHu/XLPage [@'PmWiki.EditQuickReference'@] paraméterének megadásakor. Eredetileg ez a PmWiki.EditQuickReference, most átállítottam a magyarul jobban hangzó [[PmWikiHu.SzerkesztesSugo|'PmWikiHu.SzerkesztesSugo'-ra]], ahova egyelőre bemásoltam az eredeti oldalt.'' [-%25date%25(2004.12.19.)-]%0a%0a%25block bgcolor=#dfdfdf border='1px solid black' padding=5px%25 Nem igazán érzem úgy, hogy a PmWiki erre a célra lenne szánva - azaz, hogy fórumozzanak vele. Én úgy érzem, hogy inkább közös dokumentáció elkészítésére való.  [-%25date%25(2004.12.15.)-]%0a%0a%25block bgcolor=#dfdfdf border='1px solid black' padding=5px%25 Nálam az olyan oldalak szerkesztéséhez, amelyekben magyar ékezet is van, be kell írni az ékezetes karakter helyett a kódját - pl. '[@ó@]' betű helyett a '[@%25f3@]'. Szerintem kerülni kéne a címekben az ékezetes betüket, annál is inkább, mert ezeket nem mindegyik böngésző jeleníti meg egyformán.'' [-%25date%25(2004.12.15.)-]%0a%0a%0a%0a
+time=1315668571

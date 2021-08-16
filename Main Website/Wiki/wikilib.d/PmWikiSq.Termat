@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Peter Bowers
+charset=UTF-8
+csum=created
+ctime=1293463446
+name=PmWikiSq.Termat
+rev=2
+targets=PmWikiDe.Terminologie
+text=This file is a template listing current words translation in a local language.\\%0aPlease do not set the ''translated'' words here, but make a copy of this file in your local language group e.g. [[PmWikiDe.Terminologie]] .%0a%0aAnyway, common english words useful for tranlation may be added to this list.\\%0aThis is primarily intended to have common terminology for page titles in a given language. It may be extended for larger use.%0a%0aIt can be also a space for discussing translation issues in each language.%0a%0a||border=1%0a||Advanced ||Të Avancuar ||%0a||Administrator ||Administratori ||%0a||Author ||Autor ||%0a||Cookbook ||Libri i Recetëve ||%0a||Customization ||Ndryshimi (help!) ||%0a||Directives ||Udhëzime ||%0a||Download ||Shkarko ||%0a||Field ||Fusha (help!) ||%0a||File ||Dokumenti ||%0a||Footer ||Këmba (help!) ||%0a||Form ||Formular ||%0a||Header ||Koka (help!) ||%0a||Layout || ||%0a||Mail || ||%0a||Mailpost || ||%0a||Mailing lists || ||%0a||Markups || ||%0a||Pattern || ||%0a||Script || ||%0a||Skins || ||%0a||Source || ||%0a||Style || ||%0a||Template files\\%0a(files .tmpl)|| ||%0a||Turn on/off ||Hape / Fike ||%0a||Upload ||Ngarko ||%0a||Variables || ||
+time=1315672569

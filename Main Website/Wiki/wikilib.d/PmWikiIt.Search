@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=change title to "Cerca"
+ctime=1270160876
+name=PmWikiIt.Search
+rev=5
+targets=
+text=(:title Cerca:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0aInserisci il testo di cui vuoi effettuare la ricerca.  La pagina dei risultati riporterà tutte le pagine contenti i termini inseriti.  Per cercare delle frasi, racchiudi l'intera frase tra virgolette.%0a%0aPer limitare la ricerca ad un singolo gruppo, inserisci il nome del gruppo seguito da una barra all'inizio della stringa di ricerca (es., "[=PmWiki/=]" o "Main/").  Per elencare tutte le pagine, utilizza una barra come stringa di ricerca.%0a%0a!!!Esempi di ricerca%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Inserisci'''    ||'''Per trovare le pagine contenenti''' ||%0a||apple pie      ||sia 'apple' che 'pie' ||%0a||"apple pie"    ||la frase 'apple pie' ||%0a||pmwiki/apple   ||'apple' nel gruppo [=PmWiki=] ||%0a||"pmwiki/apple" ||la frase 'pmwiki/apple' in tutti i gruppi ||%0a||apple -pie     ||'apple', omettendo quelle che contengono 'pie' ||%0a||ninja -"apple pie" ||'ninja', omettendo quelle che contengono 'apple pie' ||%0a||apple "-pie"   ||le parole 'apple' e '-pie' ||%0a||apple - pie    ||'apple', '-', e 'pie' || %0a
+time=1315669968
+title=Cerca

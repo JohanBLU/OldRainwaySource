@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=hey kuisma thanks for helping, I resolved the other broken links
+name=PmWikiSv.EditQuickReference
+rev=10
+targets=PmWikiSv.BasicEditing,PmWikiSv.TextFormattingRules,PmWikiSv.Tables,PmWikiSv.TableDirectives
+text=(:table class='quickref' width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial; padding:2px; border:1px solid #cccccc;' bgcolor=#f9f9f9 :)%0a(:cellnr:)%0a%25target=_blank%25 '''Text:''' [[BasicEditing|Enkel redigering]] - [[TextFormattingRules|Textformatering]]%0a(:cell align=right:)%0a%25target=_blank%25 '''Tabeller:''' [[Tables|Lätt]] - [[TableDirectives|Avancerad]]%0a(:cellnr:)%0a-%3c'''Formatering:''' ''[=''kursiv''=]'', '''[='''fet'''=]''', '''''[='''''fet kursivt'''''=]''''', @@[=@@skrivmaskin@@=]@@%0a-%3c'''Annan formatering:''' [+[=[+större+]=]+], [-[=[-mindre-]=]-], '^[='^upphöjt^'=]^', '_[=_nersänkt_=]_', {+[={+underskryket+}=]+}, {-[={-överstryket-}=]-}%0a-%3c'''Externa länkar:''' [=[[annan sida]], [[http://www.example.com]], [[annan sida | länktext]], [[#anchor]]=]%0a-%3c'''Interna länkar:''' [=[[Grupp/Sida]]=] [-ger Sida,-] [=[[Grupp.Sida]]=] [-ger [=Grupp.Sida=],-] [=[[(Grupp.)Test(sida)]]=] [-ger Test-]%0a-%3c'''Listor:''' @@*@@ för punktlista, @@#@@ för numrerad lista, @@:term:definition@@ för definitionslista%0a-%3c'''Paragrafer:''' [=->=] för indrag av första raden, [=-%3c=] för utdrag%0a-%3c'''Separatorer:''' '''!!''', '''!!!''' för rubriker, '''[=----=]''' för horisontell linje%0a(:cell align=right:)%0a'''Radbrytning:''' [=\\=] eller [=[[%3c%3c]]=]%0a\\\\\\%0a'''Undvik formatering:''' [=[=...=]=]\\%0a'''Exakt formatering:''' [=[@...@]=]%0a(:tableend:)
+time=1315670581

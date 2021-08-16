@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Holo
+charset=UTF-8
+csum=translated
+ctime=1143114154
+name=PmWikiRu.WikiPage
+rev=3
+targets=PmWikiRu.WikiWikiWeb,PmWikiRu.WikiStructure,PmWikiRu.DocumentationIndex
+text=(:title Вики страница:)%0a%0aВики cтраница это основной кирпичик для построения [[WikiWikiWeb|+]]. Каждая страница может содержать текст и картинки. Подробнее об организации страниц смотри [[WikiStructure|+]].%0a%0a%25trail%25 %3c%3c|[[DocumentationIndex|+]]|>>
+time=1315680534
+title=Вики страница

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1273995752
+name=PmWikiZhCn.Search
+rev=6
+targets=
+text=(:title 站内搜索:)%0a(:Summary:站内搜索:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0a[[#searchinfostart]]%0a使用引号来搜索短语。搜索结果不区分大小写。%0a%0a支持通配符，*号代表匹配0个或多个字符，?号代表匹配一个字符。%0a%0a搜索某一组中的内容，请输入组名加斜杠，再输入要搜索的词语。例如： "[=PmWikiZhCn/=]" 或"{$SiteGroup}/"。%0a列出整个站点内容，直接输入斜杠（/）进行搜索。 %0a%0a!![-搜索条件演示-]%0a %0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||!输入             ||!结果页面将                 ||%0a||面条 饺子         ||包含“面条”或“饺子”        ||%0a||"面条 饺子"       ||仅包含“面条 饺子”的短语     ||%0a||面条 -饺子        ||仅包含“面条”，不包含“饺子”  ||%0a||面食 -"面条 饺子" ||仅包含“面食”，不包含“面条 饺子”的短语 ||%0a||面条 "-饺子"      ||包含“面条”和“-饺子”        ||%0a||面条 - 饺子       ||包含“面条”，“-”,和“饺子”    ||%0a||"饺子:"           ||包含“饺子”和一个冒号        ||%0a||"饺子=可口"       ||仅包含“饺子=可口”的短语     ||%0a||name=*筷子*       ||包含有“筷子”的页面名称      ||%0a%0a[[#searchinfoend]]
+time=1335323590
+title=站内搜索

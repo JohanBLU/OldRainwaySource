@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=matthew
+charset=UTF-8
+csum=
+ctime=1180534997
+name=PmWiki.WayOfLife
+rev=6
+targets=Cookbook.AutoRestore,Profiles.Pm
+text=!!Way of life?%0aPmWiki main characteristic is modularity. The initial archive provide a very functional but minimal wiki and each PmWiki administrator can configure a whole bunch of things from basic security to very complex included scripts. So what are the guidelines of online PmWiki.org?%0a%0a!!Freedom%0aFrom an user point of view, PmWiki.org is incredibly free. Not only the product itself is GPL (probably the most free licence), but the writing on the online wiki is nearly completely free.%0a%0aAnybody can not only read but write, without any login nor password. even in documentation pages archived for file distribution.%0a%0a!!Limits%0a%0aThere are very few limits. some pages (main Home page, Sandboxes) are reverted each 15 minutes (see cookbook [[Cookbook/AutoRestore]]).%0a%0aGroups can be created (it's probably not a good idea to do so without real need).%0a%0a!!Elegance/Ease of use%0a%0apmwiki has all the elegance and simplicity of good open source software. It could not be easier to install on a server, and yet it allows a user quickly to create beautiful web pages. If only all the web were so simple!%0a%0a!!Moderation%0aSo it's up to the users to clear room when needed. If you encounter a clearly out of subject page (advertisement), clear the page, add "delete" as only text and the page will be deleted.%0a%0aIf you happen to read english (don't you?) subscribe to the mailing list. [[~Pm]] (the owner :-) is incredibly responsive to any valid question.
+time=1315670897

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=update installation link
+ctime=1193585689
+name=PmWikiIt.Introduction
+rev=5
+targets=PmWikiIt.WikiWikiWeb,Main.WikiSandbox,PmWikiIt.BasicEditing,PmWikiIt.TextFormattingRules,PmWiki.Requirements,PmWiki.DocumentationIndex,PmWikiIt.DocumentationIndex,PmWikiIt.StatoDellaTraduzione,PmWiki.Download,PmWikiIt.Installation,PmWiki.HowToGetAssistance
+text=(:title Introduzione:)%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Che cos'è PmWiki?%0aA: PmWiki è un sistema basato su [[wiki(WikiWeb)]] per la creazione e la manutenzione collettiva di siti web.%0a%0aQ: Che cosa ci posso fare?%0aA: Le pagine di PmWiki sono pagine web normali, ma hanno in più un link "[[Main/WikiSandbox?action=edit|Modifica]]" che rende facile modificare le pagine esistenti o aggiungerne di nuove utilizzando [[BasicEditing|facili regole]]. Non è necessario conoscere né l'HTML né i CSS. La possibilità di modificare le pagine può essere lasciata a chiunque si colleghi al sito, oppure limitata a un gruppo di autori. La "[[Main/WikiSandbox?action=edit | Wiki sandbox]]" è un ottimo posto per provare le [[PmWikiIt/Text Formatting Rules | regole di formattazione]]. Il sito che state visualizzando in questo momento è basato su PmWiki.%0a%0aQ: Quali sono i requisiti di PmWiki?%0aA: I requisiti sono elencati nella pagina [[PmWiki/Requirements]] (in Inglese).%0a%0aQ: Dove si trova documentazione?%0aA: La documentazione originale in Inglese è accessibile a partire dalla pagina [[PmWiki.DocumentationIndex | documentation index]]. È in corso una traduzione in Italiano delle pagine indirizzate agli utenti; l'indice di queste ultime si trova [[DocumentationIndex | qui]]. Per contribuire alla traduzione, fare riferimento alla pagina [[StatoDellaTraduzione]].%0a%0aQ: Da dove posso scaricare PmWiki?%0aA: Le istruzioni si trovano nella pagina [[PmWiki.Download | download]].%0a%0aQ: Come si installa PmWiki?%0aA: Le istruzioni per l'installazione si trovano nella pagina [[installation|+]].%0a%0aQ: Come posso ricevere aiuto?%0aA: Vedi [[PmWiki/HowToGetAssistance]] (in Inglese).
+time=1315669968
+title=Introduzione

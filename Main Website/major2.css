@@ -1,0 +1,94 @@
+.verticaloptionpanel {
+	width: 255px;
+	border-right: 2px solid #E3E3E3;
+	display: block;
+	height: 700px;
+}
+
+.verticaltitle { 
+	display: block;
+	height: 25px;
+	font-size: 18px;
+	width: 255px;
+	text-align: center;
+	line-height: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.verticalsmalltitle { 
+	display: block;
+	height: 25px;
+	font-size: 15px;
+	width: 255px;
+	text-align: center;
+	line-height: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.verticalbreak { 
+	display: block;
+	border-top: 1px solid #E3E3E3;
+	width: 255px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+
+.verticaloption {
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	width: 255px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top: 1px solid #E3E3E3;
+	text-align: center;
+	cursor: pointer;
+	transition: 0.25s;
+	-moz-transition: 0.25s;
+	-webkit-transition: 0.25s;
+} 
+
+.verticaloption:hover {
+	background-color: #F2F2F2;
+	color: black !important;
+	text-decoration: none !important;
+}
+
+.last {
+	border-bottom: 1px solid #E3E3E3;
+}
+
+input[type="text"]{
+	width: 98%;
+}
+
+.alert {
+	width: 97%;
+	padding: 14px;
+	color: white;
+	background-color: #B03333;
+	border-radius: 2px;
+}
+
+.forumheader {
+	background-color: #F2F2F2;
+	border: 1px solid #E3E3E3;
+	line-height: 45px;
+	font-weight: bold !important;
+	color: #ADADAD;
+	height: 45px;
+	text-align: center;
+	border-radius: 3px;
+	padding: 6px;
+}
+
+.forumboard {
+	padding: 6px;
+	background-color: #FAFAFA;
+	border: 1px solid #F2F2F2;
+	border-radius: 3px;
+}

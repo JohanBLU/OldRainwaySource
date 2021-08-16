@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiCs.ProhledatWiki
+rev=3
+targets=
+text=(:searchbox:)%0a%0a(:searchresults:)%0a%0aVložte do políčka text, který chcete vyhledat. Výsledná stránka zobrazí všechny stránky, které obsahují zadaný text. Pokud chcete vyhledat frázi, umístěte ji do uvozovek.%0a%0aChcete-li vyhledávání omezit na konkrétní téma (skupinu), zadejte jeho název a lomítkem na začátku hledaného řetězce (např., "[=PmWiki/=]" nebo "Main/").  Pro výpis všech stránek, zadejte lomítko.%0a%0a'''''Příklady hledání:'''''%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Vstupní pole'''    ||'''Výsledek hledání''' ||%0a||jablko hruška         ||oba 'jablko' a 'hruška' ||%0a||"instalace programu"  ||fráze 'instalace programu' ||%0a||pmwiki/jablko         ||'jablko' ve skupině [=PmWiki=] ||%0a||"pmwiki/jablko"       ||fráze 'pmwiki/jablko' ve všech skupinách ||%0a||jablko -hruška        ||'jablko', vynechání těch co obsahují 'hruška' ||%0a||strom -"jablko hruška"||'strom', vynechání těch co obsahují 'jablko hruška' ||%0a||jablko "-hruška"      ||slova 'jablko' a '-hruška' ||%0a||jablko - hruška       ||'jablko', '-', a 'hruška' ||%0a
+time=1315668571

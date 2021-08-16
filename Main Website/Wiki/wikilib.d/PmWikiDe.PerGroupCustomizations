@@ -1,0 +1,11 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Summary
+ctime=1206017375
+name=PmWikiDe.PerGroupCustomizations
+rev=10
+targets=
+text=(:title Individuelle Einstellungen pro Gruppe:)%0a(:Summary: Diese Seite wird umgeleitet auf [[PmWikiDe.GroupCustomizations]].:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2011-04-30:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren (FTP):)%0a%0a(:redirect PmWikiDe/GroupCustomizations quiet=1:)%0a%0a
+time=1465918138
+title=Individuelle Einstellungen pro Gruppe

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=initial translation
+description=enthält die Zugriffsrechte der Gruppe
+name=PmWikiDe.GroupAttributes
+rev=8
+targets=PmWikiDe.SpecialPages,PmWikiDe.Security,PmWikiDe.AvailableActions,PmWikiDe.Passwords,PmWikiDe.WikiGroup,PmWikiDe.PasswordsAdmin
+text=(:Title Gruppeneigenschaften:)%0a(:Summary: Gruppenbasierte Zugriffskontrolle über die [[PmWikiDe/AvailableActions|Seitenaktion]] ''attr'' mit Passwörtern.:)%0a(:description  enthält die Zugriffsrechte der Gruppe:) %0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2016-06-29:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren :)%0a%0aDie Gruppeneigenschaftenseite ist eine [[special pages|besondere Seite]], die ein Teil von PmWikis [[security|Sicherheitssystem]] ist.%0aWenn sie mit der [[AvailableActions|Seitenaktion]] [@?action=attr@] aufgerufen wird, erlaubt sie [[passwords|+]] für die folgenden [[AvailableActions|Aktionen]] für alle Seiten der [[WikiGroup|Gruppe]] zu setzen:%0a* read		%0a* edit%0a* attribute%0a* upload%0a%0a!!!Schnelle Hilfe für [[Password(s#pageattr)|+]]%0a%0a* Geben Sie 'clear' ein, um ein Passwort zurückzusetzen,%0a* geben Sie '@nopass' ein, um eine Seite in einer passwortgeschützten Gruppe von diesem Schutz auszunehmen oder um eine Gruppe in einer Site, die durch ein site-weites Standardpasswort in der ''config.php''-Datei geschützt wird, von diesem Schutz auszunehmen,%0a* geben Sie '@lock' ein, um eine Seite für jeden außer für den Administrator zu sperren,%0a* geben Sie '@_site_edit', '@_site_read', '@_site_admin' oder '@_site_upload' ein, um ein site-weites Standardpasswort zuzuweisen, das in der ''config.php''-Datei definiert wurde.%0a%0aDetails erfahren Sie in [[passwords#groupattr|+]] und in [[passwords admin|+]].%0a%0a
+time=1467194147
+title=Gruppeneigenschaften

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+author=a
+charset=UTF-8
+csum=a
+ctime=1166035780
+name=PmWikiSk.WikiSandbox
+rev=8
+targets=PmWikiSk.TextFormattingRules,PmWikiSk.WikiSandbox
+text=(:title WikiPieskovisko:)%0aTúto stránku môžete slobodne používať na experimenty s [[PmWikiSk/Text Formatting Rules | Pravidlami formátovania textu]]. Iba kliknite na odkaz "Upraviť".%0a(:if false:)%0aNezabudnite, že toto [[WikiSandbox | WikiPieskovisko]] sa automaticky vyčistí každých pätnásť minút.(:ifend:)%0a----%0aText s '_dolnými indexmi_'%0aText s _dolnými indexmi_
+time=1319114997
+title=WikiPieskovisko

@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+name=PmWikiFr.PmWiki
+rev=4
+targets=
+text=(:redirect PmWikiFr:)
+time=1315669216

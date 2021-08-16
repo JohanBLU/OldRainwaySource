@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=HansB
+charset=UTF-8
+name=PmWikiVi.GroupHeader
+rev=3
+targets=
+text=%25define=TT bgcolor=#66ff66%25 %25define=TR color=green font-style=italic%25
+time=1315680534

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=update summary
+name=PmWikiIt.StatoDellaTraduzione
+rev=88
+targets=
+text=(:Summary: Redirect verso [[PmWikiIt.StateOfTranslation]]:)%0a(:redirect PmWikiIt.StateOfTranslation:)
+time=1315669968

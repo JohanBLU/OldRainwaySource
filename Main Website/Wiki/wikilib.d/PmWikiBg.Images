@@ -1,0 +1,11 @@
+version=pmwiki-2.2.45 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1355469668
+name=PmWikiBg.Images
+rev=1
+targets=PmWikiBg.Uploads,PmWikiBg.InerMap
+text=(:title Изображения :)%0a%0aЗа да вмъкнете изображение в дадена страница, напишете адреса (URL-а) на изображението. Евентуалния ''алтернативен текст'' (който се показва като изскачащ текст при задържане на курсора върху изображението или на мястото на изображението във браузърите, които не показват изображения) се поставя в двойни кавички "...", веднага след адреса. Заглавие, което се показва под изображението, представено евентуално с форматиран текст, може да се постави след вертикална черта |.%0a%0a(:markup:)%0ahttp://pmichaud.com/img/misc/pc.jpg"Paper clips" | [- %25newwin%25 [[ Wikipedia:Paper_clips | Paper clips ]] are ''fun'' to work with. -]%0a(:markupend:)%0a%0aИзображенията могат да се слагат и като [[Uploads]] файлове (например: Attach:image.jpeg) и използване на [[InerMap]] връзки. По подразбиране PmWiki поддържа следните формати за изображения:%0a%0a   gif jpg jpeg png%0a%0a...
+time=1355469668
+title=Изображения 

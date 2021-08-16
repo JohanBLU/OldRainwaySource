@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to English page name
+ctime=1286318446
+name=PmWikiPtBr.Instalação
+rev=2
+targets=
+text=(:Summary: Redirect to [[PmWikiPtBr.Installation]]:)%0a(:redirect PmWikiPtBr.Installation:)
+time=1315670403

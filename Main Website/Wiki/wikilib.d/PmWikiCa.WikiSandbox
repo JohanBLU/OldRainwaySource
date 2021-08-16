@@ -1,0 +1,11 @@
+version=pmwiki-2.2.32 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan language sandbox.
+ctime=1316468674
+name=PmWikiCa.WikiSandbox
+rev=1
+targets=PmWikiCa.TextFormattingRules,PmWikiCa.WikiSandbox
+text=(:title Zona de proves (Sandbox):)(:Summary:Lloc on provar l'edició de pàgines:)(:nogroupfooter:)%0a%0aUtilitzeu aquesta pàgina per a provar i experimentar amb les [[TextFormattingRules|+]]. Només cal que cliqueu a l'enllaç "[[$[Edit]-> {$FullName}?action=edit]]".%0a%0a''Per favor, deixeu aquest paràgraf intacte i feu les vostres edicions a partir d'aquesta línia.''%0a----
+time=1316468674
+title=Zona de proves (Sandbox)

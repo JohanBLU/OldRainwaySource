@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=content moved and redirect to PmWikiSv.TableDirectives
+ctime=1138026959
+name=PmWikiSv.TabellerAvancerad
+rev=3
+targets=
+text=(:Summary: Redirects to [[PmWikiSv/TableDirectives]]:)%0a(:redirect PmWikiSv/TableDirectives:)
+time=1315670581

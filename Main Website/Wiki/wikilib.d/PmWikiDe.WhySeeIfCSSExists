@@ -1,0 +1,11 @@
+version=pmwiki-2.2.85 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Typos & Wording
+ctime=1397994778
+name=PmWikiDe.WhySeeIfCSSExists
+rev=2
+targets=Profiles.GNUZoo,Profiles.Pm
+text=(:title Warum man nachsehen sollte, ob es eine CSS-Datei gibt:)%0a(:Summary: Es ist nützlich zu wissen, ob es eine CSS-Datei gibt (oder nicht).:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2014-04-20:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren (Fortgeschrittene):)%0a[[#start]]%0a%0a[[~GNUZoo]] schrieb (übersetzt):%0a-> > Es ist nicht wichtig zu wissen, ob es eine CSS-Datei gibt. Verweise darauf,%0a-> > und wenn es sie nicht gibt, tut es keinem weh (oder?).%0a%0aEs fügt dem Webserver mehr Last zu, da der eine Menge "404 Not Found"-Anforderungen behandeln muss, und des Webservers Fehler-Logdatei füllt sich mit all diesen 404-Error-Antworten. Tatsächlich entstehen pro Seitenaufruf drei Extraeinträge in der Logdatei, wenn keine%0apub/css/local.css-Datei, keine pub/css/Group.css-Datei und keine pub/css/Group.PageName.css-Datei existiert.%0a%0aAuf jeden Fall sehen die Leute, dass PmWiki lauter 404-Fehler produziert und denken: "Tja, das ist ja nicht gerade eine robuste Implementation."%0a%0aManche Leute (gerade die im Webdesign-Geschäft) stellen ihre Browser so ein, dass 404-Fehler in Bild- und .css-Dateien angezeigt werden, für die ist es also nicht gerade ideal.%0a%0aDie Seite würde einen Validierungs-Test nicht überstehen (z. B. auf w3.org), wenn der Test die Verweise zu den CSS-Dateien auf Gültigkeit überprüft.%0a%0aWährend manche Leute sich nicht darum scheren, gibt es doch eine Menge Leute, die dies als fatale Unzulänglichkeit der PmWiki-Implementation ansehen und womöglich abwandern.%0a%0a[[~Pm]]%0a
+time=1461231088
+title=Warum man nachsehen sollte, ob es eine CSS-Datei gibt

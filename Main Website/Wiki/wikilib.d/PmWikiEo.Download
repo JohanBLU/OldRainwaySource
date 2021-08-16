@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Eliovir
+charset=UTF-8
+csum=
+ctime=1255507436
+name=PmWikiEo.Download
+rev=3
+targets=PmWiki.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog
+text=(:Summary: Elŝuti la nunan version de PmWiki:)%0aNuna kaj antaŭaj versioj de [=PmWiki=] disponeblas por elŝutado ĉe [[http://pmwiki.org/pub/pmwiki/]].%0a%0a%0a!! [-Rektaj ligiloj-]%0aPlej lasta ''stabila'' eldono ({$Version}):%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0aRektaj ligiloj:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0a%0aInternaciaj lingvaj pakaĵoj:%0a* [[http://pmwiki.org/pub/pmwiki/i18n/]]%0a%0a!! [-Pritemaj paĝoj (anglalingve)-]%0a* [[PmWiki.Installation]] - {Installation$:Summary}%0a* [[PmWiki.Upgrades]] - {Upgrades$:Summary}%0a** [[PmWiki.Release Notes]] - {ReleaseNotes$:Summary}%0a** [[PmWiki.Change Log]] - {ChangeLog$:Summary}%0a* [[PmWiki:Subversion]] - {Subversion$:Summary}%0a* [[Cookbook:Standalone]] - {Cookbook/Standalone$:Summary}%0a
+time=1315672422

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=if directive
+name=PmWikiDe.GroupHeader
+rev=29
+targets=PmWikiDe.DocumentationIndex,PmWikiDe.Variables
+text=(:Translation_Status: %25green%25fertig%25%25:)%25comment%25 für die Liste aller Seiten%0a(:Summary: Der GroupHeader fügt Definitionen für diverse Stile und für Trail ein, Trails werden, wenn vorhanden, am Seitenanfang eingefügt. :)%0a%25define=note font-style=italic color=green %25\%0a%25define=trail bgcolor=#eee block %25\%0a%25define=editingnote rframe width=200px font-size=smaller bgcolor=#fcc %25\%0a%25define=orange color=#ff9900 %25\%0a%25define=important block bgcolor=#fcc border='1px solid black' padding=5px %25\%0a%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px'\%0a    font-size='smaller' %25\%0a%25define=spur bgcolor='#ddf' border='1px solid #44d'\%0a    padding='3px 10px 5px 10px' margin-top='1px' font-size='80pct' block %25\%0a%25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffc clear:right %25\%0a(:comment Bitte lassen Sie diese vielfachen Stildefinitionen in einer Zeile stehen, sonst erscheinen die Zeilenumbrüche, wenn das Wiki mit 'linebreaks enabled' konfiguriert ist. -- Danke! :)%0a(:if ! equal {*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a(:divend:)(:ifend:)%0a[[#trailstart]] %0a(:if ontrail {*$Group}.DocumentationIndex#trailstart#trailend {*$Name}:) %0a(:div style="clear:all;":)%0a%25spur%25%3c|[[{*$Group}/DocumentationIndex(#trailstart#trailend)|+]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a(:if ontrail {*$Group}.Variables#trailstart#trailend {*$Name}:) %0a(:div style="clear:all;":)%0a%25spur%25%3c|[[{*$Group}/Variables(#trailstart#trailend)|+]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a[[#trailend]]
+time=1466974038

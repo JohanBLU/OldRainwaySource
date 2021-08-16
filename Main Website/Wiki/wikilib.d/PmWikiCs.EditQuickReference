@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiCs.EditQuickReference
+rev=6
+targets=PmWikiCs.TextFormattingRules,PmWikiCs.TipyProEditaci
+text=(:table width='100%25' cellspacing='0' cellpadding='0':)%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' colspan='2':)%0a%25target=_blank%25 [[PmWikiCs/TextFormattingRules|Značkovací pravidla pro formátování textů]] - [[PmWikiCs/Tipy pro editaci]] \\%0a'''Odstavec:''' pro nový odstavec stikněte 2x klávesu ''Enter''; Odsazení textu: '''[=->=]''' \\%0a'''Seznamy:''' '''*''' pro odrážkový seznam, '''#''' pro číselný seznam, :termín:definice pro seznam definicí \\%0a'''Řez písma:''' [=''kurzíva''=], [='''tučné'''=], [='''''tučné kurzíva'''''=], [=@@psací stroj@@=] (pevná šířka) \\%0a'''Odkazy:''' [=[[jiná stránka]]=], [=[[http://www.example.com]]=] nebo [=SpojenáSlovaZačínajícíVelkýmPísmenem=]  \\%0a'''Odkazy s vlastním textem:''' [=[[http://www.example.com | můj text]]=] nebo [=[[můj text -> http://www.example.com]]=] zobrazí "můj text" jako odkaz \\%0a'''Témata:''' [=[[Téma/Stránka]]=] zobrazí odkaz ''Stránka'' [=[[Téma.Stránka]]=] zobrazí odkaz ''Téma.Stránka''%0a(:cellnr style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd':)%0a'''Oddělovače:''' !, !!, !!! pro nadpisy, [=----=] pro vodorovnou oddělovací čáru \\%0a'''Změna velikosti:''' [=[+...+]=] zvětší, [=[-...-]=] zmenší%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' :)%0a'''Vynechat formátování:''' [=[=...=]=] \\%0a'''Zalomení řádky:''' [=\\=] nebo [=[[%3c%3c]]=]%0a(:tableend:)%0a
+time=1315668571

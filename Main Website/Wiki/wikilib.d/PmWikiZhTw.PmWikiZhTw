@@ -1,0 +1,10 @@
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+author=bigpoon
+charset=UTF-8
+csum=de-sandbox
+name=PmWikiZhTw.PmWikiZhTw
+rev=46
+targets=PmWikiZhTw.WikiWikiWeb,PmWikiZhTw.WikiSandbox,PmWikiZhTw.BasicEditing,PmWikiZhTw.PmWikiPhilosophy,Cookbook.Cookbook,PmWikiZhCn.PmWikiZhCn,PmWikiZhTw.StateOfTranslation
+text=(:title PmWiki正體中文首頁:)%0a(:Language:Chinese (Traditional):)%0a(:Summary:{$:Language}:)%0aPmWiki 是 Patrick Michaud 用 PHP 程式語言寫成的共筆系統（參見[[PmWikiZhTw/WikiWikiWeb]]），PmWiki 的主要目標是希望設計一套網頁工具，讓網站容易集合多人協作，而維護也簡單。%0a%0aPmWiki的頁面看起來就像一般的網頁一樣，但是在頁面上有一個"[[WikiSandbox?action=edit|$[Edit]]]"連結，可以讓你經易地更改現有的頁面。你也可以為網站加入新的頁面。%0a%0a編輯時，是基於[[basic editing|基本編輯語法]]，您不需要瞭解、使用任何的HTML或是CSS語言。%0a%0a所創造的頁面也可以是開放給全部的人；或者是只限於一小部份的作者們。%0a%0a----%0a%0a!PmWiki重點功能%0a%0a!!客製化的外觀、功能：%0a%0a->藉由skin、HTML模板的更換，網站維謢者可以快速地更改PmWiki的外觀和功能。若是找不到現成的skin，你還有可以修改既有的skin，或是自已創造一個！%0a%0a!!權限管理：%0a%0a->PmWiki的密碼保謢可以套用到整個網站、一小組網頁，或者是單一的頁面。密碼保謢可以控制可行的動作，包括閱讀、編輯、上傳附件。PmWiki有一個完全內建的密碼保謢系統，但是你也可以選用既有的密碼資料庫做整合，例如''.htaccess''、LDAP servers、mySQL databases%0a%0a!!外觀及插件架構：%0a%0a->PmWiki的[[PmWikiPhilosophy|開發哲學]]其中一項宗指便是「只包涵了必要的功能」在核心中。但是網站管理者可以放心地更改外觀並增加新的標註(markup)。因為已有數百個可實現的功能，只要透過擴充元件(稱為"recepies")就可以達成。您可以在PmWiki[[(Cookbook:)Cookbook]]中找到它們%0a%0a----%0a%0a本站運作的版本是 {$Version}。這套系統以 GNU 通用公共許可證 (GPL) 發布，並可由 http://www.pmichaud.com/pub/pmwiki 下載。說明文件說明可以在頁面左方的索引找到。%0a%0aPmWiki 是 [[http://www.pmichaud.com/ | Patrick R. Michaud ]]的註冊商標。%0a%0aPmWiki的首頁為[[(http://)pmwiki.org(/)]]%0a%0a简体中文：[[PmWikiZhCn/PmWikiZhCn|简体中文主页]]\\%0a%0a%0a'''幫忙翻譯'''︰我們非常歡迎任何的使用者，在翻譯上找到了錯誤的話，可以更正錯誤，也歡迎使用者們寫下重要文件的翻譯！%0a%0a->[[(http://www.pmwiki.org/wiki/)Localization/Localization |翻譯說明]]\\%0a[[StateOfTranslation |+]]%0a%0a%0a
+time=1338842264
+title=PmWiki正體中文首頁

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.69 ordered=1 urlencoded=1
+author=JohnnyN
+charset=UTF-8
+csum=Changed the translation status date and time format.
+ctime=1414512072
+name=PmWikiDa.GroupFooter
+rev=3
+targets=PmWikiDa.A,PmWikiDa.GroupFooter,PmWiki.GroupFooter
+text=%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px' font-size='smaller'%25%0a%0a----%0a%25trad%25 (:if exists PmWiki.{$Name}:)%0aOversættelse af [[(http://www.pmwiki.org/wiki/)PmWiki.{$Name}]] -(:elseif exists Site.{$Name}:)%0aOversættelse af [[(http://www.pmwiki.org/wiki/)Site.{$Name}]] - (:ifend:) Original side på [[(http://www.pmwiki.org/wiki/){$FullName}]] - [[$[Backlinks]->A?action=search&q=link={$FullName}&fmt=title]]\\%0a(:if (equal "{$ScriptUrl}" "http://pmwiki.org/wiki") or (equal "{$ScriptUrl}" "http://www.pmwiki.org/wiki"):) Sidste ændringer:\\%0a[[{$FullName}]]: {(ftime "%25F %25H:%25M" "@{*$LastModifiedTime}")}\\%0a(:if exists PmWiki.{$Name}:)%0a[[PmWiki.{$Name}]]: {(ftime "%25F %25H:%25M" "@{PmWiki.{$Name}$LastModifiedTime}")}%0a(:ifend:)%0a
+time=1414525892

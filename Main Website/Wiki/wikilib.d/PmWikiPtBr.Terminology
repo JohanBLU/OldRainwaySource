@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=
+ctime=1286329526
+name=PmWikiPtBr.Terminology
+rev=4
+targets=
+text=(:Summary: Terminologia para lingua portuguesa do Brasil:)%0a(:title Terminologia:)%0a%0a||border=1%0a||Advanced || Avançado ||%0a||Administrator || Administrador ||%0a||Author || Autor ||%0a||Cookbook || LivroDeReceitas ||%0a||Customization || Customização ||%0a||Directives || Diretivas ||%0a||Footer || Rodapé ||%0a||Form || Formulário ||%0a||Header || Cabeçalho ||%0a||Layout || Layout ||%0a||Mail || Mail ||%0a||Mailpost || ||%0a||Mailing lists || Lista de E-mails||%0a||Markups || Marcador||%0a||Pattern || Padrão ||%0a||Script || Script ||%0a||Skins || Skins ||%0a||Style || Estilo ||%0a||Template files\\%0a(files .tmpl)|| ||%0a||Turn on/off || ||%0a||Upload || ||%0a||Variables || Variáveis ||%0a
+time=1315670403
+title=Terminologia

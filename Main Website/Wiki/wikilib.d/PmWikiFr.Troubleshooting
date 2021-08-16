@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1144441706
+name=PmWikiFr.Troubleshooting
+rev=3
+targets=PmWiki.Troubleshooting,PmWikiFr.IndexDocAdmin
+text=(:title Dépannage:)%0a%25vert%25 page à mettre à jour suivant [[PmWiki.Troubleshooting]]%0a%0aCette page liste différents problèmes rencontrés durant l'utilisation de PmWiki.%0a%0a* Installer PmWiki avec php SAFE MODE : PhpSafeMode%0a* Si vous avez des problèmes pour décompresser l'archive d'installation sous Windows. Essayez l'un des outils de gestion d'archives suivants.%0a** [=WinZip=] de http://www.winzip.com/ - Le vénérable standard de-facto outil d'archivage zip. Coût $29.0. Malheureusement, il ne gère pas les fichiers .gz et .tar. [=WinRAR=], ci dessous, le peut.%0a** [=WinRAR=] de http://www.rarlab.com/ - Alternative, focalisée sur les fichiers de type .rar, il supporte également les zip. Coût $29.00%0a** [=PKZip=] de http://www.pkware.com/ - L'original.  Coût $29.95 %0a** 7-Zip de http://www.7-zip.org/ - Alternative Open Source.  Supporte les ZIP, CAB, RAR, ARJ, GZIP, [=BZIP2=], TAR, CPIO, RPM, DEB et possède son propre format de trés forte compression appelé 7z.  Coût $0.00.%0a** Info-ZIP de http://www.info-zip.org/pub/infozip/ - Une autre alternative Open Source sous license  BSD-like (très libérale). Coût $0.00%0a%0a%25trail%25%3c%3c|[[Index doc admin]]|>>
+time=1315669216
+title=Dépannage

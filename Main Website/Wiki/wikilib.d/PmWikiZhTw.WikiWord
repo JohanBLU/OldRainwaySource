@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=bigpoon
+charset=UTF-8
+csum=typo
+name=PmWikiZhTw.WikiWord
+rev=10
+targets=PmWikiZhTw.WikiWikiWeb,PmWikiZhTw.Links
+text=!!定義%0aWikiWord是由兩個以上、單字間不含空白、且字首皆為大寫的英文單字，連在一起組合而成。這種拼字法有時候又稱為大小寫混合字（mixed case）或駱駝字（camel case）。 %0a!!用法：頁面名稱%0a在[[PmWikiZhTw /WikiWikiWeb|維基系統]]網頁中，WikiWords就是每一頁的「頁面名稱」（'''page titles'''）。%0a!!用法：連結%0a在許多wiki系統中，你可以把兩個英文單字合併在一起，並將它們的首個字母以大寫表示。這樣就是一個「'''WikiWord 連結'''」了。但在PmWiki系統中，若WikiWords被 [=[=...=]=] 所包圍，或者是在前方加上一個 backquote (`)則不會被當成WikiWord來處理，例如：  %0a%0a(:linkwikiwords:)%0a(:markup:)[@LikeThis 及 `LikeThis 、 [=LikeThis=]三種不同的表達方式@]%0a(:nolinkwikiwords:)%0a%0a請參見 [[PmWikiZhTw/Links|+]]：有關`PmWiki's連結的規則，以及如何設定的頁面標題。%0a!!!啟用 WikiWord 連結%0aWikiWord 連結型式在 Pmwiki version 2.1 beta2 後預設是'''關閉的'''。 要啟用 WikiWord 連結，您必須設定''config.php''： %0a%0a->    [@$LinkWikiWords = 1;@]  %0a%0a!!!建立一個WikiWord 連結至'''不存在的頁面'''，但沒有問號「?」上標%0a若您要建立一個沒有「?」上標的連結至不存在的頁面，將下面的字串放入''pub/css/local.css''中： %0a%0a->    [@span.wikiword a.createlink { display:none; }%0aspan.wikiword a.createlinktext { border-bottom:none; text-decoration:none; color:inherit; }@]%0a %0a!!!尋找 WikiWord 連結%0a若您想將舊有網頁中的 WikiWord 連結，轉換成標準型式的[@ [[頁面名稱]]@]表達方式。可以用下列的方法將所有的 WikiWord 連結以高亮度標記起來，方便您找到它們。設定 ''config.php''：%0a%0a->    [@$HTMLStylesFmt['wikiword'] = "span.wikiword { background:yellow; }";@] %0a%0a!!!關閉某些頁面中的 WikiWords 連結%0a設定 $WikiWordCount 變數可以使 WikiWord 以純文字的型式表示。%0a%0a
+time=1315680534

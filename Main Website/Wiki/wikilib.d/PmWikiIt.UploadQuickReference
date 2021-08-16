@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Ugo
+charset=UTF-8
+name=PmWikiIt.UploadQuickReference
+rev=5
+targets=PmWikiIt.Upload,PmWikiIt.PmWikiIt,PmWikiIt.UploadQuickReference
+text=(:table width='100%25':)%0a(:cell bgcolor='#eeeeff' style='font-family:Arial; font-size:12px':)%0a'''[[PmWikiIt/Upload]]'''\\%0a1. Usare il bottone "Sfoglia" per selezionare nel computer il file che si vuole allegare e poi cliccare su "Allega".%0a** Nel campo "Rinomina allegato", mettere il nome (facoltativo) da dare all'allegato. Si può dare un nome uguale o diverso dal file originale. Se si lascia il campo vuoto, il nome sarà invariato. In ogni caso, seguire attentamente le seguenti regole:%0a*** MAI usare un punto ("."), barre ("/" o "\") oppure spazi nel nome del file,%0a*** Usare SEMPRE l'estensione corretta del file.%0a** Al termine, cliccare il bottone "Upload".%0a%0a2. Per inserire un riferimento ad un allegato in una pagina dello stesso gruppo (es.{$Group}), immetti @@[=Attach:=]''nomefile.est''@@ nel punto desiderato, nel testo della pagina. %0a%0a3. Dopo aver caricato il file, si può:%0a**[[{$Name} | Visualizzare la pagina {$Name}]] oppure%0a** [[{$Name}?action=edit | Modificare la pagina {$Name}]] oppure%0a** Controllare la lista di file caricati nel gruppo {$Group}.%0a%0a(:tableend:)%0a%0a----%0a%0a!!Allegati nel gruppo {$Group}%0a%0a%0a(:attachlist:)
+time=1315669968

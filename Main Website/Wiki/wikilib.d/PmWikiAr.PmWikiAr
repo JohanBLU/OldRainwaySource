@@ -1,0 +1,10 @@
+version=pmwiki-2.2.98 ordered=1 urlencoded=1
+author=بتكو يوتوف
+charset=UTF-8
+csum=
+ctime=1175009194
+name=PmWikiAr.PmWikiAr
+rev=34
+targets=PmWikiAr.WikiSandbox
+text=(:Language:Arabic:)%0aPmWiki هو نظام ويكي على أساس تعاوني لإنشاء وصيانة المواقع.%0a%0aيتم كتابة البرامج في %25newwin%25[[http://php.net/ |بي إتش بي]]%25%25 ، متاحة بحرية ، تحت الرخصة العمومية العامة ، ويمكن تحميلها من http://pmwiki.org/pub/pmwiki/.%0aهذا الموقع يستخدم نسخة {$Version}.%0aالوثائق متاحة من خلال فهرس الوثائق و بدون مقابل %0a%0aPmWiki هو علامة تجارية مسجلة ل[[http://www.pmichaud.com/ |Patrick R. Michaud]].%0a%0asandbox in Arabic: you can try editing in Arabic using sandbox page\\%0aيمكنك تجربة التحرير باللغة العربية في [[WikiSandbox| ساحة اللعب]]%0a%0a---
+time=1497808262

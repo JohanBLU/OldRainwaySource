@@ -1,0 +1,12 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=tout est à traduire
+ctime=1251081777
+description=Fonctions pour manipuler le texte, faire des calculs etc.
+name=PmWikiFr.MarkupExpressions
+rev=3
+targets=Category.UpdateMe,PmWiki.MarkupExpressions,PmWikiFr.DocumentationIndex
+text=(:title Expressions fonctionnelles:)(:description Fonctions pour manipuler le texte, faire des calculs etc.:)%0a(:ResteAFaire: tout est à traduire:)%0a%0aLa page est en cours d'aménagement. [[!UpdateMe]]%0a%0a[[PmWiki.MarkupExpressions|Version originale (en anglais)]].%0a%0a%0a%0a%0a%25trail%25 %3c%3c|[[DocumentationIndex|+]]|>>
+time=1315669216
+title=Expressions fonctionnelles

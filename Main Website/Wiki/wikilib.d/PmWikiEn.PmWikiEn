@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=simple version, to initiate translation
+name=PmWikiEn.PmWikiEn
+rev=6
+targets=
+text=(:Language:English:)%0a(:Summary:{$:Language}:)%0aPmWiki is a wiki-based system for collaborative creation and maintenance of websites.%0a%0aThe software is written in %25newwin%25[[http://php.net/|PHP]], freely available under the %25newwin%25[[http://www.gnu.org/copyleft/gpl.html|General Public License]] and may be downloaded from http://pmwiki.org/pub/pmwiki/. This site is running {$Version}. Documentation is available via the documentation index.%0a%0aPmWiki is a registered trademark of [[http://www.pmichaud.com/ | Patrick R. Michaud ]].%0a%0a
+time=1315671493

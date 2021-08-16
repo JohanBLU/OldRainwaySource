@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=fixing small errors
+ctime=1268341766
+name=PmWikiPtBr.DeletingPages
+rev=5
+targets=PmWiki.WikiAdministrator,Site.AllRecentChanges,PmWiki.EditVariables,Cookbook.DeleteAction,PmWikiPtBr.DocumentationIndex,Cookbook.RecentChangesDeletion
+text=(:title Excluindo Páginas:)%0a(:Summary: Como excluir uma página wiki.:)%0aPara deletar uma página, edite uma página, selecione (realce) todo o texto na área de edição de texto e substitua por uma simples palavra%0a%0a->[@delete@]%0a%0aNote que isso pode ser uma boa idéia para adicionar um comentário ao campo @@sumário@@%0aexplicando por que você deletou a página. (O campo @@summary@@ pode ser geralmente encontrado logo abaixo a área de edição de texto).%0a%0aApós salvar as alterações, a página é deletada. Como um função de segurança, a página deletada continuará existindo no servidor (com um timestamp) e pode ser restaurada para a página de formulário pelo [[PmWiki/wiki administrator]].%0a%0aSe você suspeitar que a página foi deletada mas não tem certeza, dê uma olhada no wikigrupo [=RecentChanges=]. Apague o contador de pagina e edite a página, depois, ative a gravação em [[{$SiteGroup}.AllRecentChanges]].%0a%0aA palavra padrão utilizada para a página de deleção ("delete") pode ser alterada no config.php por configuração da variável $DeleteKeyPattern (veja [[PmWiki/Edit Variables|Editando Variáveis]]). Se isso por um perigo para páginas de supressão maliciosas pode ser uma boa idéia alterar a palavra delete para qualquer uma outra mais "obscura". Também existe uma receita para a criação de uma ação separada de delete em Cookbook:DeleteAction.%0a%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Deletando grupos e categorias: Uma vez eu criando um grupo ou categoria, como eu posso excluir esse grupo ou categoria?%0aA: Um admin pode remover uma página não procurada de wiki.d/ . Normalmente, fazendo isso via wiki não resolve o problema, desde %0adoesn't resolve the problem, uma vez que conta como um "update" que faz com que a página RecentChanges volta a ser criada, mas é possível modificar a configuração do site para permitir a supressão de grupos da página RecentChanges -- veja Cookbook:RecentChangesDeletion.%0a
+time=1315670403
+title=Excluindo Páginas

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.44 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1352970406
+name=PmWikiBg.WikiTrails
+rev=1
+targets=PmWiki.WikiTrails
+text=[[PmWiki/WikiTrails|Тази страница на английски]]%0a%0aWikiTrails дава възможност на авторите да създават "линии" от страници, които се обхождат чрез връзки към "Предишна" - "Следваща" страница. За да направите това трябва да зададете рада на стръниците, като създадете нова страница "индекс на линията" и после сложите навигация на всяка от страниците от линията.%0a%0aПример:%0a%0a1) Страницата индекс на линията TrailIndexPage съдържа:%0a%0a[@%0a* [[MyTrailPage1]]%0a* [[MyTrailPage2]]%0a* [[MyTrailPage3]]%0a@]%0a%0a2) Във всяка от страниците MyTrailPage1, 2, и 3 се вмъква:%0a%0a[@%0a%3c%3c|[[TrailIndexPage]]|>>%0a@]%0a%0a%0a
+time=1352970406

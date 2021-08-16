@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+ctime=1156599460
+name=PmWikiZhTw.檔案上傳
+rev=5
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.Uploads]]:)%0a(:redirect PmWikiZhTw.Uploads:)
+time=1315680534

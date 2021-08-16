@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=use the French way: list both "Browse..." and "Bladeren..."
+ctime=1270659674
+name=PmWikiNl.UploadQuickReference
+rev=4
+targets=PmWiki.Uploads,PmWikiNl.UploadQuickReference
+text=(:Summary:Quick reference voor [[PmWiki/uploads|uploaden]] van pagina's:)%0a[[#quickreference]]%0a>>color:#000000 bgcolor:#f9f9f9 font-family:'Arial,sans-serif' font-size:12px padding:2px border:'1px solid #cccccc' class='quickref'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads]] '^(en)^''''%0a%0a# Gebruik de "Browse.../Bladeren..." knop hierboven om het "{(substr "$[File to upload:]" 0 -1)}" te vinden op je locale computer.%0a%0a# Definieer voor het veld "$[Name attachment as:]" de naam die het bestand zal krijgen eens verzonden naar de wiki site. [[%3c%3c]]Dit kan dezelfde bestandsnaam zijn als op je bronschijf, ''of het kan verschillend zijn'', %25bgcolor:yellow%25'''maar vergeet niet de korrekte bestandsextensie op te geven!'''%25%25.%0a%0a# Klik op "$[Upload]" om het bestand te verzenden.%0a%0a# Om te refereren naar een "bijlage" in een wiki pagina binnen deze "{*$Group}" wiki groep, gebruik de opmaak @@[=Attach:=]''bestandsnaam.ext''@@ in de paginatekst.%0a%0a# Na het verzenden kan je: %0a** %25item rel=nofollow class=browse    accesskey=$[ak_view]%25 [[{*$FullName}?action=browse | De pagina {*$Name} $[View]en]] of%0a** %25item rel=nofollow class=edit      accesskey=$[ak_edit]%25 [[{*$FullName}?action=edit   | De pagina {*$Name} $[Edit]en]] of%0a** Naar beneden scrollen, om de lijst van bijlagen te bekijken van wiki groep "{*$Group}".%0a>>%3c%3c%0a[[#quickreferenceend]]%0a%0a----%0a%0a!! Huidige bijlagen%0a>>font-size:smaller%3c%3c%0a(:attachlist:)%0a>>%3c%3c
+time=1315670189

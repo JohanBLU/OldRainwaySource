@@ -1,0 +1,11 @@
+version=pmwiki-2.2.99 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=enhenced hints
+ctime=1267608577
+name=PmWikiDe.PageNotFound
+rev=4
+targets=PmWikiDe.PageNotFound,PmWikiDe.PmWikiDe,PmWiki.PmWiki
+text=(:title Die Seite wurde nicht gefunden:)%0a(:Original_Page: Site.{$name}:)%0a(:Translation_Date: 2011-05-14:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Formular Element:)%0a(:Summary: Angezeigte Seite, wenn PmWiki die aufgerufene Seite nicht finden kann:)%0a(:nolinkwikiwords:)%0a(:if name PmWikiDe.PageNotFound:)%0a>>frame%3c%3c%0a-> %25green font-style:italic%25 Diese Seite enthält den Text, der angezeigt wird, wenn PmWiki die gewünschte Seite nicht finden kann.  Administratoren können diese Seite ändern, um die Nachricht zu ändern.\\%0aWenn in PmWikiDe.XLPage die Zeile [@%0a   '{$SiteGroup}.PageNotFound' => 'PmWikiDe.PageNotFound',@]%0a->%25green font-style:italic%25enthalten ist (standardmäßig der Fall) und die Site auf deutsch eingestellt ist, wird diese Seite automagisch an Stelle der Seite Site.PageNotFound angezeigt.%0a>>%3c%3c%0a(:ifend:)%0a%0a(:if !group Category:)%0aDie Seite "{$RequestedPage}" existiert nicht.  %0a(:ifend:)%0a(:if auth edit:)%0a* %25rel=nofollow%25 [[{*$FullName}?action=edit | Erzeuge "{*$FullName}"]]. %0a(:ifend:)%0a%0a(:if equal {*$Name} {$DefaultName} :)%0a* [[{$ScriptUrl}?action=search&q={*$Groupspaced} | Durchsuche die Site nach "{*$Groupspaced}"]].%0a(:else:)%0a* [[{$ScriptUrl}?action=search&q=link={*$FullName} | Liste Rückverweise auf diese Seite auf]].%0a* [[{$ScriptUrl}?action=search&q={*$Namespaced} | Durchsuche Site nach "{*$Namespaced}"]].%0a(:ifend:)%0a* [[{$Group}/|Wechsle zur Startseite von "{$Group}"]].%0a* [[{$DefaultGroup}/|Wechsle zur Startseite dieser Site]].%0a
+time=1499862221
+title=Die Seite wurde nicht gefunden

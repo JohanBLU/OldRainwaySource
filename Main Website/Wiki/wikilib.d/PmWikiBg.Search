@@ -1,0 +1,10 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=UpdateMe
+ctime=1263166321
+name=PmWikiBg.Search
+rev=3
+targets=Category.UpdateMe
+text=(:searchbox:)%0a%0a(:searchresults:)%0a[[!UpdateMe]]
+time=1321206710

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=
+ctime=1205731449
+name=PmWikiPtBr.RecentChangesShort
+rev=2
+targets=
+text=(:include PmWikiPtBr/RecentChanges lines=60:)
+time=1315670403

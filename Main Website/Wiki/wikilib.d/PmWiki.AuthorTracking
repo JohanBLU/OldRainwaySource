@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=no trail
+name=PmWiki.AuthorTracking
+rev=12
+targets=Profiles.Pm,Site.AllRecentChangesPerAuthor,PmWiki.Links,PmWiki.PageHistory,Profiles.HomePage,PmWiki.RecentChanges,PmWiki.WikiGroup
+text=(:Summary: Deprecated, see [[Site/All Recent Changes Per Author]] :)%0a%25note%25 Deprecated page for 2.0.0.  --[[~Pm]]%0a->%25note%25 [-see [[Site/All Recent Changes Per Author]]-]%0a%0a%0a%0aPmWiki versions 0.6 and later provide support for tracking authors of edits.  By default the edit form provides an "Author:" field where a person editing a page can record his/her name with the edit being performed.  Author names are limited to letters, numbers, underscores, and hyphens--basically the same characters allowed in [[Links]].  Authorship of edits can then be viewed via the [[PageHistory]] command for any page.%0a%0aWithin the [[RecentChanges]] pages, author names become links to "[[Profiles|profile pages]]" where authors can store information about themselves.  By default these pages are stored in the "Profiles/" [[Wiki Group]], but this can be changed by a site administrator to be a different group by setting the $AuthorGroup variable in ''config.php''.%0a%0aOne can use the [=[[~name]]=] markup to refer to an author's profile page.%0a%0aAs distributed, author names in PmWiki are optional--i.e., a user is not required to supply an author name with an edit.  A site administrator can change this behavior via the $EnablePostAuthorRequired variable.%0a
+time=1315670897

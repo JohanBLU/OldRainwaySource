@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiVi.TimKiemWiki
+rev=3
+targets=
+text=(:searchbox:)%0a%0a(:searchresults:)%0a%0aHãy nhập trên chuỗi bạn muốn tìm kiếm. Trang kết quả sẽ hiển thị tất cả những trang chứa toàn chuỗi bạn nhập. Để tìm kiếm cụm từ, hãy vây quanh toàn cụm từ bằng dấu trích dẫn.%0a%0aĐể giới hạn việc tìm kiếm ở trong một nhóm Wiki riêng lẻ, hãy nhập tên nhóm, với chéo theo mà bắt đầu chuỗi tìm kiếm (v.d. "[=PmWiki/=]" or "Chính/"). Để liệt kê mọi trang, hãy nhập chéo là chuỗi tìm kiếm.%0a%0a!!!Lời thí dụ tìm kiếm%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Nhập'''    ||'''Để tìm các trang chứa''' ||%0a||bản đồ      ||cả « bản » lẫn « đồ » đều ||%0a||"bản đồ"    ||cụm từ « bản đồ » ||%0a||pmwiki/bản   ||« bản » trong nhóm [=PmWiki=] ||%0a||"pmwiki/bản" ||cụm từ « pmwiki/bản » trong mọi nhóm ||%0a||bản -đồ     ||« bản », bỏ các trang chứa « đồ » ||%0a||phố -"bản đồ" ||« phố », bỏ các trang chứa « bản đồ » ||%0a||bản "-đồ"   ||những từ « bản » và « -đồ » ||%0a||bản - đồ   ||« bản », « - » và « đồ » ||
+time=1315680534

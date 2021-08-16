@@ -1,0 +1,11 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Update of translation
+ctime=1173023178
+name=PmWikiDe.WikiPage
+rev=12
+targets=PmWikiDe.WikiWikiWeb,Cookbook.EditTemplates,PmWikiDe.WikiStructure,PmWikiDe.WikiGroup
+text=(:title Wiki-Seite:)%0a(:Summary: Erklärung Wiki-Seite:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2008-03-10:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Grundlagen:)%0a%0aEine Wiki-Seite ist einfach der Grundbaustein eines [[WikiWikiWeb|+]] und enthält Text und Bilder.%0a%0aWikiseiten können eine Vorlage haben, die eine Anfangsinhalt vordefiniert, siehe [[Cookbook:Edit Templates]] [-(auf englisch) {Cookbook/EditTemplates$:Summary}-]%0a%0aWikiseiten werden in individuellen Textdateien gespeichert.%0a%0aWeitere Information darüber bei [[WikiStructure|+]], [[WikiGroup|+]] und [[WikiWikiWeb|+]]. %0a%0a
+time=1458256382
+title=Wiki-Seite

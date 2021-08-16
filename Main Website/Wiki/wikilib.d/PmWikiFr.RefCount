@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=lionela
+charset=UTF-8
+csum=dans l'ordre (+syntaxe des fermes)
+ctime=1144176465
+name=PmWikiFr.RefCount
+rev=7
+targets=PmWikiFr.WikiWord,PmWikiFr.Links,PmWikiFr.RefCount,PmWikiFr.IndexDocAdmin
+text=(:title Recherche références:)%0aLe script refcount compte les références sur les pages de la base PmWiki. Une Référence est un [[MotWiki->WikiWord]] ou un [[lien->Links]].%0a%0aPour activer et utiliser refcount :%0a%0a1 - placer la ligne suivante dans votre fichier de configuration ''local/config.php'' :\\%0a[=include_once("$FarmD/scripts/refcount.php");=]%0a%0a2 - ajouter @@?action=refcount@@ à l'URL d'une page wiki quelconque pour appeller le formulaire de comptage.\\%0aPar exemple:%0a%0a[[RefCount?action=refcount]]%0a%0aLe formulaire refcount comporte les éléments suivants:%0a*'''Show''' ~ Ceci sélectionne les pages qui apparaîtront sur la sortie.%0a**all ~ Montre toutes les références.%0a**missing ~ Montre seulement les références aux pages qui n'existent pas.%0a**existing ~ Montre seulement les références aux pages qui existent.%0a**orphaned ~ Montre les pages existantes mais non référençées. On ne peut pas arriver sur une page orpheline.%0a*'''page names in group''' ~ Sélectionne le/les groupe(s) dans lesquelles peuvent être les pages référençées.%0a*'''referenced from pages in''' ~ Sélectionne le/les groupe(s) dans lesquelles peuvent être les pages appellantes.%0a*'''Display referencing pages''' ~ Inclut un lien à la page appellante \\%0a~ Ceci peut créer une très grande sortie si vous ne limitez pas le nombre de groupes de recherche.%0a%0aLa sortie est une table ou chaque ligne contient un nom de page ou un lien, le nombre de pages (Sans les pages de changement récents) qui contiennent les liens sur la page, le nombre de pages de changement récent qui référencent la page, et le nombre total de références dans toutes les pages.%0a%0a%0a----%0a%25trail%25%3c%3c|[[Index doc admin]]|>>
+time=1315669216
+title=Recherche références

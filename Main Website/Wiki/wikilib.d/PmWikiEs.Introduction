@@ -1,0 +1,10 @@
+version=pmwiki-2.2.120 ordered=1 urlencoded=1
+author=Simeons
+charset=UTF-8
+csum=
+ctime=1571187052
+name=PmWikiEs.Introduction
+rev=1
+targets=
+text=PmWiki es un wiki escrito en PHP basada en la creación y mantenimiento de sitios web de colaboración. Sus páginas parecen y actúan como las páginas web normales, excepto que tienen un "Editar vínculo" que hace que sea fácil de modificar páginas existentes y agregar nuevas páginas en el sitio web, el uso de edición básicas reglas. Usted no necesita saber o usar ninguna de HTML o CSS. Edición de páginas puede dejarse abierta al público o restringida a pequeños grupos de autores.%0a%0aEvidentemente, la opción de edición se puede restringir a un grupo cerrado, incluso puedes proteger el acceso a parte de la web, o páginas individuales, sin necesidad de editar el .htaccess, de eso se encarga PmWiki.
+time=1571187052

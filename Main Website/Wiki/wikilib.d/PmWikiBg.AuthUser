@@ -1,0 +1,11 @@
+version=pmwiki-2.2.43 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1348235005
+name=PmWikiBg.AuthUser
+rev=1
+targets=PmWikiBg.Passwords
+text=(:title Система за защита :)%0a%0aAuthUser е системата за защите в PmWiki с помощта на потребителски имена и пароли. AuthUser е в добавка към вгрдената [[Passwords|защита с пароли]], която е налична по подразбиране.%0a%0a...%0a%0aИма още за превеждане!
+time=1348235005
+title=Система за защита 

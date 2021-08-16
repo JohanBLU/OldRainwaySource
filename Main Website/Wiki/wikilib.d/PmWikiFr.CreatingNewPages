@@ -1,0 +1,12 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1143989448
+description=Comment ajouter des pages au site wiki
+name=PmWikiFr.CreatingNewPages
+rev=19
+targets=PmWikiFr.Links,PmWikiFr.WikiSandbox,PmWikiFr.MaNouvellePage,PmWiki.HomePage,PmWikiFr.DocumentationIndex
+text=(:title Créer de nouvelles pages:)(:description Comment ajouter des pages au site wiki:)%0a%25audience%25 Auteurs (basique)%25%25%0a%0aPour créer une nouvelle page, modifiez une page existante et ajoutez-y un [[Links|lien]] vers la page que vous voulez créer, par exemple, [[Ma nouvelle page]]. ([[{$DefaultGroup}.{$DefaultName}]] et le [[WikiSandbox|bac à sable]] sont de bonnes pages pour mettre vos premiers liens.)%0a%0aPuis, après avoir enregistré la page existante, cliquez sur votre nouveau lien pour faire apparaître le formulaire d'édition. Entrez le texte de votre nouvelle page, cliquez sur $[Save], et voilà !%0a%0aUne autre manière de créer une nouvelle page : dans la barre d'adresse de votre navigateur, remplacez le nom de la page courante par le nom que vous souhaitez créer, et appuyez sur 'Entrée' ou allez à cette nouvelle adresse.%0aCeci vous mènera vers une nouvelle page avec le texte "Décrire %3cnom de page> ici". Cliquez sur lien "Éditer" pour éditer et enregistrer votre nouvelle page.%0a%0aL'inconvénient de cette méthode est que la nouvelle page est orpheline et personne d'autre que vous ne peut la visiter. C'est pourquoi, ajouter un lien dans une page existante, est un meilleur moyen de créer une page.%0a%0aEmployez des mots descriptifs clairs pour nommer vos nouvelles pages afin de rendre le contenu évident aux utilisateurs.%0a----%0a%25trail%25%3c%3c|[[PmWikiFr.DocumentationIndex|+]]|>>%0a%0a%0a>>faq%3c%3c [[#faq]]%0aQ: Comment créer une nouvelle page?%0aA: Ajoutant [=[[ma nouvelle page]]=] dans une page existante crée un lien vers la nouvelle page. %0a%0a
+time=1329378277
+title=Créer de nouvelles pages

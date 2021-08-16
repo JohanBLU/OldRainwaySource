@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=zakomentovanie poznámky
+ctime=1165864001
+name=PmWikiSk.Terminology
+rev=4
+targets=PmWikiDe.Terminologie
+text=(:title Terminológia:)%0a(:if false:)Tento súbor je šablóna obsahujúca zoznam aktuálnych prekladov slov v lokálnom jazyku.\\%0aProsím nezadávajte ''preložené'' slová tu, ale urobte kópiu tohto súboru vo vašej lokálnej jazykovej skupine napr. [[PmWikiDe.Terminologie]] .%0a(:ifend:)%0aMimochodom, do tohoto zoznamu možno pridať bežné anglické slová užitočné pre preklad.\\%0aTento zoznam je vytvorený hlavne s úmyslom mať spoločnú terminológiu pre názvy stránok v danom jazyku. Môže byť rozšírený pre širšie využitie.%0a%0aMôže to byť aj miesto pre diskusiu o prekladateľských záležitostiach v každom jazyku.%0a%0a||border=1%0a||Advanced ||Pokročilý ||%0a||Administrator ||Administrátor, Správca ||%0a||Author ||Autor ||%0a||Cookbook ||Kuchárska kniha ||%0a||Customization ||Prispôsobenie ||%0a||Directives || ||%0a||Footer ||Päta ||%0a||Form ||Formulár ||%0a||Header ||Hlavička ||%0a||Layout || ||%0a||Mail ||Pošta ||%0a||Mailpost || ||%0a||Mailing lists ||Mailové konferencie ||%0a||Markups || ||%0a||Pattern ||Vzor ||%0a||Script ||Skript ||%0a||Skins ||Témy vzhľadu ||%0a||Style ||Štýl ||%0a||Template files\\%0a(files .tmpl)||Súbory šablón\\%0a(súbory .tmpl) ||%0a||Turn on/off ||Zapnúť/Vypnúť ||%0a||Upload || ||%0a||Variables ||Premenné ||
+time=1315672569
+title=Terminológia

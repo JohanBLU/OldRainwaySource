@@ -1,0 +1,11 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=changed summary
+ctime=1305148903
+name=PmWikiDe.SiteAnalyzer
+rev=8
+targets=PmWiki.AnalyzeResults,PmWikiDe.SiteAnalyzer,PmWikiDe.GroupCustomizations,Cookbook.RecipeCheck,Category.Security
+text=(:title Site-Analysierer:)%0a(:Summary: Analyse der Sicherheit der Site und Angabe der Software-Version:)%0a(:Original_Page: PmWiki.{$Name} :)%0a(:Translation_Date: 2011-05-11:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren (Fortgeschrittene), Entwickler und Administratoren:)%0a%0a(:Version: 2007-02-16:)%0a(:input form method='post' action='{$PageUrl}':)%0a:URL der PmWiki-Site, die analysiert werden soll:(:input text name='baseurl' size=50:)%0a:Analyze-Schlüssel (key):(:input text name='key':)%0a(:input checkbox name='enablesave':) Erlaube pmwiki.org, eine Kopie des [[PmWiki/AnalyzeResults|Analyse-Ergebnisses]] zu speichern\\%0a(:input submit value='Analyze Site':)%0a(:input form end:)%0a%0a>>border="1px solid #cccccc" margin="0px 40px" font-size:smaller%3c%3c%0aTips:%0a* Geben Sie den vollen URL zu PmWiki ein -- ''http://example.com/pmwiki/pmwiki.php''%0a* Versichern Sie sich, dass Ihr Analyse-Schlüssel keine Leerzeichen enthält%0a* Versichern Sie sich, dass das "analyze.php"-Skript lesbar ist (Rechte)%0a* Beachten Sie, dass Sie den  [[Site Analyzer|Site-Analysierer]] nur für eine Seite aktivieren, nutzen Sie dazu  [[GroupCustomizations | per page customization]].%0a* Wenn Sie keine sichtbare URL haben, versuchen Sie [[Cookbook:RecipeCheck]].%0a>>%3c%3c%0a%0a----%0a(:analyze:)%0a%0a----%0a%0a[[!Security]]%0a%0a
+time=1459325834
+title=Site-Analysierer

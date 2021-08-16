@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=PHP 4.3 is now minimum requirement
+ctime=1144003047
+name=PmWikiFr.Requirements
+rev=6
+targets=Cookbook.Standalone,PmWikiFr.IndexDocAdmin
+text=(:title Besoins système:)%0a%25audience%25 administrateurs (basique)%0aUne des caractéristiques les plus appréciables de PmWiki est son bas niveau d'exigence en ressource système. PmWiki nécessite juste un serveur web capable de faire fonctionner une version de PHP 4.3 ou supérieure. %0a%0aPmWiki ne requiert pas :%0a* de base de données SQL ou autre%0a* l'utilisation de CGI ou l'autorisation d'utiliser des scripts CGI%0a%0aIl peut fonctionner avec PHP installé en 'safe mode'.%0a%0aPmWiki a été testé et fonctionne sur les combinaisons OS/webserver suivantes:%0a* Apache 1.3 or 2.0, sur pratiquement n'importe quel système (Unix, Linux, Windows, et Mac OS/X)%0a* Microsoft Internet Information Server (IIS), sur Windows%0a%0a* J'ai réussi à le faire fonctionner sur appWeb (un tout petit serveur web, validé pour le php) exécuté sur un système de stockage matériel Linksys `NSLU2 (tournant sous Unslung 5.5 beta qui est un dérivé Linux pour les systèmes embarqués). Doit encore voir pourquoi l'envoi de fichier ne fonctionne pas. --Hans-Göran Puke%0a%0aPmWiki a été testé et ne fonctionne pas sur :%0a* `MacOS 8.6 (ceci est une information de seconde main et une rumeur, qui doit être confirmée)%0a* `MacOS 9%0a%0aLa recette [[(Cookbook:)Standalone]] fournit un serveur web special de base qui peut faire fonctionner PmWiki là où on ne trouve pas d'autre serveur web.%0a%0a----%0a%25trail%25%3c%3c|[[Index doc admin]]|>>
+time=1315669216
+title=Besoins système

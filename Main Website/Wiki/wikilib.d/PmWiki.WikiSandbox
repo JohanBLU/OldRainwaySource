@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=revert sandbox
+name=PmWiki.WikiSandbox
+rev=8
+targets=
+text=(:redirect Main.WikiSandbox:)%0a
+time=1315670897

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to local translation
+ctime=1270161101
+name=PmWikiVi.Search
+rev=3
+targets=
+text=(:Summary: Redirects to [[PmWikiVi/TimKiemWiki]]:)%0a(:redirect PmWikiVi/TimKiemWiki:)
+time=1315680534

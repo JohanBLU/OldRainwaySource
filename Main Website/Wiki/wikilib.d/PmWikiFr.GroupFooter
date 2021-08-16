@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1141423409
+name=PmWikiFr.GroupFooter
+rev=35
+targets=PmWikiFr.GroupFooter,PmWiki.GroupFooter
+text=----%0a%25trad%25 [==]%0a(:if exists PmWiki.{*$Name}:)%0aTraduction de [[(http://www.pmwiki.org/wiki/)PmWiki.{*$Name}]] %0a(:ifend:)%0aPage originale sur [[(http://www.pmwiki.org/wiki/){*$FullName}]] - [[$[Backlinks]->{*$FullName}?action=search&q=link={*$FullName}&fmt=title]]\\%0a(:if (equal "{*$ScriptUrl}" "http://pmwiki.org/wiki") or (equal "{*$ScriptUrl}" "http://www.pmwiki.org/wiki"):)%0aDernières modifications:\\%0a[[{*$FullName}]]: {*$LastModified}\\%0a(:if exists PmWiki.{*$Name}:)%0a[[PmWiki.{*$Name}]]: {PmWiki.{*$Name}$LastModified}%0a(:if:)%0a
+time=1315669216

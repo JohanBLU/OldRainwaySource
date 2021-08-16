@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+name=PmWikiZhTw.文字格式
+rev=10
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.WikiStyles]]:)%0a(:redirect PmWikiZhTw.WikiStyles:)
+time=1315680534

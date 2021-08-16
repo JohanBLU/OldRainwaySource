@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Restore
+charset=UTF-8
+name=PmWiki.SearchForPages
+rev=5
+targets=PmWiki.Directives,Profiles.Radu
+text=%25note%25I looked around a lot till I figured out that all I needed in order to better describe searchresults was to suggest that people look up from searchresults to pagelist on the [[Directives]] page; see, I was looking specifically for searchresults, and couldn't figure out the use of the arguments :( If this page is redundant, maybe we should remove it - otherwise I could try to add more to it. -[[~Radu]] March 11, 2005, at 01:39 PM%0a%0aThis page describes how you can use the [=(:searchresults:)=]-directive to insert a list of other pages into the current wiki page as it is shown. There are lots of possible uses for this directive. %0a%0a!!!Included Searches%0a%0a[=(:searchresults SearchString:)=]%0a%0aDumps exactly what you would get out of a search for `SearchString and consumes the directive text.%0a%0a[=(:searchresults group=GroupName SearchString:)=]%0a%0aLimits the search to a specific group.%0a%0a[=(:searchresults list=normal SearchString:)=]%0a%0aExcludes some special pages from the search results (currently `RecentChanges, `GroupHeader, `GroupFooter and `GroupAttributes)%0a%0a[=(:searchresults fmt=simple SearchString:)=]%0a%0aRemoves the hierarchical display by group and lists pages' full names, as in `GroupName.PageName%0a%0a'''Note''': Any combination of the above should work as well.%0a%0a!!!Discussion%0a%0a!!!Security%0a%0a!!!Contributors%0a
+time=1315670897

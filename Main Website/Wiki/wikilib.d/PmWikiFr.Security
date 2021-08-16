@@ -1,0 +1,12 @@
+version=pmwiki-2.2.61 ordered=1 urlencoded=1
+author=StefCT
+charset=UTF-8
+csum=despam
+ctime=1143994407
+description=Mots de passe, utilisateurs bloqués, etc.
+name=PmWikiFr.Security
+rev=10
+targets=PmWikiFr.Passwords,PmWikiFr.PasswordsAdmin,PmWikiFr.UrlApprovals,PmWikiFr.ListeDeBlocage,Cookbook.Cookbook,Cookbook.Blocklist2,Cookbook.MTBlackList,Cookbook.WebServerSecurity,Cookbook.FarmSecurity,Cookbook.EProtect,Cookbook.AuditImages,PmWikiFr.DocumentationIndex
+text=(:title Sécurité:)(:description Mots de passe, utilisateurs bloqués, etc.:)%0a(:ResteAFaire:Page à revoir, la V.O. est très longue:)%0a%0a*[[Passwords|+]]%0a*[[PasswordsAdmin|+]]%0a*[[UrlApprovals|+]] - requiert une approbation des liens%0a%0a*[[Liste de blocage]] - bloque les envois au vu des IP ou du contenu%0a%0aPages du Cookbook (en anglais)%0a* Voir aussi [[Cookbook:Cookbook#Security | Cookbook index: Security]]%0a*[[Cookbook:Blocklist2]] bloque les envois au vu des IP ou du contenu%0a*[[Cookbook:MTBlackList]] blacklist anti spam mobile%0a*[[Cookbook:WebServerSecurity]] Améliorer la sécurité du serveur avec  .htaccess%0a*[[Cookbook:FarmSecurity]] Améliorer la sécurité des fermes Wiki%0a*[[Cookbook:EProtect]] Cacher une adresse courriel%0a*[[Cookbook:AuditImages]] Vérifier les images qui ont été envoyées sur le wiki.%0a%0a----%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a
+time=1392382798
+title=Sécurité

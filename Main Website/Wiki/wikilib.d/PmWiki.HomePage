@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Dfaure
+charset=UTF-8
+csum=
+ctime=1315807443
+name=PmWiki.HomePage
+rev=1
+targets=
+text=(:redirect PmWiki.PmWiki quiet=1:)
+time=1315807443

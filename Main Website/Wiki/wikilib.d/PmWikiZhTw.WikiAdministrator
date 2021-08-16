@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=bigpoon
+charset=UTF-8
+csum=
+ctime=1274067646
+name=PmWikiZhTw.WikiAdministrator
+rev=7
+targets=PmWikiZhTw.Installation,PmWikiZhTw.InitialSetupTasks,PmWiki.DocumentationIndex,PmWiki.AdminTask,PmWiki.Security,PmWiki.Audiences
+text=(:title 維基管理員:)  %0a維基管理員是負責管理及安裝Wiki系統的某人 (或多人) 。PmWiki 的設計，將[[installation|安裝]] 至 [[initial setup tasks|初始運行]]盡量簡化。同時，PmWiki也保持足夠的彈性，所以即使維基管理員沒有很多 HTML, PHP, 甚至 web 服務器軟件方面的知識，也能完成管理，並自定其特殊的需求。%0a%0a請參見 [[PmWiki.documentation index]] 頁面有關PmWiki的管理的更多資訊。%0a另外， [[PmWiki:AdminTask|administration tasks]]、[[PmWiki/security]]、[[PmWiki.audiences]] 頁面提供更詳細的資訊。%0a
+time=1315680534
+title=維基管理員

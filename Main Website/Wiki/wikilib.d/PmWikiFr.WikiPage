@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1144510559
+name=PmWikiFr.WikiPage
+rev=3
+targets=PmWikiFr.WikiPage,PmWikiFr.WikiWikiWeb,PmWikiFr.WikiStructure
+text=(:title Page Wiki:)%0aUne [[page Wiki->WikiPage]] est simplement la brique de base d'un [[WikiWikiWeb]] contenant du texte et des images. Voir [[WikiStructure]]s et WikiWikiWeb pour plus d'informations.%0a%0a---- %0a%25trail%25%3c%3c|PmWikiFr.IndexDocumentation|>>
+time=1315669216
+title=Page Wiki

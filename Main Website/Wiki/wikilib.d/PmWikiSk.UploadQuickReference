@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=upravený preklad
+ctime=1166117020
+name=PmWikiSk.UploadQuickReference
+rev=3
+targets=PmWiki.Uploads,PmWikiSk.UploadQuickReference
+text=>>class='quickref' color=#000000 bgcolor=#f9f9f9 font-family='Arial,sans-serif' font-size=12px padding=2px border='1px solid #cccccc'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads | Nahratia súborov]]'''\\%0a1. Použijte tlačidlo "Prehliadať" vyššie pre nájdenie "Súboru pre nahratie" na vašom lokálnom počítači.%0a%0a2. Pre pole "Pomenovať prílohu ako:", zadajte názov ktorý by ste chceli dať súboru, keď už bude nahratý na server. Ten môže byť rovnaký ako jeho názov súboru na vašom zdrojovom disku ''alebo môže byť iný'', ale uistite sa, že má správnu príponu súboru.%0a%0a3. Stlačte "$[Upload]" pre nahratie súboru na server.%0a%0a4. Pre odkazovanie na prílohu vo wiki stránke v tejto `WikiSkupine {$Group}, jednoducho zadajte @@[=Attach:=]''nazovsuboru.pripona''@@ do textu stránky.%0a%0a5. Po nahratí, môžete %0a**[[{*$Name}?action=browse | Zobraziť stránku {*$Name}]] alebo%0a** [[{*$Name}?action=edit | Upraviť stránku {*$Name}]] alebo%0a**Rolovať dole pre zobrazenie zoznamu súborov, ktoré boli nahraté do `WikiSkupiny {*$Group}.%0a>>%3c%3c%0a%0a----%0a%0a!!Existujúce nahraté súbory%0a%0a(:attachlist:)
+time=1315672569

@@ -1,0 +1,7 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Antony Templier
+charset=UTF-8
+name=PmWikiFr.WikiUtilisateurs
+rev=6
+text=Les [=WikiUtilisateurs=] sont les utilisateurs actifs du wiki. Voir [[Audiences]].
+time=1315669216

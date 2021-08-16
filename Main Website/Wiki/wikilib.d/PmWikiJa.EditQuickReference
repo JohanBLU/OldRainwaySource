@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiJa.EditQuickReference
+rev=10
+targets=PmWikiJa.テキストフォーマットルール,PmWiki.TipsForEditing
+text=(:table width='100%25' cellspacing='0' cellpadding='0':)%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' colspan='2':)%0a%25target=_blank%25 [[PmWikiJa/テキストフォーマットルール]] - [[PmWiki/TipsForEditing]] \\%0a'''パラグラフ:''' 新しいパラグラフにするには、''リターン''キーを二回押す; インデント(字下げ)は[=->=]を使用 \\%0a'''リスト:''' * 箇条書き, # 数字リスト, :用語:定義 定義リスト \\%0a'''強調:''' [=''イタリック''=], [='''太字'''=], [='''''太字イタリック'''''=], [=@@タイプライター@@=] (monospaced) \\%0a'''リンク:''' [=[[他のページ]]=], [=[[http://www.example.com]]=], or `JoinCapitalizedWords \\%0a'''グループ:''' [=[[Group/Page]]=] Pageを表示, [=[[Group.Page]]=] Group.Pageを表示%0a(:cellnr style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd':)%0a'''セパレータ:''' !, !!, !!! ヘッダ, [=----=] 水平線 \\%0a'''サイズ変更:''' [=[+...+]=] 大きく, [=[-...-]=] 小さく%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' :)%0a'''フォーマットしない:''' [=[=...=]=] \\%0a'''ラインブレイク:''' [=\\=] or [=[[%3c%3c]]=]%0a(:tableend:)%0a
+time=1315680534

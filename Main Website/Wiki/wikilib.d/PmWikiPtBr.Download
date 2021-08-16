@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=translate links to Release Notes and Change Log
+ctime=1205737474
+name=PmWikiPtBr.Download
+passwdedit=$1$EoEKpMGX$LP8TEckJt0vsPpYlYguAB0
+rev=8
+targets=PmWikiPtBr.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.Subversion,Cookbook.Standalone
+text=(:Summary: Download para as versões atuais do PmWiki:)%0aVersões antigas e atuais do [=PmWiki=] estão disponíveis para download em [[http://pmwiki.org/pub/pmwiki/]].%0a%0a%0a!! [-Links Diretos-]%0a{$Version}:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0aSe você está iniciando no uso do PmWiki recomendamos o uso da versão acima.%0a%0aÚtimo lançamento ''stable/estável'':%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0aPacote com tradução para outras linguas :%0a* [[http://pmwiki.org/pub/pmwiki/i18n/]]%0a%0a!! [-Páginas relacionadas-]%0a* [[PmWikiPtBr.Installation|+]] - {Installation$:Summary}%0a* [[PmWiki.Upgrades]] '^(en)^' - {Upgrades$:Summary}%0a** [[PmWiki.Release Notes| Notas de lançamento]] '^(en)^' - {PmWiki/ReleaseNotes$:Summary}%0a** [[PmWiki.Change Log| Log de Alteração]] '^(en)^' - {PmWiki/ChangeLog$:Summary}%0a* [[PmWiki:Subversion]] '^(en)^' - {PmWiki/Subversion$:Summary}%0a* [[Cookbook:Standalone]] '^(en)^' - {Cookbook/Standalone$:Summary}%0a
+time=1315670403

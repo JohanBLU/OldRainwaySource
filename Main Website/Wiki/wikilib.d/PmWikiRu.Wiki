@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=
+ctime=1190057234
+name=PmWikiRu.Wiki
+rev=3
+targets=
+text=dddd
+time=1315680534

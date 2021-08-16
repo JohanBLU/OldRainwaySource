@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petr Novotný
+charset=UTF-8
+csum=
+ctime=1188110709
+name=PmWikiCs.GroupHeader
+rev=2
+targets=
+text=%25define=trail bgcolor=#eee block%25%25define=note font-style=italic color=green%25%25define=important block bgcolor=#fcc border='1px solid black' padding=5px%25%25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc%25(:comment please leave the multiple style definitions concatenated as a single line.  Linebreaks do appear in the output when the wiki is configured with linebreaks enabled -- thanks!:)
+time=1315668571

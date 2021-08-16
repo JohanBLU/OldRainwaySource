@@ -1,0 +1,10 @@
+version=pmwiki-2.2.120 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1573063712
+name=PmWiki.Chat
+rev=10
+targets=
+text=IRC Channel: #pmwiki on irc.freenode.net.%0a
+time=1573814584

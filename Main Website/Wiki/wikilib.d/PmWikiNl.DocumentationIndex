@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=change translation BasicEditing
+ctime=1155041733
+name=PmWikiNl.DocumentationIndex
+rev=13
+targets=PmWikiNl.Introduction,PmWikiNl.BasicEditing,PmWikiNl.CreatingNewPages,PmWikiNl.Links,PmWikiNl.Images,PmWikiNl.TextFormattingRules
+text=(:title Documentatie index:)(:Summary: PmWiki documentatie index:)%0a%25green%25Er is nog geen complete Nederlandse documentatie. Deze index zal groeien naarmate meer pagina's zijn vertaald. Voor een volledig overzicht raadpleeg de Engelse versie%25%25 [[PmWiki:DocumentationIndex | hier]].%0a%0aDe pagina's hieronder beschrijven de verschillende aspecten voor [[#using|gebruik]], [[#admin|beheer]] en [[#troubleshoot|probleemoplossing]] van een PmWiki installatie, alsmede aspecten van de [[#misc|PmWiki gemeenschap]].%0a%0aZoals je weet is documentatie ''altijd'' onvolledig. %0aVoel je vrij om ook een bijdrage te leveren en hierdoor jezelf en anderen te helpen.  %0aBewerk gewoon de documentatie pagina's op %25newwin%25[[PmWiki:DocumentationIndex|pmwiki.org]]%25%25 '^(en)^'.  %0aAls je kan graag de %25newwin%25[[PmWiki:DocumentationGuidelines | documentatie richtlijnen]]%25%25 '^(en)^' volgen of ook hieraan bijdragen.%0a----%0a[[#trailstart]]%0a* [[Introduction|+]]   %25item comment%25%0a%0a!! [[#using]] Aanmaken en bewerken van pagina's voor beginners%0a%0a* [[Basic editing|Basisbewerkingen]] - {BasicEditing$:Summary}%0a* [[Creating new pages|+]]       - {CreatingNewPages$:Summary}%0a* [[Links|+]]                    - {Links$:Summary}%0a* [[Images|+]]                   - {Images$:Summary}%0a* [[Text formatting rules|+]]    - {TextFormattingRules$:Summary}%0a[[#trailend]]%0a%0a%0a
+time=1315670189
+title=Documentatie index

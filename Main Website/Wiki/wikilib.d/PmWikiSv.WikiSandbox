@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add small Swedish text
+ctime=1270975054
+name=PmWikiSv.WikiSandbox
+rev=3
+targets=
+text=För att testa textformatering, klickar du på '''Redigera'''%0a----%0a
+time=1315670581

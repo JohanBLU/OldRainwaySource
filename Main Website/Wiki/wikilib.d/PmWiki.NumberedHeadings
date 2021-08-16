@@ -1,0 +1,12 @@
+version=pmwiki-2.2.122 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=redirect to TableOfContents, for searches
+ctime=1574774085
+keywords=number headers sections
+name=PmWiki.NumberedHeadings
+rev=2
+targets=PmWiki.TableOfContents
+text=(:redirect TableOfContents:)%0aSummary: Redirects to [[Table of contents]].%0a%0a(:title Numbered headings:)%0a(:keywords number headers sections:)%0a
+time=1574774169
+title=Numbered headings

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=pridaný lokalizovaný titulok
+ctime=1165860132
+name=PmWikiSk.PageNotFound
+rev=3
+targets=PmWikiSk.PageNotFound
+text=(:title Stránka nebola nájdená:)%0a(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound:)%0a-> %25green font-style:italic%25 Táto stránka obsahuje text, ktorý sa zobrazí, keď PmWiki nemôže nájsť požadovanú stránku.  Administrátori môžu upraviť túto stránku a zmeniť správu.%0a(:if:)%0a%0a(:if !group Category:)Stránka "{$RequestedPage}" neexistuje.  %0a(:if auth edit:)%25rel=nofollow%25 ([[{*$FullName}?action=edit | Vytvoriť {*$FullName}]]) %0a(:if:)
+time=1315672569
+title=Stránka nebola nájdená

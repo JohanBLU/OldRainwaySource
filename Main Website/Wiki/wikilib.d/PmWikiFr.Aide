@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+name=PmWikiFr.Aide
+rev=22
+targets=PmWikiFr.PmWikiFr,PmWikiFr.IndexDocumentation,PmWikiFr.BasicEditing,PmWikiFr.CreatingNewPages,PmWikiFr.TextFormattingRules,PmWikiFr.Passwords,PmWikiFr.IndexDocAdmin
+text=Voici des pages intéressantes pour obtenir de l'aide sur [[PmWikiFr |PmWiki]]. Pour avoir la liste complète des page de la documentation, voir [[Index Documentation |index de la documentation]].%0a%0a* Aide à l'écriture%0a** [[BasicEditing|+]] %0a** [[CreatingNewPages|+]]%0a** [[TextFormattingRules|+]]%0a** [[Passwords|+]]%0a%0a* Documentation %0a** [[IndexDocumentation |Index de la documentation PmWiki]]%0a** [[IndexDocAdmin |Index de la documentation d'administration]]
+time=1315669216

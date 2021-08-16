@@ -1,0 +1,10 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=de-spam
+ctime=1165857410
+name=PmWikiSk.PmWikiSk
+rev=11
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud
+text=(:Language:Sloven&#269;ina:)%0a(:Summary:{$:Language}:)%0aPmWiki je [[PmWiki/WikiWikiWeb]] systém, ktorý vyvinul [[PmWiki/Patrick Michaud]] v skriptovacom jazyku PHP. Systém PmWiki bol v prvom rade navrhnutý ako nástroj pre podporu ľahkej, spoločnej tvorby a údržby webových stránok.%0a%0aTieto stránky bežia pod verziou {$Version}. Softvér je voľne dostupný za podmienok licencie GNU General Public License (GPL) a dá sa stiahnúť z http://pmichaud.com/pub/pmwiki. Dokumentácia je k dispozícii cez index dokumentácie.%0a%0aPmWiki je registrovanou obchodnou značkou Patricka R. Michauda (http://pmichaud.com).%0a%0a----%0a%0aStránky v skupine {$Group}:%0a(:pagelist group=PmWikiSk :)%0a
+time=1323797662

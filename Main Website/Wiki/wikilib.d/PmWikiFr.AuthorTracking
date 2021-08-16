@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Eliovir
+charset=UTF-8
+csum=lien vers IndexDocumentation
+ctime=1143847387
+name=PmWikiFr.AuthorTracking
+rev=7
+targets=PmWikiFr.Links,PmWikiFr.PageHistory,PmWikiFr.ToutesLesModifs,PmWikiFr.WikiGroup,PmWikiFr.Profils,PmWikiFr.IndexDocumentation
+text=(:title Suivi d'auteur:)%0a`PmWiki fournit le support pour la traçabilité des auteurs de chaque édition. Par défaut le formulaire d'édition de page propose un champ "Auteur:", qu'une personne peut utiliser pour enregistrer son nom avec les modifications effectuées. Les caractères autorisés pour le nom des auteurs sont les lettres, les nombres, les tirets bas (soulignés), et les traits d'union --basiquement les mêmes caractères que ceux autorisés dans les [[liens->Links]]. L'auteur d'une modification peut être vu via l'[[historique de page->PageHistory]] sur n'importe quelle page.%0a%0aDans les pages de [[ToutesLesModifs |dernières modifications]] (`RecentChanges), le nom de l'auteur devient un lien vers "les pages de [[profils]]" où les auteurs peuvent fournir des informations sur eux-même. Par défaut, ces pages sont stockées dans le [[groupe Wiki->WikiGroup]] "Profiles/", mais l'administrateur peut changer pour un groupe différent en modifiant la variable @@$AuthorGroup@@ dans ''config.php''.%0a%0aOn peut utiliser la balise [=[[~name)]]=] pour accéder à la page du profil de l'auteur.%0a%0aLes noms d'auteur sont optionnels dans `PmWiki tel qu'il est fourni -- c'est à dire, qu'un utilisateur n'est pas obligé de fournir un nom d'auteur lors d'une édition. Un administrateur du site peut modifier ce comportement avec la variable $EnablePostAuthorRequired.%0a%0aPour l'authentification des auteurs par un login (dito associer un nom d'auteur avec un mot de passe), Voir Cookbook:HomePage#Security. (En anglais)%0a%0a---- %0a%25trail%25%3c%3c|[[IndexDocumentation]]|>>
+time=1315669216
+title=Suivi d'auteur

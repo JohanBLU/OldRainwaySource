@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.SautsDeLigne
+rev=7
+targets=PmWikiFr.LocalCustomizations,Profiles.Pm,PmWikiFr.IndexComplements,Cookbook.LineBreaks
+text=!!!Question%0a%0aComment faire pour que `PmWiki respecte les sauts de lignes tels qu'écrits dans le texte source?%0a%0a!!!Réponse%0a%0aDans un fichier de [[configuration locale->LocalCustomizations]], ajouter la ligne%0a%0a    $HTMLPNewline = '%3cbr />';%0a%0aOu, si vous voulez créer les balises [@(:linebreaks:)@] et [@(:nolinebreaks:)@] pour basculer d'un mode à l'autre, ajoutez ce qui suit:%0a    [=%0a    Markup('linebreaks', 'directives', %0a      '/\\(:(no)?linebreaks:\\)/e',%0a      "PZZ(\$GLOBALS['HTMLPNewline'] = ('$1'!='no') ? '%3cbr />' : '')");%0a    =]%0a!!!Discussion%0a%0aPar défaut, `PmWiki assemble les lignes consecutives en un seul paragraphe. Par exemple, le texte source%0a%0a  un%0a  deux%0a  trois%0a%0asera affiché comme%0a%0aun deux trois%0a%0aFaire les modifications telles qu'indiquées précédemment force `PmWiki à respecter les sauts de lignes, et donc le texte source ci-dessus sera affiché comme:%0a%0aun[[%3c%3c]]deux[[%3c%3c]]trois%0a%0a!!!Notes%0a%0aDans PmWiki v.1 la variable était [@ $HTMLLineBreak @] .%0a%0a!!!Auteur%0a%0a* [[~Pm]], 01-Oct-2004%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25Traduction de la page Cookbook:LineBreaks - Page originale sur PmWiki:PmWikiFr.SautsDeLigne
+time=1315669216

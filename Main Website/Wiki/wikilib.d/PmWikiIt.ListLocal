@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=rigo
+charset=UTF-8
+csum=Lista sistemata
+ctime=1205862352
+name=PmWikiIt.ListLocal
+rev=12
+targets=PmWikiIt.FullName,PmWikiIt.Name
+text=(:pagelist fmt=PmWikiIt.ListLocal#translation group=PmWiki order=-time -RecentChanges -DocumentationGuidelines-Comments:)%0a%0a[[#translation]]%0a(:if equal {%3c$Group}:)%0a(:table border='1' cellspacing='0' cellpadding='0':)%0a(:cellnr align=center colspan=2:)'''Original page `PmWiki'''%0a(:cell align=center colspan=2:)'''Translation `PmWikiIt'''%0a(:cellnr align=center:)Page name%0a(:cell align=center:)Last modified%0a(:cell align=center:)Last modified%0a(:cell align=center:)Page name%0a(:if:)%0a(:cellnr:)[[{=$FullName}|+]]%0a(:cell:){=$LastModified}%0a(:cell:){PmWikiIt.{=$Name}$LastModified}%0a(:cell:)[[PmWikiIt/{=$Name}|+]]%0a(:if equal {>$Group}:)%0a(:tableend:)%0a(:if:)%0a[[#translationend]]
+time=1315669968

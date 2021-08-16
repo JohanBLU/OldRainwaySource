@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan translation
+ctime=1310993293
+name=PmWikiCa.WikiPage
+rev=2
+targets=PmWikiCa.WikiPage,PmWikiCa.WikiStructure,PmWikiCa.WikiWikiWeb,Cookbook.EditTemplates,PmWiki.PageFileFormat,PmWiki.FlatFileAdvantages
+text=(:Language:Català:)%0a(:Title Pàgina wiki:)%0a(:Summary: Informació sobre les pàgines wiki:)%0aUna [[WikiPage|{WikiPage$Title}]] és el bloc bàsic de construcció d'un WikiWikiWeb que conté text i imatges. Per més informació feu una ullada a les [[estructures wiki -> WikiStructure]] i [[WikiWikiWeb]].%0a%0aLes pàgines wiki poden tenir una plantilla d'edició per tal de presentar un contingut inicial, per més informació feu una ullada a [[Cookbook:Edit Templates]] [-{Cookbook/EditTemplates$:Summary}-]%0a%0aLes pàgines wiki s'emmagatzemen en fitxers de text individuals, per més informació feu una ullada a [[PmWiki/Page File Format]] i [[(PmWiki:)Flat File Advantages]].%0a
+time=1315672241
+title=Pàgina wiki

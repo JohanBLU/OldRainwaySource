@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MateuszCzaplinski
+charset=UTF-8
+csum=zamiana przykładowej nazwy grupy na ładniejszą
+ctime=1155415886
+name=PmWikiPl.Szukaj
+rev=4
+targets=PmWikiPl.DyrektywaPagelist
+text=(:searchbox:)%0a%0a(:searchresults:)%0a%0aWyszukiwanie więcej niż jednego słowa znajdzie strony, które zawierają wszystkie z podanych słów.%0aW celu szukania fragmentów zdania należy użyć cudzysłowów - np. "Litwo, ojczyzno moja". Cudzysłowów należy używać również wtedy, gdy chce się szukać tekstu zawierającego znaki interpunkcyjne lub inne znaki specjalne.%0a%0aBy ograniczyć wyszukiwanie do jednej grupy, przed wpisywanym tekstem należy dodać nazwę grupy, a po niej znak ukośnika - np. "Poezja/". By wyświetlić wszystkie strony witryny należy podać pojedynczy ukośnik jako cały tekst wyszukiwania.%0a%0a!![-Przykłady wyszukiwania-]%0a %0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||'''Wpisz:'''     ||'''a znajdziesz strony zawierające:''' ||%0a||Ala Kot          ||oba słowa: 'Ala' i 'kot' ||%0a||"Ala Kot"        ||wyrażenie 'Ala Kot' ||%0a||Poezja/Ala        ||'Ala' w grupie Poezja ||%0a||"Poezja/Ala"      ||wyrażenie "Poezja/Ala", w dowolnej grupie ||%0a||Ala -Kot         ||'Ala', lecz nie zawierające 'Kot' ||%0a||osoby -"Ala Kot" ||'osoby', lecz nie zawierające wyrażenia 'Ala Kot' ||%0a||Ala "-Kot"       ||słowa 'Ala' oraz '-Kot' ||%0a||Ala - Kot        ||słowa 'Ala', '-' oraz 'Kot' ||%0a||"Kot:"           ||słowo 'Kot', a za nim dwukropek ||%0a%0aNiektóre znaki specjalne muszą być ujęte w cudzysłowy. Należą do nich: dwukropek (:), znak równości (=), apostrof (') i cudzysłów (").%0a%0aDostępne są także pewne dodatkowe opcje wyszukiwania, opisane na stronie [[PmWikiPl/DyrektywaPagelist]].%0a
+time=1315672569

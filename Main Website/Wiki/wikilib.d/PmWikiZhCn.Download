@@ -1,0 +1,11 @@
+version=pmwiki-2.2.122 ordered=1 urlencoded=1
+author=123
+charset=UTF-8
+csum=
+ctime=1257886142
+name=PmWikiZhCn.Download
+rev=16
+targets=PmWikiZhCn.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.Subversion,Cookbook.Standalone
+text=(:title 下载:)%0a当前最新版和老版本的 [=PmWiki=] ，可在这里下载： [[http://pmwiki.org/pub/pmwiki/]].%0a%0a%0a最新稳定版本 ({$Version}):%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0a立即下载:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0a%0a国际语言包下载:%0a* [[http://pmwiki.org/pub/pmwiki/i18n/]]%0a%0a* [[Installation]] - 安装PmWiki%0a* [[PmWiki.Upgrades]] - 升级你的PmWiki站点%0a** [[PmWiki.Release Notes]] - PmWiki版本发行说明%0a** [[PmWiki.Change Log]] - PmWiki的更新日志%0a* [[PmWiki:Subversion]] - PmWiki版本控制%0a* [[Cookbook:Standalone]] - PmWiki众多独立插件，方便你的站点扩展。%0a%0a
+time=1577792828
+title=下载

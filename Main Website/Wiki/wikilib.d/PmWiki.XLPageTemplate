@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=don't delete
+name=PmWiki.XLPageTemplate
+rev=123
+targets=Localization.XLPageTemplate
+text=Summary:Page being moved to [[Localization.{*$Name}]]. %0a
+time=1315670897

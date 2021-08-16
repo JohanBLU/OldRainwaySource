@@ -1,0 +1,205 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+	body {
+background-image:radial-gradient(#D6D6D6, #EDEDED);	
+font-family: 'Open Sans', sans-serif;
+margin-left:0px;	
+margin-top:0px;
+margin-right:0px;
+line-height:25px;
+}
+	.nav{
+height:54px;
+width:100%;	
+color:#355E94;
+padding-top:6px;
+box-shadow: 0px 0px 9px #F2F2F2 inset;
+background-color:#ffffff;
+line-height:45px;
+}
+	.nav a {
+font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+color:#355E94;
+padding-top: 16px;
+transition: background 0.35s;
+-moz-transition: background 0.35s;
+-webkit-transition: background 0.35s;
+padding-bottom: 20px;
+padding-left: 24px;
+padding-right: 24px;
+text-decoration:none;
+display: inline block;
+}
+	.nav a:hover {
+font-family: 'Open Sans', sans-serif;
+font-size:18px;
+box-shadow: 0px 0px 9px #DEDEDE inset;
+background-color: #F2F2F2;
+text-decoration:none;
+}
+	.account-bar {
+height:25px;
+min-width:100%;	
+max-width:100%;	
+padding-top:6px;	
+background-color:#FAFAFA;
+line-height:19px;
+border-bottom: 1px solid gainsboro;
+}
+	.account-bar a {
+font-family: 'Open Sans', sans-serif;
+font-size:16px;
+color:#333;
+text-decoration:none;
+margin-right:24px;
+margin-left:24px;
+}
+	.account-bar a:hover {
+font-family: 'Open Sans', sans-serif;
+font-size:16px;
+color:#000;
+text-decoration:none;
+margin-right:24px;
+margin-left:24px;
+}
+	.lander {
+min-height:500px;
+max-height:10000px;
+width:58%;	
+padding:10px 20px 15px;	
+background-color:#ffffff;
+border:1.5px solid #CECECE;
+text-align:center;
+margin:auto;
+}
+	.lander a {
+font-family: 'Open Sans', sans-serif;
+color:#355E94;
+text-decoration:none;
+}
+	.lander a:hover {
+font-family: 'Open Sans', sans-serif;
+color:#000000;
+text-decoration:underline;
+}
+
+	.input-box {
+font-family: 'Open Sans', sans-serif;
+border:1.5px solid #E3E3E3;
+height:20px;
+width:70%;	
+padding:12px;
+background-color:#ffffff;
+margin:auto;
+-webkit-transition:border 0.5s;
+transition:border 0.5s;
+}
+	.input-texta {
+font-family: 'Open Sans', sans-serif;
+border:1.5px solid #E3E3E3;	
+padding:12px;
+background-color:#ffffff;
+margin:auto;
+-webkit-transition:border 0.5s;
+transition:border 0.5s;
+}
+	.input-texta:focus {
+outline:none;
+border:1.5px solid #C8C8C8;
+}
+	.input-box:focus {
+outline:none;
+border:1.5px solid #C8C8C8;
+}
+	.input-btn-green {
+border:1.5px solid #239339;
+height:30px;
+border-radius:70px;
+width:15px;
+padding:20px;
+background-color:#ffffff;
+margin:auto;
+text-align:center;
+line-height:60px;
+-webkit-transition:border 0.5s;
+transition:border 0.5s;
+}
+	.input-btn-green:focus {
+border:1.5px solid #227533;
+outline:none;
+}
+	.input-btn-green:hover {
+border:1.5px solid #15802A;
+}
+	.input-text {
+font-family: 'Open Sans', sans-serif;
+border:1.5px solid #E3E3E3;	
+padding:12px;
+background-color:#ffffff;
+margin:auto;
+-webkit-transition:border 0.5s;
+transition:border 0.5s;
+}
+	.input-text:focus {
+outline:none;
+border:1.5px solid #C8C8C8;
+}
+	.input-btn-red {
+border:1.5px solid red;
+height:30px;
+border-radius:70px;
+width:15px;
+padding:20px;
+background-color:#ffffff;
+margin:auto;
+text-align:center;
+line-height:60px;
+-webkit-transition:border 0.5s;
+transition:border 0.5s;
+}
+	.input-btn-red:focus {
+border:1.5px solid #931B1B;
+outline:none;
+}
+	.input-btn-red:hover {
+border:1.5px solid #931B1B;
+}
+	.btn {
+background:white;
+padding:5px;
+border:1px solid #CCC;
+font-size:12px;
+color:#555;
+min-width:60px;
+max-width:140px;
+outline:none;
+}
+	.shout{
+height:32px;
+width:100%;	
+padding-top:6px;	
+box-shadow: 0px 0px 8px #000000 inset;
+background-color:#2E2E2E;
+margin-bottom:15px;
+color:white;
+text-align:center;
+font-family: 'Open Sans', sans-serif;
+}
+	.footer {
+text-align:center;
+font-family: 'Open Sans', sans-serif;
+margin:auto;
+margin-top:30px;
+max-width:100%;
+max-height:150px;
+min-height:90px;
+}
+	.img-s {
+opacity:0.9;
+transition:opacity 0.5s;
+-webkit-transition:opacity 0.5s;
+}
+	.img-s:hover {
+opacity:1;
+}

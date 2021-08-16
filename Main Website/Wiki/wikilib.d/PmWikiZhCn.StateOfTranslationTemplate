@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+ctime=1191983752
+name=PmWikiZhCn.StateOfTranslationTemplate
+rev=17
+targets=
+text=(:Summary: Redirect to [[PmWikiZhCn.StateOfTranslation]]:)%0a(:redirect PmWikiZhCn.StateOfTranslation:)
+time=1315680534

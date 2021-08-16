@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Mateusz
+charset=UTF-8
+csum=
+ctime=1155417122
+name=PmWikiPl.PageNotFound
+rev=3
+targets=PmWikiPl.PageNotFound
+text=(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound or name PmWikiPl.PageNotFound:)%0a-> %25green font-style:italic%25 This page contains the text to be displayed when PmWiki is unable to locate a requested page.  Administrators can edit this page to change the message.%0a(:if:)%0a%0a(:if !group Category:)Strona o nazwie "{$RequestedPage}" nie istnieje.  %0a(:if auth edit:)%25rel=nofollow%25 ([[{$FullName}?action=edit | Możesz stworzyć stronę "{$FullName}"]]) %0a(:if:)%0a%0a
+time=1315672569

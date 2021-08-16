@@ -1,0 +1,10 @@
+version=pmwiki-2.2.126 ordered=1 urlencoded=1
+author=Finar
+charset=UTF-8
+csum=why not to use 'Title'? Fixed. (-57)
+ctime=1142675767
+name=PmWikiRu.GroupHeader
+rev=19
+targets=PmWikiRu.WikiSandbox
+text=%25define=trail bgcolor=#eee block%25%0a%25define=note font-style=italic color=green%25%0a%25define=important block bgcolor=#fcc border='1px solid black' padding=5px%25%0a%25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc%25%0a(:if !name WikiSandbox:)%25frame rfloat bgcolor=#fee color=#700 border='1px solid #a88'%25[[{$Group}/WikiSandbox|[-Пожалуйста, экспериментируйте в '''песочнице'''-]]]!%25%25(:ifend:)%0a%0a
+time=1581700525

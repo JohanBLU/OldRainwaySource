@@ -1,0 +1,9 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Summary
+name=PmWikiDe.Terminologie
+rev=30
+targets=PmWikiDe.Glossary
+text=(:Translation_Status: %25green%25fertig%25%25:)%0a(:Translation_Date: ----------:)%0a(:Summary:Einige spezielle Übersetzungen, die für PmWikiDe von Bedeutung sind.:)%0aEinige spezielle Übersetzungen, die für PmWikiDe von Bedeutung sind. Wer einen Ausdruck in der Liste ändert, sollte das auf allen Seiten, auf denen er verwendet wird, auch tun.%0a%0asiehe auch [[Glossary | +]] %25comment%25-- eventuell jene Seite aufbohren%25%25%0a%0a||border=1%0a||Advanced ||fortgeschritten, leistungsfähig(er) ||%0a||Administrator ||Administrator ||%0a||Attribute(s)||%25red%25noch festzulegen%25%25: Attribut, Eigenschaft?||%0a||Authors ||Autoren||%0a||Cookbook ||Kochbuch||%0a||Customization ||Anpassung ||%0a||Directives ||Direktiven ||%0a||disable ||deaktivieren ||%0a||enable ||aktivieren ||%0a||Expression ||Ausdruck (hier sollte ein eindeutigeres Wort gefunden werden) ||%0a||Footer ||Fußzeile (besser: Fußbereich)||%0a||Form ||HTML-Form, HTML-Formular ||%0a||Header ||Kopfzeile (besser: Kopfbereich)||%0a||Layout ||Layout ||%0a||Links ||Verweise ||%0a||Mail ||E-Mail ||%0a||Mailpost ||Mailpost (besser: (per Email versandter) Änderungshinweis) ||%0a||Markups ||Formatierungsanweisungen, (Text-)Auszeichnungen ||%0a||Pattern ||Suchmuster ||%0a||Reference ||Verweis ||%0a||Script ||Skript ||%0a||Scripts ||Skripten ||%0a||Skins ||Skins ||%0a||Style ||Stil ||%0a||Template files (files .tmpl)||Vorlagendateien (Endung .tmpl) ||%0a||Turn on/off ||An-/Abschalten (oder: Ein-/Ausschalten) ||%0a||Upload ||Hochladen ||%0a||User ||Benutzer, Anwender ||%0a||Utility ||Hilfsmittel ||%0a||Variables ||Variablen ||%0a-----%0a%0aKopfbereich und Fußbereich finde ich gaaaanz schrecklich! Dann doch lieber -zeile. Zu "-bereich" siehe auch: http://www.spiegel.de/kultur/zwiebelfisch/0,1518,druck-292176,00.html%0a-----%0a%0a
+time=1467198897

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add Chinese title
+ctime=1156599460
+name=PmWikiZhTw.Uploads
+rev=6
+targets=
+text=(:title 檔案上傳:)%0a小提示：在PmWiki預先設定中，上傳功能是關閉的。 請瀏覽Uploads Admin以取得更多關於上傳設定的資訊%0a
+time=1315680534
+title=檔案上傳

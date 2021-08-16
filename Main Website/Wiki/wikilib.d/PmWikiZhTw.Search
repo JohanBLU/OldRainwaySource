@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add Chinese title
+name=PmWikiZhTw.Search
+rev=6
+targets=
+text=(:title 搜尋Wiki:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0a輸入想要搜尋的字詞，系統將找出所有包含這些字詞的頁面。%0a%0a若只想在限定群組中搜尋頁面的話，輸入群組名稱加上斜線後，再輸入要搜尋的字詞（例如︰"[=PmWiki/=]" or "Main/"）%0a%0a想要列出所有頁面，輸入斜線（/）並按下搜尋鈕即可。%0a%0a!!!輸入範例%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''輸入'''    ||'''搜尋結果''' ||%0a||apple pie      ||both 'apple' and 'pie' ||%0a||"apple pie"    ||the phrase 'apple pie' ||%0a||pmwiki/apple   ||'apple' in the [=PmWiki=] group ||%0a||"pmwiki/apple" ||the phrase 'pmwiki/apple' in all groups ||%0a||apple -pie     ||'apple', omitting those containing 'pie' ||%0a||ninja -"apple pie" ||'ninja', omitting those containing 'apple pie' ||%0a||apple "-pie"   ||the words 'apple' and '-pie' ||%0a||apple - pie    ||'apple', '-', and 'pie' || %0a
+time=1315680534
+title=搜尋Wiki

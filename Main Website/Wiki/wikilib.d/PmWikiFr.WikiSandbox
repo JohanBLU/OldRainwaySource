@@ -1,0 +1,11 @@
+version=pmwiki-2.2.139 ordered=1 urlencoded=1
+author=mooi
+charset=UTF-8
+csum= (+10)
+ctime=1423093086
+name=PmWikiFr.WikiSandbox
+rev=75
+targets=PmWikiFr.TextFormattingRules,PmWikiFr.PmWikiFr,PmWikiFr.LienVersAutrePage,PmWikiFr.La
+text=(:title Bac à sable:)(:Summary:Page pour expérimenter l'édition:)%0a%0a(:nogroupfooter:)%0a%0aComme toutes les pages de ce Wiki, celle-ci vous est ouverte. Elle est là pour que vous vous 'fassiez la main' avec les [[TextFormattingRules|+]]. Il vous suffit  de cliquer sur le lien "$[Edit]".%0a''Merci de laisser ce paragraphe en l'état et de faire vos expérimentations sous le trait.''%0a----%0aTest de trait ci-dessous.%0a----%0a!!!Titre de mon paragraphe%0a----%0aIci commence la page d'arrivée sur le WIKI. On redirigera les consultants par des liens vers d'autres pages telles que :%0a# Page première.%0a# Page seconde.%0a# Page tierce.[[https://www.pmwiki.org/wiki/PmWikiFr/WikiSandbox]]%0a%0aEn utilisant par exemple %0a* Ceci.%0a* Ou celà.%0a* Ou encore cet autre là.%0a%0a!!!Pour mettre un titre de paragraphe%0a!!! Ou bien comme ça %0a%0a%0aIl suffit de mettre deux ou trois points d'exclamation devant  le titre.%0a%0a'''Sinon''' vous avez la possibilité de ''donner une adresse internet '' comme ceci :%0ahttp://www.google.fr%0a%0aC'est simple non ?%0a%0aessai%0a12345%0a%0a[[PmWikiFr.PmWikiFr]] montre la page de garde de pmwiki.%0a%0atableau%0a%0a|| border=1%0a|| col1 || col2 ||%0a||  aa  ||  bb ||%0a%0ahttp://www.pmichaud.com/img/misc/pc.jpg"Trombones" | Les trombones en couleur sont mignons.%0a=========================%0a!!!TITRE%0a%0a[[lien vers autre page]]%0a'''pouet'''%0a%0a%0a%0aaieaieie%0agomar [[la]] boss %0a%0a%0a
+time=1622041456
+title=Bac à sable

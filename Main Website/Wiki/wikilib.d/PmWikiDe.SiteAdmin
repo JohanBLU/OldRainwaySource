@@ -1,0 +1,11 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=summary
+ctime=1341298102
+name=PmWikiDe.SiteAdmin
+rev=4
+targets=SiteAdmin.SiteAdmin,Site.Site,PmWikiDe.SiteConfiguration
+text=(:title Site-Administration:)%0a(:Summary: Links zu Konfigurations- und zu Administrationsseiten der Site:)%0a(:Original_Page: SiteAdmin.SiteAdmin:)%0a(:Translation_Date: 2012-07-03:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren:)%0a%25green%25Die Originalseite ist unter [[SiteAdmin.SiteAdmin]] zu finden. Sie enthält nur die folgenden Einträge:%0a%0a->[@(:include Site.Site:)%0a(:title Site Administration:)(:Summary: Site Administration:)%0a@]%0a%0aDamit ist sie eine vollständige Kopie der Seite [[Site.Site]]%0a%0aUnd so sähe die Seite dann (übersetzt) aus (siehe [[PmWikiDe.SiteConfiguration|+]]):%0a%0a(:include PmWikiDe.SiteConfiguration#start:)%0a
+time=1459183088
+title=Site-Administration

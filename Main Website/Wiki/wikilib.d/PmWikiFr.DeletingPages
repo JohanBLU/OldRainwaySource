@@ -1,0 +1,12 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1143655889
+description=Comment effacer une page du site wiki
+name=PmWikiFr.DeletingPages
+rev=8
+targets=PmWikiFr.PageHistory,PmWikiFr.WikiAdministrator,PmWikiFr.DossiersEtFichiers,PmWikiFr.DocumentationIndex
+text=(:title Supprimer une page:)(:description Comment effacer une page du site wiki:)%0aEffacer tout le texte d'une page ne l'efface pas, il est possible de revenir à une version précédente par [[PageHistory|l'historique de la page]]. %0a%0aAfin de supprimer une page vous devez changer le contenu de la page ne laisser que le mot "effacer" (ou "delete" dans la version anglaise), sans espaces ou caractères supplémentaires.%0aCeci supprime la page du site.%0a%0aToutefois, le fichier lui-même n'est pas supprimé réellement -- il est toujours sur le disque.%0aSeul l'[[administrateur du Wiki->WikiAdministrator]] peut physiquement le supprimer (voir la section [[dossiers et fichiers]]).%0a%0aNotez que ce n'est souvent pas une bonne idée de supprimer une page, car d'autres ont pu créer des signets ou des liens vers la page.%0a%0aAu lieu de supprimer la page, considérez qu'il est préférable de fournir un lien vers la nouvelle information, ou une explication sur la destruction de la page.%0a%0aLa directive [@(:redirect AutrePage:)@] permet de renvoyer vers une nouvelle page de manière transparente pour l'utilisateur.%0a%0aNote: Pour supprimer des pages de la documentation qui viennent avec PmWiki ou avec des modules, il faut supprimer leurs fichiers correspondants du répertoire @@wikilib.d@@ sur le serveur.%0a%0a----%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a
+time=1315669216
+title=Supprimer une page

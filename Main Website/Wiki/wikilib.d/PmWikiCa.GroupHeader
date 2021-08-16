@@ -1,0 +1,10 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=clear.
+ctime=1310991472
+name=PmWikiCa.GroupHeader
+rev=5
+targets=
+text=(:Summary: Capçalera del grup PmWiki. Inclou estils i ruta.:)%0a%25define=negre color=black%25%0a%25define=blanc color=white%25%0a%25define=roig color=red%25%0a%25define=verd color=green%25%0a%25define=blau color=blue%25%0a%25define=groc color=yellow%25%0a%25define=gris color=gray%25%0a%25define=argent color=silver%25%0a%25define=marro color=maroon%25%0a%25define=porpra color=purple%25%0a%25define=blaumari color=navy%25%0a%25define=trail bgcolor=#eee block%25%0a%25define=note font-style=italic color=green%25%0a%25define=important block bgcolor=#fcc border='1px solid black' padding=5px%25%0a%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px' font-size='smaller'%25%0a%25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25(:comment please leave the multiple style definitions concatenated as a single line.  Linebreaks do appear in the output when the wiki is configured with linebreaks enabled -- thanks!:)%0a(:include PmWikiCa.GroupFooter#trailstart#trailend:)%0a(:if ! equal "{*$:Audience}" "" :)%0a(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a(:divend:)%0a(:else:)%0a(:div style="clear:right;":)%0a(:divend:)%0a(:ifend:)
+time=1318582490

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=initial version
+ctime=1166209418
+name=PmWikiSk.AcceptPathInfo
+rev=2
+targets=
+text=Táto direktíva kontroluje, či požiadavky, ktoré obsahujú koncovú informáciu o ceste, ktorá nasleduje za samotným názvom súboru (alebo neexistujúceho súboru v existujúcom adresári) budú prijaté alebo odmietnuté. Informácia o koncovom názve cesty môže byť sprístupnená skriptom v premennej prostredia PATH_INFO.%0a%0a%0a%0aViac informácií na:%0ahttp://httpd.apache.org/docs-2.0/mod/core.html
+time=1315672569

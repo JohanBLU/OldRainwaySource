@@ -1,0 +1,11 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=
+ctime=1321262303
+name=PmWikiCa.Terminology
+rev=1
+targets=PmWikiCa.PmWiki
+text=(:title Recull de termes:)%0aLa majoria de termes necessàris en les traduccions des de llengua anglesa a catalana les podem trobar al [[http://www.softcatala.cat/recull.html|recull de termes de Softcatalà]]. Així mateix, ací anirem recollint aquella terminologia més especifica i habitual de [[PmWiki]].%0a%0a||border="1" style="border-collapse:collapse" cellpadding="5"%0a||!Anglès ||!Català ||!Categoria ||%0a||feature ||funció, característica ||f ||%0a%0a!!! Referències%0a* http://www.softcatala.cat/recull.html%0a* http://www.termcat.cat/%0a
+time=1321262303
+title=Recull de termes

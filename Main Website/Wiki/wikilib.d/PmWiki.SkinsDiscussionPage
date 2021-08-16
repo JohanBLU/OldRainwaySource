@@ -1,0 +1,11 @@
+version=pmwiki-2.2.49 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=despam
+ctime=1247443162
+name=PmWiki.SkinsDiscussionPage
+passwdedit=@lock
+rev=6
+targets=
+text=(:redirect Skins-Talk:)
+time=1364030387

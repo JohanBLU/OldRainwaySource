@@ -1,0 +1,11 @@
+version=pmwiki-2.2.56 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1381899547
+name=PmWikiBg.SpecialPages
+rev=1
+targets=PmWiki.SpecialPages,PmWikiBg.RecentChanges,Site.AllRecentChanges,PmWikiBg.GroupAttributes,Site.InterMap,Site.PageListTemplates
+text=(:title Специални страници :)%0a%0aТази страница [[PmWiki/SpecialPages|на английски]].%0a%0aТова е кратък преглед на редица "специални" страници, които се срещат в PmWiki, и хипервръзки към други страници с повече информация.%0a%0aТези страници са специални защото:%0a* PmWiki сама ги създава и актуализира (например [[RecentChanges]], [[Site.AllRecentChanges]])%0a* PmWiki ги включва в шаблона по подразбиране (например SideBar)%0a* PmWiki ги включва в други страници (например GroupHeader, GroupFooter)%0a* PmWiki ги използва за да генерира други страници (например XLPage)%0a* PmWiki ги използва при обработка и валидиране (например [[GroupAttributes]]) %0a* PmWiki ги използва за да генерира съдържание в други страници (например [[Site.InterMap]], [[Site.PageListTemplates]])%0a%0a...%0a%0aМоля преведете останалото.%0a
+time=1381899547
+title=Специални страници 

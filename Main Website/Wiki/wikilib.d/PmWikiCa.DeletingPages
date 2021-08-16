@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan translation.
+ctime=1312067787
+name=PmWikiCa.DeletingPages
+rev=3
+targets=PmWikiCa.WikiAdministrator,Site.AllRecentChanges,PmWikiCa.EditVariables,Cookbook.DeleteAction,PmWikiCa.Categories,PmWikiCa.WikiGroup,PmWikiCa.RecentChanges,Cookbook.RecentChangesDeletion
+text=(:Language:Català:)%0a(:Title Esborrat de pàgines:)%0a(:Summary: Manteniment de pàgines:)%0aPer tal d'esborrar una pàgina, editeu la pàgina, seleccioneu tot el text de la capça d'edició i substituïu-lo amb una única paraula:%0a%0a->[@delete@]%0a%0aNoteu que pot ser una bona idea afegir un comentari al camp @@Resum@@%0aexplicant perquè heu esborrat la pàgina. (Habitualment podeu trobar el camp @@Resum@@ just a sota de la capça d'edició).%0a%0aLa pàgina s'esborrarà després de desar els canvis.  Com a mesura de seguretat, el servidor seguirà guardant una còpia de la pàgina (amb una marca de temps), que podrà ésser restaurada per l'[[wiki administrator|administració del wiki]].%0a%0aSi sospiteu que una pàgina ha estat esborrada però no n'esteu segura, feu una ullada als Canvis Recents del WikiGroup. Esborrar una pàgina és una edició més, així que l'acció serà enregistrada allí i a [[{$SiteGroup}.AllRecentChanges]].%0a%0aEs pot canviar la paraula per defecte per a esborrar pàgines ("delete") definint la variable $DeleteKeyPattern al fitxer config.php (mireu [[Edit Variables|+]]). Si hi ha risc d'esborraments malintencionats, pot ser una bona idea canviar la paraula per algun altra més difícil d'esbrinar. També hi ha una recepta per a crear una acció d'esborrat completament separada de l'edició a Cookbook:DeleteAction.%0a%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Esborrar [[Wiki Group|Grups Wiki]] i [[Categories|+]]: Un cop he creat un Grup o Categoria, com em puc desfer d'eixe grup o categoria?%0aA: Una administradora pot esborrar les pàgines no desitjades de wiki.d/ .  Normalment, intentar-ho des del propi wiki no funciona, donat que compta com a "actualització", fet que causa que es torni a crear la pàgina de [[Recent Changes|+]]; tanmateix, és pot modificar la configuració per tal de permetre l'esborrat de la pàgina de Canvis Recents del grup -- feu una ullada a Cookbook:RecentChangesDeletion.%0a
+time=1315672241
+title=Esborrat de pàgines

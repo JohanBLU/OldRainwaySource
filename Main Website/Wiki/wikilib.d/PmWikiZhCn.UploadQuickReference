@@ -1,0 +1,10 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333172027
+name=PmWikiZhCn.UploadQuickReference
+rev=1
+targets=PmWiki.Uploads,PmWikiZhCn.UploadQuickReference
+text=(:Summary:快速上传指引页面:)%0a[[#quickreference]]%0a>>color:#000000 bgcolor:#f9f9f9 font-family:'Arial,sans-serif' font-size:12px padding:2px border:'1px solid #cccccc' class='quickref'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads|上传]]'''%0a%0a# 使用“浏览”按钮从电脑中选择要上传的附件。%0a%0a# “重命名”功能为可选功能。您可以重命名附件，但 %25bgcolor:yellow%25'''要保证附件扩展名正确'''%25%25 。%0a%0a# 点击“上传”按钮将上传您的文件。%0a%0a# 要在当前 {$Group} 组使用附件，只需要像这样@@[=Attach:=]''filename.ext''@@ 插入附件。%0a%0a# 上传后，您可以： %0a** %25item rel=nofollow class=browse%25 [[{*$FullName}?action=browse | $[View] {*$Name} 页面]]；%0a** %25item rel=nofollow class=edit%25 [[{*$FullName}?action=edit   |编辑 {*$Name} 页面]]；%0a** 向下查看所有 {*$Group} 组已经上传的附件。%0a>>%3c%3c%0a[[#quickreferenceend]]%0a%0a----%0a%0a!! 已上传的附件%0a>>font-size:smaller%3c%3c%0a(:attachlist:)%0a>>%3c%3c
+time=1333172027

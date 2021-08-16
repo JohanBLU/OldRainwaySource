@@ -1,0 +1,12 @@
+version=pmwiki-2.2.75 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=despam
+ctime=1234048636
+description=Insertion de symboles qui n'existent pas sur tour les claviers
+name=PmWikiFr.SpecialCharacters
+rev=29
+targets=PmWikiFr.SpecialCharactersList,PmWikiFr.DocumentationIndex
+text=(:title Caractères spéciaux:)(:description Insertion de symboles qui n'existent pas sur tour les claviers:)%0aIl est parfois nécessaire d'utiliser dans les pages des symboles spéciaux comme marque déposée, droit d'auteur (copyright) et autres symboles qui n'existent pas sur tous les claviers. Voici comment faire pour insérer de tels caractères.%0a%0a!!! Codes ISO standards%0aPmWiki est capable d'afficher les caractères spéciaux définis par le W3C.%0a%0aVoici des exemples: %0a(:markup:)[=%0a&#169; | &#188; | &#189; | &#174; | &#181; | &#168; =]%0a%0a(:markup:)[=%0a&#198; | 32&#176; | &#182; | &#165; Yen | PmWiki&#8482;=]%0a%0aPour un tableau exhaustif des caractères spéciaux, visitez [[SpecialCharactersList|+]].%0a%0a%0a!!!Autres façons de faire%0a%0a!!!!Table des caractères%0aLancez le programme "Table des caractères" du Menu démarrer / Accessoires / Outils système. Sélectionnez le caractère à insérer et notez le raccourci clavier en bas de la boite. On obtient le caractère en appuyant sur la touche '''Alt''' et pendant ce temps en faisant sur le pavé numérique le nombre indiqué.%0a%0a[=&#169;=] = Alt+0169 = © | [=&#174;=] = Alt+0174 =  ® | [=&#176;=] = Alt+0176 = ° (degrés).%0a%0a!!!! Copier - coller%0a* Utilisez OpenOffice.org ou autre traitement de texte pour créer les caractères dont vous avez besoin. Copiez-les et collez-les dans la page wiki.%0a* Copiez le caractère spécial d'une autre page sur internet et collez -le dans votre page:   ©%0a%0a----%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a
+time=1432265741
+title=Caractères spéciaux

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.123 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=`https: urls (+9)
+name=PmWiki.Download
+passwdedit=$1$zD3z9xSr$zuczKH3ZM3.kOYcJUo.To1
+rev=286
+targets=PmWiki.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.Subversion,Cookbook.Standalone
+text=(:Summary: Download versions of PmWiki:)%0aInstalled and other versions of [=PmWiki=] are available for download at [[(https://)www.pmwiki.org/pub/pmwiki/]].%0a%0a!! Direct links to core software%0aLatest ''stable'' release ({$Version}%25commentout-pmwikiorg%25 or more recent%25%25):%0a* [[(https://www.pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(https://www.pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a* [[https://www.pmwiki.org/pub/pmwiki/pmwiki-latest.md5|md5 checksums]]%0a%0aDirect links to installed release {$Version}:%0a* [[(https://www.pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(https://www.pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a* [[https://www.pmwiki.org/pub/pmwiki/{$Version}.md5|md5 checksums]]%0a%0aYou can download the latest ''development'' code packed as a zip archive here:%0a* [[(https://www.pmwiki.org/pub/pmwiki-devel/)pmwiki-latest-svn.zip]]%0a%0a!! International language packs%0aLanguage packs can be installed on top of the core software.%0a* [[https://www.pmwiki.org/pub/pmwiki/i18n/]] - For all available translations%0a%0a!! Related Pages%0a* [[PmWiki.Installation]] - {Installation$:Summary}%0a* [[PmWiki.Upgrades]] - {Upgrades$:Summary}%0a** [[PmWiki.Release Notes]] - {ReleaseNotes$:Summary}%0a** [[PmWiki.Change Log]] - {ChangeLog$:Summary}%0a* [[PmWiki:Subversion]] - {Subversion$:Summary}%0a* [[Cookbook:Standalone]] - {Cookbook/Standalone$:Summary}%0a
+time=1577820514

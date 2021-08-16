@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Anno
+charset=UTF-8
+csum=
+ctime=1142073344
+name=PmWikiSi.EditQuickReference
+rev=2
+targets=PmWiki.TextFormattingRules,PmWiki.TipsForEditing,PmWiki.DocumentationIndex,PmWiki.Tables,PmWiki.TableDirectives
+text=(:table width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial;' bgcolor='#eeeeff':)%0a(:cellnr:)%0a%25target=_blank%25 [[PmWiki/Text Formatting Rules | Oblikovanje teksta]] - [[PmWiki/Tips For Editing | Nasveti za oblikovanje]] - [[PmWiki/Documentation Index | Seznam dokumentacije]]%0a(:cell align=right:)%0a%25target=_blank%25 '''Tabele:''' [[PmWiki/Tables| Enostavno]] - [[PmWiki/Table directives| Zahtevneje]]%0a(:cellnr:)%0a'''Odstavki:''' za nov odstavek, pritisni ''enter'' dvakrat\\%0a'''[=->=]''' pove&#269;aj zamik, '''[=-%3c=]''' zmanjaj zamik %0a(:cell align=right:)%0a'''Nova vrstica:''' '''[=\\=]''' ali '''[=[[%3c%3c]]=]'''%0a(:cellnr colspan='2':)%0a'''Natevanje:''' * z pikami, # z tevilkami, :term: konec natevanja \\%0a'''Oblika:''' [=''lee=]&#269;[=e''=], [='''krepko'''=], [='''''krepko lee=]&#269;[=e '''''=], [=@@typewriter@@=] (monospaced) \\%0a'''Reference:''' [=[[nova stran]]=], [=[[http://www.primer.com]]=], or `JoinCapitalizedWords, [=[[nova stran | text za link]]=], [=[[#sidro]]=] \\%0a'''Skupine:''' [=[[Group/Page]]=] prikae Page, [=[[Group.Page]]=] prikae Group.Page%0a(:cellnr:)%0a'''Lo&#269;evanje:''' !, !!, !!! za naslove, [=----=] za horizontalno &#269;rto \\%0a'''Zamenjaj velikost:''' [=[+...+]=] ve&#269;je, [=[-...-]=] manje%0a'''[='^=]'''nadpisano'''[=^'=]''', '''[='_=]'''podpisano'''[=_'=]'''%0a(:cell align=right:)%0a'''Prepre&#269;i oblikovanje:''' [=[=...=]=]%0a(:tableend:)
+time=1315672569

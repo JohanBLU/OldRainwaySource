@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiJa.日本語テスト
+rev=8
+targets=PmWiki.EditQuickReference,PmWikiJa.EditQuickReference,PmWiki.UploadQuickReference,PmWikiJa.UploadQuickReference,PmWikiJa.XLPage
+text=テスト%0a%0a!PmWiki.EditQuickReference%0a!PmWikiJa.EditQuickReference%0a!PmWiki.UploadQuickReference%0a!PmWikiJa.UploadQuickReference%0a!XLPage%0a
+time=1315680534

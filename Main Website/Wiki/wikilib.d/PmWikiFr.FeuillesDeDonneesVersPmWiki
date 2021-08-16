@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=Page moved to PmWikiFr.FeuillesDeDonneesVersPmWiki from PmWikiFr.FeuillesDeDonnéesVersPmWiki
+name=PmWikiFr.FeuillesDeDonneesVersPmWiki
+rev=16
+targets=PmWikiFr.IndexComplements
+text=(:title Feuilles de données vers PmWiki:)%0a!!!Pour transférer facilement des données d'Excel vers [=PmWiki=], une feuille de données Excel ou Open Office.%0a%0aAu départ voici ce que cela donne :%0a%0a%25%25%0aAttach:Cookbook/Source_excel.gif%0a%0aEt à l'arrivée :%0a%0a|| width=90%25 border=3 cellspacing=0  cellpadding=3 align=center bordercolor=Blue	&nbsp;				%0a|| %25bgcolor=Yellow%25'''Ref.%25%25	|| %25bgcolor=Yellow%25'''Titre%25%25	|| %25bgcolor=Yellow%25'''Origine%25%25	|| %25bgcolor=Yellow%25'''Date%25%25	|| %25bgcolor=Yellow%25'''Description%25%25	|| %25bgcolor=Yellow%25'''Commencant à (en )%25%25 ||%0a|| ''2535'' 	||'''Odetta Quimper Superb Pair Vases'''	||Darcos2307	|| 04-12-04 	||[-''A treat for Odetta and Fouillen collectors alike, these vases combine  2 daring designs by Paul Fouillen.''-]	|| [+'''880'''+] ||%0a|| ''2536'' 	||'''HR Quimper Pair Bagpipe Trays'''	||Guerin120	|| 04-12-04 	||[-''A darling pair of little trays in the form of bagpipes. ''-]	|| [+'''65'''+] ||%0a|| ''2537'' 	||'''HB only Quimper Lady Plate 19th c.'''	||Guerin121	|| 04-12-04 	||[-''A good example of the naive, but nevertheless detailed, pattern made popular by HB in the 19th century. ''-]	|| [+'''280'''+] ||%0a%0a'''Chargement'''%0a%0aLa feuille pour Excel en Français :%0a*Attach:Cookbook/ExcelToWikiFr.zip%0aEt pour Open Office en Anglais : %0a*[[http://jcgg.phpnet.org/OOtoWiki.sxc | Open Office Worksheet]]%0a(ces feuilles ne contiennent aucune macro)%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25Abrégé d'après la fiche de Jean-Claude en Anglais : PmWiki:Cookbook-V1.FromWorksheetToWiki - Page originale sur PmWiki:PmWikiFr.FeuillesDeDonneesVersPmWiki%0a%0a
+time=1315669216
+title=Feuilles de données vers PmWiki

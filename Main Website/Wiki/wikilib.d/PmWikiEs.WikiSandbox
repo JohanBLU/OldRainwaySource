@@ -1,0 +1,11 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1320327150
+name=PmWikiEs.WikiSandbox
+rev=2
+targets=PmWikiEs.BasicEditing,PmWiki.TextFormattingRules,PmWikiEs.WikiSandbox
+text=(:title Zona de pruebas (Sandbox):)(:Summary:Lugar donde probar la edición de páginas:)(:nogroupfooter:)%0a%0aUtilizad esta página para probar y experimentar con la [[basic editing | edición básica]] o las [[PmWiki.TextFormattingRules| reglas de formato de texto]]. Sólo hace falta que hacer clic en el enlace "[[$[Edit]-> {$FullName}?action=edit]]".%0a%0a''Por favor, dejad este párrafo intacto y haced vuestras ediciones a partir de esta línea.''%0a----
+time=1322813706
+title=Zona de pruebas (Sandbox)

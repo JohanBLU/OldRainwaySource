@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=typo
+ctime=1143376729
+name=PmWikiFr.PagelistVariables
+rev=7
+targets=PmWikiFr.Variables
+text=(:title Variables pour listes de pages:)%0a%0a%3c%3c|[[PmWikiFr.Variables]]|>>%0a%0a:$EnablePageListProtect:Quand mis à 1 (valeur par défaut), fait que  [@(:pagelist:)@] et [@(:searchresults:)@] exclut du listing toutes les pages pour lesquelles le navigateur n'a pas d'autorisation de lecture.  Mettre cette variable à zéro implique que les pages protégées en lecture peuvent apparaître dans les listes, mais ceci accélère considérablement les recherches (parce que les permissions de pages n'ont pas besoin d'être vérifiées).%0a%0a:$EnablePageIndex:Quand mis à 1, fait que PmWiki crée un "index des mots et des liens" dans $PageIndexFile ce qui accélère significativement les catégories, liens arrière et recherches.%0a%0a:$PageIndexFile:L'emplacement du fichier d'"index  des pages" pour [@(:pagelist:)@], par défaut @@$WorkDir/.pageindex@@.%0a%0a:$SearchPatterns:Tableau des critères d'exclusion ou d'inclusion pour les recherches et les listes. Afin d'être incluse dans une liste, un nom de page ne doit pas respecter les critères entre points d'exclamation (!) et doit respecter tous les autres critères. Voir (en anglais) Cookbook:SearchPatterns.%0a        # Limiter toutes les recherches au groupe Main%0a        $SearchPatterns['default'][] = [='/^Main\\./';=]%0a        # Exclure le groupe Main des recherches%0a        $SearchPatterns['default'][] = [='!^Main\\.!';=]%0a        # Exclure les pages RecentChanges des recherches%0a        $SearchPatterns['default'][] = [='!\\.(All)?RecentChanges$!';=]%0a%0a:$PageSearchForm:La page à utiliser pour formatter les résultats de recherche de [@?action=search@] (à moins que la page courante possède une directive "searchresults". Cette variable peut être un tableau, dans ce cas la première page trouvée est utilisée.%0a        # Utiliser la page Search du groupe en cours, sinon utiliser  Site.Search%0a        $PageSearchForm = array('$Group.Search', '[=$[$SiteGroup/Search]=]');
+time=1315669216
+title=Variables pour listes de pages

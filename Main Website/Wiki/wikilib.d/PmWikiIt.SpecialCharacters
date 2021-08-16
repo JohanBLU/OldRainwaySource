@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add Italian title
+ctime=1193929199
+name=PmWikiIt.SpecialCharacters
+rev=4
+targets=PmWiki.SpecialCharactersList,PmWiki.Characters
+text=(:title Caratteri speciali:)%0aDurante la scrittura può essere necessario inserire i simboli di trademark, copyright, accenti particolari o altri simboli che non si trovano sulla tastiera.  È quindi importante che ci sia un modo per inserire questi caratteri.%0a%0a!!!Codici standard ISO%0aPmWiki supporta i codici per caratteri speciali che il w3c ha definito per l'HTML. [[http://www.w3.org/MarkUp/html-spec/html-spec_13.html |  Pagina W3C con i codici ISO dei caratteri speciali]].%0a%0aEcco alcuni esempi: %0a(:markup:)[=%0a&#169; | &#188; | &#189; | &#174; | &#181; | &#168; =]%0a%0a(:markup:)[=%0a&#198; | 32&#176; | Un&#239;ted St&#228;tes | &#182; | &#165;Yen | PmWiki&#8482;=]%0a%0aUna tabella con questi codici, ciascuno con il carattere corrispondente, si trova nella pagina sui caratteri speciali di [[http://www.nobledesktop.com/specialcharacters.html | Noble Desktop]].%0a%0a!!!Altre strade possibili:%0a%0a!!!!Mappa caratteri%0aAprire il programma "Mappa caratteri" che si trova nella cartella di sistema del computer. Fare click sul simbolo a cui si è interessati, e annotarsi la sequenza di tasti da premere che viene mostrata in basso. Questi caratteri si inseriscono ''tenendo premuto "Alt"'' e inserendo i numeri indicati ''con il tastierino numerico'' (non con i tasti numerici che si trovano sopra le lettere).%0a%0a[=&#169;=] = Alt+0169 = © | [=&#174;=] = Alt+0174 =  ® | [=&#176;=] = Alt+0176 = °%0a%0a!!!!Incollare%0a*Scrivere il testo con Word o un'altra applicazione per creare il testo con i caratteri speciali.%0aCopiare e incollare tale testo nella pagina wiki che si sta modificando.%0a*Trovare il carattere desiderato in un documento on-line, copiarlo da lì e incollarlo nella pagina wiki: ©%0a%0aUna lista di caratteri speciali si trova alla pagina [[PmWiki:SpecialCharactersList]].%0aUn'altra spiegazione si trova alla pagina [[PmWiki:Characters]]
+time=1315669968
+title=Caratteri speciali

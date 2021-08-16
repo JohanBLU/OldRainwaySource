@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=林風
+charset=UTF-8
+csum=
+ctime=1274066181
+name=PmWikiZhTw.RefCount
+rev=3
+targets=PmWikiZhTw.WikiAdministrator,PmWikiZhTw.LocalCustomizations,PmWikiZhTw.RefCount
+text=(:Summary: Link references counts on pages:)%0aRefCount 執行網頁之間在引用的鏈接數據 (即統計網頁之間的鏈接)。使用RefCount前，必先登入 [[wiki administrator]] 加入下面行到[[local customization(s)]]文件:%0a%0a->[@include_once("$FarmD/scripts/refcount.php");@]%0a%0a若要使用，在所有的維基頁面URL的後面加入 [@?action=refcount@]  ，即彈出引用計數形式。例如：%0a%0a->%25newwin%25[[{$FullName}?action=refcount]]%0a%0a該 refcount包含以下控件%0a[[#refcountcontrols]]%0a*'''Show''' ~ 這將選擇哪些網頁會出現在輸出%0a**all ~ 顯示所有引用 %0a**missing ~ 只顯示引用的網頁不存在%0a**existing ~ 僅顯示現有的網頁被引用確實存在%0a**orphaned ~ 顯示網頁存在，但沒有提及引用它們。沒有鏈接瀏覽到一個孤立的頁面。%0a*'''page names in group''' ~ 有群組的頁面正在引用中%0a*'''referenced from pages in''' ~ 有群組的頁面正在鏈接中%0a*'''Display referencing pages''' ~ 包括一個鏈接到引用頁-這可以為一個很長的輸出，除非你限制組搜查%0a[[#refcountcontrolsend]]%0a%0a輸出會是一個表的形式，其中每行的表中包含一個鏈接頁面名稱或參考，其數量（非RecentChanges）頁包含鏈接的網頁和網頁數量的近期變化與鏈接頁面。%0a
+time=1315680534

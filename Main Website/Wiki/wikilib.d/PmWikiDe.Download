@@ -1,0 +1,11 @@
+version=pmwiki-2.2.123 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=`http -> `https (+10)
+ctime=1305070044
+name=PmWikiDe.Download
+rev=8
+targets=PmWikiDe.Internationalizations,PmWikiDe.Installation,PmWikiDe.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.Subversion,Cookbook.Standalone
+text=(:title Download:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Summary: Download der neuesten Version von PmWiki:)%0a(:Translation_Date: 2016-03-21:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren (Fortgeschrittene):)%0aDie installierte und andere Versionen von PmWiki stehen zum Download auf  [[(https://)www.pmwiki.org/pub/pmwiki/]]  bereit.%0a%0a!! Direkte Links zur Kernsoftware%0a%0aAktuelle ''stabile'' Version ({$Version}):%0a* [[(https://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(https://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a* [[https://www.pmwiki.org/pub/pmwiki/pmwiki-latest.md5|md5 checksums]]%0a%0aDirekter Link zur installierten Version ({$Version}):%0a* [[(https://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(https://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a* [[https://www.pmwiki.org/pub/pmwiki/{$Version}.md5|md5 checksums]]%0a%0aHier erhalten Sie den jüngsten Entwickler-Kode, gepackt als ZIP-Archiv:%0a* [[(https://www.pmwiki.org/pub/pmwiki-devel/)pmwiki-latest-svn.zip]]%0a%0a!! [[Internationalizations|Internationale]] Sprach-Pakete%0aDie Sprachpakete werden zusätzlich zur Kernsoftware installiert.%0a*[[https://pmwiki.org/pub/pmwiki/i18n/i18n-de.zip| Für die deutsche Übersetzung]]%0a*[[https://pmwiki.org/pub/pmwiki/i18n/i18n-all.zip| Für alle verfügbaren Übersetzungen]]%0a%0a!! Verwandte Seiten%0a* [[Installation|+]] - {Installation$:Summary}%0a* [[Upgrades|+]] - {Upgrades$:Summary}%0a** [[PmWiki:ReleaseNotes]] - {PmWiki.ReleaseNotes$:Summary}%0a** [[PmWiki:ChangeLog]] - {PmWiki.ChangeLog$:Summary}%0a* [[PmWiki:Subversion]] - Wie erhalte ich die neueste Vorabversion des Versions-Kontroll-Systems.%0a* [[Cookbook:Standalone]] Ermöglicht PmWiki in einem "stand alone" Modus zu betreiben, ohne einen Webserver wie Apache%0a
+time=1578648496
+title=Download

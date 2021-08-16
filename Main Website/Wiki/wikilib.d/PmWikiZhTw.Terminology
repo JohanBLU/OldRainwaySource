@@ -1,0 +1,10 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=Bigpoon
+charset=UTF-8
+csum=add cotent
+ctime=1302489460
+name=PmWikiZhTw.Terminology
+rev=6
+targets=PmWikiDe.Terminologie
+text=此頁面提供了不同語言本地化時所使用的名詞。\\%0a請不要直接翻譯Terminology頁面，而是將頁面複製至您的語言群組下，例如： [[PmWikiDe.Terminologie]]%0a%0a基本上，常需要翻譯的英文名詞都可加入此列表中。\\%0a此頁面主要的目的是提供翻譯者們在在翻譯頁面標題時能使用統一的用語。%0a%0a您也可以在此頁中討論不同名詞應有的用法。%0a%0a||border=1%0a||Advanced ||進階 ||%0a||Administrator ||管理者 ||%0a||Author ||作者 ||%0a||Cookbook || ||%0a||Customization ||客製化 ||%0a||Directives ||指引 ||%0a||Footer ||頁尾 ||%0a||Form || ||%0a||Header ||頁首 ||%0a||Layout || ||%0a||Mail ||郵件 ||%0a||Mailpost ||郵件內容 ||%0a||Mailing lists ||郵件列表 ||%0a||Markups ||標記 ||%0a||Pattern || ||%0a||Script || ||%0a||Skins ||外觀 ||%0a||Style ||樣式 ||%0a||Template files\\%0a(files .tmpl)|| ||%0a||Turn on/off ||開啟/關閉 ||%0a||Upload ||上傳 ||%0a||Variables ||變數 ||
+time=1335064158

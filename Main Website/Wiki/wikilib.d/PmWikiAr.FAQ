@@ -1,0 +1,10 @@
+version=pmwiki-2.2.134 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=trail=PmWikiAr.DocumentationIndex (+2)
+ctime=1607248984
+name=PmWikiAr.FAQ
+rev=7
+targets=
+text=ستحاول هذه الصفحة تلخيص بعض الأسئلة الأكثر شيوعًا. الإجابات موجودة في الصفحات المقابلة (انظر الرابط). إذا كان لديك سؤال لم تتم الإجابة عليه هنا ، فيمكنك ترك سؤالك على صفحة الأسئلة أو البحث عن الوثائق باستخدام وسيلة البحث. يمكن العثور على المزيد من الوثائق على صفحة فهرس الوثائق.%0a%0a%0a(:comment The questions and answers are held on their respective page(s), then collated below according to the pagelist. Please make changes to those page(s) rather than making the changes here .:)%0a%0a(:pagelist trail=PmWikiAr.DocumentationIndex name=-{*$FullName} "[[#faq]]" fmt=#includefaq class=faqtoc:)%0a
+time=1607253997

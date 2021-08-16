@@ -1,0 +1,10 @@
+version=pmwiki-2.2.118 ordered=1 urlencoded=1
+author=Finar
+charset=UTF-8
+csum=$Name -> *$FullName fix
+ctime=1142581902
+name=PmWikiRu.UploadQuickReference
+rev=6
+targets=PmWikiRu.Uploads,PmWikiRu.UploadQuickReference
+text=>>class='quickref' color=#000000 bgcolor=#f9f9f9 font-family='Arial,sans-serif' font-size=12px padding=2px border='1px solid #cccccc'%3c%3c%0a%25rfloat newwin%25'''[[PmWikiRu/Uploads|+]]'''%0a#Для поиска "Файла для закачки"("File to upload") на вашем компьютере нажмите кнопку "Обзор"("Browse").%0a#В поле "Назвать:" введите желаемое имя, под которым файл будет сохранен на сервере. Это имя может совпадать с или отличаться от оригинального, но оно должно иметь допустимое расширение.%0a#Нажмите "$[Upload]" для закачки файла.%0a#Для ссылки на прикреплённый (закачанный) файл со страницы в группе {$Group} добавьте в тексте "Attach:''имяфайла.тип''".%0a#После закачивания вы можете %0a**[[{*$FullName} | просмотреть страницу {*$Name}]] или%0a** [[{*$FullName}?action=edit | отредактировать страницу {*$Name}]]%0a>>%3c%3c%0a%0a----%0a!!Закачанные здесь файлы%0a(:attachlist:)
+time=1568915698

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.45 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1355467183
+name=PmWikiBg.Links
+rev=2
+targets=PmWiki.Links,Main.WikiSandbox
+text=(:title Хипервръзки :)%0a%0aТази страница [[PmWiki/Links|на английски]].%0a%0a...%0a%0a!!! Връзки, които се отварят в нов прозорец на браузъра%0a%0aЗа да имате връзка, която се отваря в нов прозорец, използвайте: [@%25newwin%25...%25%25@]:%0a%0a* [@%25newwin%25  http://pmichaud.com %25%25@] създава %25newwin%25  http://pmichaud.com %25%25%0a* [@%25newwin%25 [[http://google.com/ | Google]] %25%25@] създава %25newwin%25 [[http://google.com/ | Google]]%25%25%0a* [@%25newwin%25 [[Main.WikiSandbox]] %25%25@] създава %25newwin%25  [[Main.WikiSandbox]]%25%25%0a%0aВие можете да зададете, че връзката трябва да се отвори в нов прозорец, чрез @@[=%25target=_blank%25...%25%25=]@@ attribute:%0a%0a(:markup class=horiz:)%0aСледната връзка %25target=_blank%25 http://pmichaud.com %25%25%0aще се отвори в нов прозорец.%0a(:markupend:)%0a%0a...%0a%0aМоля преведете останалото!%0a%0a%0a
+time=1355467233
+title=Хипервръзки 

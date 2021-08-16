@@ -1,0 +1,10 @@
+version=pmwiki-2.2.131 ordered=1 urlencoded=1
+author=dsdfdsf
+charset=UTF-8
+csum= (+1412)
+ctime=1189462366
+name=PmWikiFa.PmWikiFa
+rev=23
+targets=PmWiki.WikiWikiWeb
+text=(:Language:Farsi [-(Persian)-]:)%0a(:Summary:{$:Language}:)%0a(:div id="wikitextfa" dir="rtl" align="right":)%0aپی‌ام‌ویکی یک [[PmWiki/WikiWikiWeb|وب ویکی‌ویکی]] است که به وسیلهٔ پاتریک میشُد(Patrick Michaud) با برنامه‌نویسی پی‌اچ‌پی گسترش یافته‌است. پی‌ام‌ویکی اصولاً به عنوان یک ابزار برای پشتیبانی و طراحی ساده برای نویسندگی و نگهداشت وبگاه‌های مشارکتی پدید آمده‌است.%0a%0aاین وبگاه با {$Version} کار می‌کند و این نرم‌افزار به صورت آزاد و با پروانهٔ گنو (GPL) از http://www.pmwiki.org/pub/pmwiki می‌تواند دریافت شود.%0a(:div direction="ltr" :)%0aPmWiki is a registered trademark of Patrick R. Michaud (http://pmichaud.com).%0a%0aThis page can be used for testing PmWiki for Persian language.%0a%0aThe matter is mostly related to languages with rtl script. Persian is one of them.%0aSome rtl languages:%0a%0aPersian, Arabic, Urdu, Thia, Hebrew ...%0a%0a%0a%0a(:div dir="rtl" :)%0a'''راهنمای فارسی سازی'''%0a%0aبرای راست چین کردن قالب لازم است در فایل pub\skins\pmwiki\pmwiki.css عبارت ;direction: rtl در بخش body بیاید. همچنین در این بخش می توان فونتهای فارسی را هم تعریف نمود.%0a
+time=1601273796

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=PHP 4.3 is now minimum requirement
+ctime=1261996802
+name=PmWikiZhTw.Requirements
+rev=6
+targets=Cookbook.Standalone,Cookbook.WikiOnAStick
+text=(:title 系統需求:)%0a(:Summary:運行 PmWiki 的系統需求:)(:Audience: administrators (basic) :)%0a運行 PmWiki 的系統需求：%0a# [[http://php.net/ | PHP]] 4.3 以後的版本%0a** 建議使用[[http://gophp5.org/ | PHP 5]] 以後的版本%0a# 可以運行 PHP 環境的 webserver%0a%0aPmWiki 目前已知可以在下列的 OS/webserver 組合的環境下運行：%0a* Apache 1.3 或 2.0, 配合任何作業系統 (Unix, Linux, Windows, and Mac OS/X)%0a** 建議使用[[http://httpd.apache.org/ | Apache 2.2]]或者以後的版本%0a* Microsoft Internet Information Server ， 配合Windows作業系統%0a* Linux + [[http://www.litespeedtech.com/|LiteSpeedWeb Server]] 標準版 %0a* appWeb (一個輕巧，內建PHP的 webserver) 配合Linksys NSLU2 Network Storage Link device%0a%0aPmWiki 目前已知無法在下列的環境下運行：%0a* Mac OS X 以前Mac OS：因為它無法支援 PHP%0a* 某些PHP 5.3 的RC版無法和windows配合使用，因為存在一些密碼上的問題。%0a%0a請參見[[(Cookbook:)Standalone]] recipe ，它提供了特別的解決方案，可以讓您在不需webserver的情況下，仍然可以運行PmWiki。%0aPmWiki 也可以運行於 [[Cookbook:WikiOnAStick |行動儲存裝置]]上。
+time=1315680534
+title=系統需求

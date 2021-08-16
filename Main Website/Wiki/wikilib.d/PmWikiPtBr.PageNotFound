@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=fix broken links - spaces after the "?" in internal links cause problems
+ctime=1286422753
+name=PmWikiPtBr.PageNotFound
+rev=36
+targets=PmWikiPtBr.PageNotFound,PmWikiPtBr.PmWikiPtBr,PmWiki.PmWiki
+text=(:Summary: Página que será mostrada quando o PmWiki não achar a página requisitada:)%0a(:title Página não encontrada:)%0a(:nolinkwikiwords:)%0a(:if name PmWikiPtBr.PageNotFound:)%0a-> %25green font-style:italic%25 Esta página contém o texto que será mostrado quando o PmWiki  não puder localizar a página requisitada.  Administradores podem editar esta página para mudar a mensagem%0a(:ifend:)%0a%0a(:if !group Category:)%0aA página "{$RequestedPage}" não existe.%0a(:ifend:)%0a(:if auth edit:)%0a%25rel=nofollow%25 ([[{*$FullName}?action=edit | Crie a página {*$FullName}]]). %0a(:ifend:)%0a%0a(:if equal {*$Name} {$DefaultName} :)%0a* [[{PmWikiPtBr/Search$PageUrl}?action=search&q={*$Groupspaced} | Busque por {*$Groupspaced}]].%0a(:else:)%0a* [[{PmWikiPtBr/Search$PageUrl}?action=search&q={*$Namespaced} | Busque por {*$Namespaced}]].%0a* [[PmWikiPtBr/Search?action=search&q=link={*$FullName} | Liste os links de retorno para esta página ]].%0a(:ifend:)%0a* [[PmWikiPtBr/PmWikiPtBr | Vá para a página inicial deste grupo]].%0a* [[PmWiki/PmWiki | Vá para a página inicial do PmWiki]].%0a%0a
+time=1315670403
+title=Página não encontrada

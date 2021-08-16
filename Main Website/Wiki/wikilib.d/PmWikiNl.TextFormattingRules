@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=translate title
+ctime=1191396935
+name=PmWikiNl.TextFormattingRules
+rev=4
+targets=
+text=(:title Tekst opmaakregels:)%0a(:redirect PmWiki.TextFormattingRules:)%0a
+time=1315670189
+title=Tekst opmaakregels

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.ChangementDuNomDeMenu
+rev=11
+targets=PmWikiFr.LayoutBasics,PmWikiFr.FichierDeConfiguration,Profiles.PRZ,PmWikiFr.IndexComplements
+text=!!!Question%0a%0aComment changer le nom de la page de menu `SideBar ?%0a%0a!!!Réponse%0a%0a- Créer de nouvelle(s) page(s) `SideBar(s) avec un autre nom, (par ex. Accueil.Menu, `MonGroupe.Menu)%0a%0a- Dans le fichier modèle (pmwiki.tmpl ou un autre modèle), remplacer le texte '`SideBar' par votre nouveau nom (par ex. 'Menu' dans l'exemple ci-dessus). C'est tout !\\%0aVoir [[LayoutBasics|+]] .%0a%0a!!!Discussion%0a%0a* 15 nov. 2004 (Steven Leite) - Comment cela affectera t'il la directive [=(:nosidebar:)=]?%0a%0a* Intéressant, parce que cette directive n'existe pas.\\%0aAussi, je viens juste de créer une nouvelle entrée dans le cookbook - Cookbook.RemovingLeftContent pour créer les directives [=(:noleft:)=] et [=(:noright:)=] .%0a%0a* Pour répondre à la question, le renommage de la page `SideBar n'affecte pas les directives, car c'est la zone  `PageLeftFmt ou `PageRightFmt qui est modifiée par la directive.%0a%0a!!!Voir aussi%0a*Exemple de [[fichier de configuration]]%0a%0a!!!Contributeur%0a%0a* [[~PRZ]] October 16, 2004, at 05:44 AM%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25 Traduction de PmWiki:Cookbook.SideBarNameChange
+time=1315669216

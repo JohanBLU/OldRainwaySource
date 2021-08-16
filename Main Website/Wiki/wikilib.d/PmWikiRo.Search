@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to local translation
+ctime=1270161616
+name=PmWikiRo.Search
+rev=2
+targets=
+text=(:Summary: Redirects to [[PmWikiRo/CautareWiki]]:)%0a(:redirect PmWikiRo/CautareWiki:)
+time=1315672569

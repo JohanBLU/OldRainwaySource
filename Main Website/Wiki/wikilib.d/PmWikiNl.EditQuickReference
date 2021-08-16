@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=change translation italic
+name=PmWikiNl.EditQuickReference
+rev=7
+targets=PmWikiNl.BasicEditing
+text=(:table width='100%25' cellspacing='0' cellpadding='0':)%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' colspan='2':)%0a%25target=_blank%25 [[BasicEditing|Basisbewerkingen]] - PmWikiNl/TipsForEditing \\%0a'''Alinea:''' voor een nieuwe alinea, druk 2 keer op de ''Enter'' toets; gebruik [=->=] om in te springen. \\%0a'''Lijsten:''' * voor puntenlijst, # genummerde lijst, :term:definitie voor een definitie lijst. \\%0a'''Nadruk:''' [=''Cursief''=], [='''Vet'''=], [='''''Cursief en vet'''''=], [=@@typewriter@@=] (g e s p a t i e e r d) \\%0a'''Links:''' [=[[andere pagina]]=], [=[[http://www.voorbeeld.nl]]=], of `SamengevoegdeHoofdletterWoorden`  \\%0a'''Groepen:''' [=[[Groep/Pagina]]=] toont Pagina, [=[[Groep.Pagina]]=] toont Groep.Pagina %0a(:cellnr style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd':)%0a'''Gebruik:''' !, !!, !!! voor koppen, [=----=] horizontale lijnen \\%0a'''Wijzig Formaat:''' [=[+...+]=] is groter, [=[-...-]=] is kleiner%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' :)%0a'''Voorkom opmaak:''' [=[=...=]=] \\%0a'''Nieuwe regel:''' [=\\=] of [=[[%3c%3c]]=]%0a(:tableend:)
+time=1315670189

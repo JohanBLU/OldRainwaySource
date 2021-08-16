@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Eliovir
+charset=UTF-8
+csum=tradukado de la franclingva paĝo
+ctime=1255507663
+name=PmWikiEo.GroupHeader
+rev=2
+targets=
+text=(:linkwikiwords:)%0a%25define=trail bgcolor=#eee block%25 %0a%25define=note font-style=italic color=green%25 %0a%25define=important block bgcolor=#fcc border='1px solid black' padding=5px%25 %0a%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px' font-size='smaller'%25 %0a%25define=audience class='frame rfloat' font-size=smaller bgcolor=#ffffcc%25 %25define=tr color=green font-size=smaller%25%0a%25define=note color=green font-style=italic%25 %0a%25define=noir color=black%25 %25define=blanc color=white%25%0a%25define=rouge color=red%25%0a%25define=vert color=green%25%0a%25define=bleu color=blue%25%0a%25define=jaune color=yellow%25 %0a%25define=gris color=gray%25 %0a%25define=argent color=silver%25%0a%25define=marron color=maroon%25%0a%25define=pourpre color=purple%25 %0a%25define=bleumarine color=navy%25
+time=1315672422

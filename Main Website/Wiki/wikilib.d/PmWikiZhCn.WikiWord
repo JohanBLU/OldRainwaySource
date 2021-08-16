@@ -1,0 +1,10 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333425580
+name=PmWikiZhCn.WikiWord
+rev=1
+targets=PmWikiZhCn.WikiWikiWeb,PmWikiZhCn.Links
+text=(:Summary: WikiWord的定义和使用:)%0a一个'''WikiWord'''是由一个或多个首字母大写、单词组合在一起，这组语法也被称为“mixed case”或“camel case”。%0a%0a!!作为页面标题%0a在[[WikiWikiWeb|Wiki系统]]中，WikiWords就是每个页面的[页面链接名称]。%0a%0a!!作为链接%0a在一些Wiki中（例如PmWiki），一个有效的 '''链接''' 可以被当作一个WikiWord。但在PmWiki中，可以通过[=[=...=]=]括起来或者在开头添加一个backquote (`) 来避免被识别为WikiWords链接: %0a%0a(:linkwikiwords:)%0a(:markup:)[@LikeThis 可以通过 `LikeThis 或者 [=LikeThis=] 来避免被自动识别@]%0a(:nolinkwikiwords:)%0a%0a译者注：这里的LikeThis（第二栏第一个LikeThis）本来是要作为一个WikiWord链接显示，但由于PmWiki默认未开启此功能，所以它并未被识别为WikiWord。 \\%0a更多关于PmWiki链接样式和页面标题格式的内容详见：[[Links|链接]]%0a%0a!!!开启WikiWord链接%0aWikiWord链接从Pmwiki version 2.1 beta2，开始是默认关闭的，需要通过在“config.php”添加下面一行开启它： %0a%0a    $EnableWikiWords = 1;%0a%0a详见： $LinkWikiWords.%0a%0a!!!如何删除不存在的Wiki页面链接后的小问号？%0a要隐藏这些小问号，请在“pub/css/local.css”中添加如下内容: %0a%0a->    [@span.wikiword a.createlink { display:none; }%0aspan.wikiword a.createlinktext { border-bottom:none; text-decoration:none; color:inherit; }@]%0a %0a!!!如何对Wiki词语链接加高亮效果？%0a如果要对Wiki词语链接黄色的背景突出显示，请在“config.php”中添加如下内容：%0a%0a->    [@$HTMLStylesFmt['wikiword'] = "span.wikiword { background:yellow; }";@] %0a%0a!!!关闭Wiki词语链接%0a设定 $WikiWordCount 可以使Wiki链接为纯文本显示。
+time=1333425580

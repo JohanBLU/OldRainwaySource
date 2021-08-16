@@ -1,0 +1,10 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=Bigpoon
+charset=UTF-8
+csum=Change link to zhTW feature page
+ctime=1197295139
+name=PmWikiZhTw.SideBar
+rev=27
+targets=PmWikiZhTw.WikiSandbox,Site.AllRecentChanges,Site.AllRecentChangesShort,PmWiki.PmWiki,PmWiki.FAQ,PmWikiZhTw.PmWikiFeatures,PmWikiZhTw.Download,PmWikiZhTw.Installation,PmWikiZhTw.BasicEditing,PmWiki.DocumentationIndex,PmWikiZhTw.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.RoadMap,Cookbook.Cookbook,PmWiki.Categories,Cookbook.Skins,PITS.PITS,PmWiki.MailingLists,PmWiki.PmWikiUsers,PmWiki.SuccessStories,Site.Site,PmWiki.SendPmMoney,PmWikiZhTw.OtherLanguages
+text=* [[首頁->http://www.pmwiki.org/wiki/PmWikiZhTw/PmWikiZhTw]]%0a* [[WikiSandbox|+]]%0a* [[全站更新記錄->Site/AllRecentChanges]]%0a** [-[[(short)->Site/AllRecentChangesShort]]-]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/FAQ]]%0a* [[特色->PmWikiZhTw/PmWikiFeatures]]%0a* [[下載->PmWikiZhTw/Download]]%0a* [[安裝->PmWikiZhTw/Installation]]%0a* [[基本編輯語法->PmWikiZhTw/BasicEditing]]%0a* [[說明文件總目->PmWiki/DocumentationIndex]]%0a* [[開發哲學->PmWikiZhTw/PmWikiPhilosophy]]%0a* [[版本發行說明->PmWiki/ReleaseNotes]]%0a* [[程式修改記錄->PmWiki/ChangeLog]]%0a* [[未來走向->PmWiki/RoadMap]]%0a%0a%25sidehead%25 [[(http://)pmwiki.org]]%0a* [[特殊功能調理包->Cookbook/Cookbook]]%0a* [[類別->PmWiki/Categories]]%0a* [[外觀模版->Cookbook/Skins]]%0a* [[PITS(問題追蹤)->PITS/PITS]]%0a* [[MailingLists->PmWiki/MailingLists]]%0a* [[PmWiki使用者->PmWiki/PmWikiUsers]]%0a* [[成功故事->PmWiki/SuccessStories]]%0a* [[站務管理->Site/Site]]%0a%0a* [[贊助PM->PmWiki/SendPmMoney]]%0a%0a* ''[[其他語言版本->PmWikiZhTw/OtherLanguages]]''
+time=1324008563

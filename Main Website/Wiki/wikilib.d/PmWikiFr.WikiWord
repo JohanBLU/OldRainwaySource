@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Romaric
+charset=UTF-8
+csum=
+ctime=1144510821
+name=PmWikiFr.WikiWord
+rev=7
+targets=PmWikiFr.WikiWord,PmWikiFr.WikiWikiWeb,PmWikiFr.Links
+text=(:title Mot Wiki:)%0a(:nolinkwikiwords:)%0a!!Définition et utilisation comme titre de page%0a%0aUn [[WikiWord|MotWiki]] est un ensemble de deux mots ou plus attachés où la première lettre de chaque mot est en majuscule. On appelle aussi parfois cette syntaxe "casse mixte". Les [[WikiWord|MotsWiki]] sont utilisés comme titre de page dans un  [[WikiWikiWeb]].%0a%0a!!Utilisation en tant que liens%0aDans certains wikis, vous pouvez chaîner n'importe quelle séquence de mots ensemble, de mettre en majuscule la première lettre de chaque mot, pour créer un '''lien''' [[WikiWord|MotWiki]] valide. Dans une telle configuration de PmWiki, les MotsWiki entourés par [=[=...=]=] ou précédé de ` ne sont pas transformés en liens:%0a%0a(:linkwikiwords:)%0a(:markup:)[@CommeCeci comparé à `CommeCeci ou même à [=CommeCeci=]@] %0a(:nolinkwikiwords:)%0a%0aVoir les [[Links|+]] pour connaître les règles de création de liens de PmWiki.%0a%0a!!!Activation des liens des [[WikiWord|MotsWiki]]%0aLes liens de MotWiki sont désactivés par défaut depuis PmWiki version 2.1 beta2. Pour activer les liens des MotsWiki vous devez ajouter à votre fichier ''config.php''%0a%0a       [@$LinkWikiWords = 1;@]%0a%0aSi vous voulez afficher les liens vers des pages non existantes sans décoration, placez la ligne suivante dans ''pub/css/local.css'':%0a%0a    [=span.wikiword a.createlink { display:none; }%0a    span.wikiword a.createlinktext %0a      { border-bottom:none; text-decoration:none; color:inherit; }=]%0a%0a!!!Trouver les liens des [[WikiWord|MotsWiki]]%0aSi vous faites une mise à jour depuis une ancienne version et que vous voulez convertir les liens des MotsWiki en [[lien->Links]] standard, ce qui suit vous aidera à trouver ces liens MotWiki plus facilement en les surlignant.%0aMettez dans ''config.php'':%0a%0a       [=$HTMLStylesFmt['wikiword'] = "%0a        span.wikiword { background:yellow; }%0a       ";=] %0a%0aD'autres descriptions de `MotWiki sont disponibles (en anglais) là : [[Wiki:WikiWord]] et là [[Wikipedia:WikiWord]].
+time=1315669216
+title=Mot Wiki

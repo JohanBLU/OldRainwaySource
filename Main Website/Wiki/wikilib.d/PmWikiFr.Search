@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=redirect PmWikiFr.Recherche
+name=PmWikiFr.Search
+rev=4
+targets=
+text=(:redirect PmWikiFr.Recherche:)
+time=1315669216

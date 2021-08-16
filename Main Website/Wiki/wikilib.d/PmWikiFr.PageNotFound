@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Dfaure
+charset=UTF-8
+csum=
+ctime=1138620663
+name=PmWikiFr.PageNotFound
+rev=4
+targets=PmWikiFr.PageNotFound
+text=(:title Page non trouvée:)%0a(:nolinkwikiwords:)%0a(:if name PmWikiFr.PageNotFound:)%0a-> %25green font-style:italic%25 Cette page contient le texte à afficher lorsque PmWiki ne trouve pas la page demandée. Les administrateurs peuvent modifier ce message en éditant cette page.%0a(:if:)%0a%0a(:if !group Category:)"{$RequestedPage}" n'existe pas.  %0a(:if auth edit:)%25rel=nofollow%25 ([[{*$FullName}?action=edit | Créer {*$FullName}]]) %0a(:if:)
+time=1315669216
+title=Page non trouvée

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=translated to bg
+ctime=1214146885
+name=PmWikiBg.PageNotFound
+rev=2
+targets=PmWikiBg.PageNotFound
+text=(:if !group Category:)Страницата "{$RequestedPage}" не съществува.%0a(:if auth edit:)%25rel=nofollow%25 ([[{*$FullName}?action=edit | Създаване на {*$FullName}]].) %0a(:if:)%0a
+time=1315672241

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=gleibson
+charset=UTF-8
+csum=glieibson
+ctime=1207742095
+name=PmWiki.LayoutAdvanced
+rev=5
+targets=
+text=%3chtml>%0a %3chead>%0a  ...some header stuff...%0a  %3c!--HTMLHeader-->%0a  ...some more header stuff...%0a %3c/head>%0a %3cbody>%0a  ...some HTML...%0a  %3c!--PageText-->%0a  ...some more HTML....%0a  %3c!--HTMLFooter-->%0a %3c/body>%0a%3c/html>
+time=1315670897

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.55 ordered=1 urlencoded=1
+author=Bernard Pabion
+charset=UTF-8
+csum=correction des liens vers la page édité (item 5)
+name=PmWikiFr.UploadQuickReference
+rev=27
+targets=PmWikiFr.Uploads,PmWikiFr.UploadQuickReference
+text=(:table width='100%25':)%0a(:cell bgcolor='#ffeedd' style='font-family:Arial; font-size:13px':)%0aPour avoir des détails : '''[[PmWikiFr/Uploads|+]]''' - Attention! les 'cookies' doivent être activés.%0a[[%3c%3c]]1. Utilisez le bouton "Browse / Parcourir" pour parcourir le contenu de '''votre''' propre ordinateur et sélectionnez le fichier que vous désirez envoyer sur le site.\\%0a2. Si le nom est inscrit, ne pas y toucher, sinon écrivez le nom du fichier à envoyer. Il peut être ''différent'' du nom précédent, mais l'extension doit être identique.\\%0a3. Appuyez ensuite sur "Envoyer".\\%0a4. Attendez le message vous donnant le résultat.\\%0a5. Quand c'est fini, recommencez à l'étape 1./ ou retournez '''[[{*$Name}?action=browse |voir votre page]]''' ou '''[[{*$Name}?action=edit |éditer votre page]]'''.%0a[[%3c%3c]]Nota : Pour faire référence à un fichier déjà téléchargé, il suffit d'écrire :%0a@@[=Attach:=]''nomdufichier.extension''@@ dans le texte de la page.%0a%0a(:tableend:)%0a%0a----%0a%0a!!Fichiers déjà téléchargés%0a%0a(:attachlist:)
+time=1379849355

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333363731
+name=PmWikiZhCn.DesignNotes
+rev=3
+targets=PmWiki.PmWikiPhilosophy,PmWiki.MailingLists,PmWiki.FlatFileAdvantages,PmWiki.HierarchicalGroups,PmWiki.SimultaneousEdits,PmWiki.PageLocking,PmWiki.PageFileFormat,PmWiki.SearchImprovements,PmWiki.FilePermissions,PmWiki.WikiGroupMotivation,PmWiki.WYSIWYG,PmWiki.DesignNotes
+text=(:title 设计说明:)%0a(:Summary:Some of the features and notes about PmWiki's design decisions:)%0a这里介绍了一些PmWiki功能特点的设计原因。%0a从[[PmWiki/PmWiki Philosophy|Pmwiki哲学]]和[[PmWiki/mailing lists|邮件讨论列表]]可以获得更多内容。%0a%0a* [[PmWiki:Flat File Advantages]] - 为什么PmWiki使用文件来存储页面信息，而不用SQL数据库？%0a* [[PmWiki:Hierarchical Groups]] - 为什么PmWiki不支持“群组嵌套”？%0a* [[PmWiki:Page Locking]] - 为什么编辑PmWiki页面时不需要锁定该页面(详见[[PmWiki/simultaneous edits|同步编辑]])？%0a* [[PmWiki:Page File Format]] - 关于PmWiki页面文件的格式信息。%0a* [[PmWiki:Search Improvements]] - 一些关于搜索的信息。%0a* [[PmWiki:File Permissions]] - 一些关于PmWiki文件配置权限的信息。%0a* [[PmWiki:Wiki Group Motivation]] - 为什么有Wiki组?%0a* [[PmWiki:WYSIWYG]] - 关于所见即所得的说明。%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: PmWiki为什么不使用分层/嵌套组？%0aA: It essentially comes down to figuring out how to handle %0apage links between nested groups; if someone can figure out %0aan obvious, intuitive way for authors to%0ado that, then nested groups become plausible.  See [[PmWiki/Design Notes]]%0aand [[PmWiki:Hierarchical Groups]].%0a%0aQ:为什么PmWiki的scripts脚本没有一个像 ?> 这样的闭合标签?%0aA: PmWiki脚本或自动忽略 ?> 闭合标签。这个标签不是必须的。详见：PHP手册[[http://php.net/manual/en/language.basic-syntax.instruction-separation.php | Instruction separation ]]。%0a%0aQ: PmWiki支持所见即所得编辑器或者像FCKEditor这些编辑器吗？%0aA: 简单的讲，因为PmWiki提供了一个GUI按钮工具栏来创建常用的Markup标记，所以才没有提供WYSIWYG编辑器。想知道为什么吗？详见： PmWiki:WYSIWYG 。%0a
+time=1335323404
+title=设计说明

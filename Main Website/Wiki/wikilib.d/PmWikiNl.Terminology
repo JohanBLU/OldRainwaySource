@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=Update
+ctime=1259265740
+name=PmWikiNl.Terminology
+rev=5
+targets=
+text=(:title Terminologie:)%0aDeze lijst is in de eerste plaats bedoeld om eenzelfde naamgeving te hanteren doorheen de Nederlandstalige PmWiki documentatie.%0a%0a||border=1%0a||!Engels ||!Nederlands ||!Opmerkingen ||%0a||Advanced ||Gevorderd || ||%0a||Administrator ||Beheerder || ||%0a||Attachment ||Bijlage || ||%0a||Author ||Auteur || ||%0a||Authoring ||Schrijven || ||%0a||Backlinks ||Links Terug ||Zie links ||%0a||Browser ||Browser || ||%0a||Cookbook ||Kookboek || ||%0a||Content ||Inhoud || ||%0a||Customization ||Aanpassen, aanpasbaar || ||%0a||Directive ||Declaratie || ||%0a||Download ||Downloaden || ||%0a||Edit ||Bewerk(en), wijzig(en) || ||%0a||(Basic) Editing ||Bewerken, (basis)bewerkingen || ||%0a||Feature ||Kenmerk || ||%0a||Footer ||Voettekst || ||%0a||Form ||Formulier || ||%0a||Formatting ||Vormgeven, vormgeving || ||%0a||Header ||Koptekst || ||%0a||Home (page) ||Hoofdpagina || ||%0a||Layout ||Opmaak ||Layout en markup vertalen beiden naar opmaak  ||%0a||Line ||Regel ||''En niet lijn'' ||%0a||Link ||Link ||En niet verwijzing ||%0a||(e)Mail ||(e-)Mail || ||%0a||Mailing list ||Discussielijst || ||%0a||(Text )Markup ||(Tekst)opmaak ||Layout en markup vertalen beiden naar opmaak ||%0a||Page ||Pagina || ||%0a||Paragraph ||Alinea ||''En niet paragraaf'' ||%0a||Pattern ||Patroon || ||%0a||Plugin ||Uitbreiden, uitbreidbaar || ||%0a||Recipe ||Recept || ||%0a||Restore ||Ongedaan maken, Herstellen, Terugzetten|| ||%0a||Script ||Script || ||%0a||Skin ||Skin || ||%0a||Style ||Stijl || ||%0a||Template ||Sjabloon || ||%0a||Turn on/off ||Inschakelen/Uitschakelen || ||%0a||Upload ||Uploaden || ||%0a||Variable ||Variabele || ||%0a%0aReferenties:%0a* http://taalunieversum.org/taal/%0a* http://nl.w3dictionary.org/%0a* http://taal.vrt.be/taaldatabanken_master/algemeen/home.shtml%0a* http://www.mijnwoordenboek.nl/%0a** Automatisering woordenboek: http://www.mijnwoordenboek.nl/thema/AU/NL/EN/A/1
+time=1315670189
+title=Terminologie

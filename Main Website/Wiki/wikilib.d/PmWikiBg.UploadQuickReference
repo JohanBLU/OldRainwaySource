@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1214146779
+name=PmWikiBg.UploadQuickReference
+rev=3
+targets=PmWiki.Uploads,PmWikiBg.UploadQuickReference
+text=>>class='quickref' color=#000000 bgcolor=#f9f9f9 font-family='Arial,sans-serif' font-size=12px padding=2px border='1px solid #cccccc'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads | Прикачване на файлове]]'''\\%0a1. Използвайте бутона "Browse", за да изберете файл за качване, намиращ се на вашия компютър.%0a%0a2. За полето "Преименоване на файла", въведете ново име на файла, ако е необходимо (''ако остане празно, файлът ще си остане със същото име'').\\%0a'+'''%25red bgcolor=white%25Уверете се, че файлът е с подходящо разширение%25%25, например [+.jpg+]'''+'.%0a%0a3. Натиснете бутона "Изпращане", за да изпратите файла и да го прикачите към страницата.%0a%0a4. За да поставите файла в тази уики-страница {*$FullName}, просто въведете в страницата @@[=Attach:=]име_на_файла.jpg@@.%0a%0a5. След качването на файла, можете:%0a* [[{*$Name}?action=browse | да видите страницата {*$Name}]] или%0a* [[{*$Name}?action=edit | да редактирате страницата {*$Name} ]] или%0a* да прегледате по-долу списъка с всички файлове, прикачени към страницата {*$FullName}.%0a>>%3c%3c%0a%0a%0a!! Прикачени файлове%0a(:attachlist:)%0a%0a
+time=1315672241

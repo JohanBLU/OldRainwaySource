@@ -1,0 +1,9 @@
+version=pmwiki-2.2.138 ordered=1 urlencoded=1
+author=xxx
+charset=UTF-8
+csum=00 (+0)
+name=PmWikiZhCn.SideBar
+rev=92
+targets=PmWikiZhCn.PmWikiZhCn,Main.WikiSandbox,PmWikiZhCn.Download,PmWikiZhCn.BasicEditing,PmWikiZhCn.Installation,PmWikiZhCn.DocumentationIndex,PmWiki.PmWiki,Skins.Skins,Cookbook.Cookbook,PmWiki.PmWikiFeatures,PmWiki.ReleaseNotes,PmWiki.SendPmMoney,PmWiki.PmWikiPhilosophy,PmWikiZhCn.StateOfTranslation,PmWiki.OtherLanguages,PmWikiZhCn.SideBar
+text=%25sidehead%25 [[PmWikiZhCn/PmWikiZhCn | 首页]]%0a* [[Main/WikiSandbox| 沙盒]]%0a* [[Download | + ]]%0a* [[Basic Editing | 基础语法]]%0a* [[Installation | 安装指南]]%0a* [[Documentation Index | 文档目录]]%0a%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[Skins/Skins| 模版]]%0a* [[(Cookbook:)Cookbook| 扩展]]%0a%0a%0a* [[(PmWiki/PmWiki)Features | 特点]]%0a* [[PmWiki/Release Notes | 产品历史]]%0a* [[PmWiki:SendPmMoney | 捐助]]%0a* [[PmWiki/PmWiki Philosophy | 设计理念]]%0a%0a%25sidehead%25 帮忙翻译%0a* [[http://www.pmwiki.org/wiki/Localization/Localization |翻译说明]]%0a* [[StateOfTranslation | + ]]%0a%0a%25sidehead%25 [[PmWiki:Other Languages | 其他语言]]%0a* [[http://www.pmwiki.org/wiki/PmWikiZhTw|繁體中文]]%0a%0a%25right%25 [-[[PmWikiZhCn.SideBar?action=edit | (编辑侧边导航)]]-]
+time=1614786590

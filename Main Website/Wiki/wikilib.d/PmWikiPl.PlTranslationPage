@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=JerzyTarasiuk
+charset=UTF-8
+csum=info about two new pages (previous change, this fixes formatting)
+ctime=1204062543
+name=PmWikiPl.PlTranslationPage
+rev=9
+targets=PmWikiPl.PodstawyEdycji,PmWiki.BasicEditing,PmWikiPl.ZasadyFormatowaniaTekstu,PmWiki.TextFormattingRules,PmWikiPl.Tabele,PmWiki.Tables,PmWikiPl.PatrickMichaud,PmWikiPl.DyrektywyTabel,PmWikiPl.PmWikiPl
+text=(:Language:Polski:)%0a!! Strona na informacje o tłumaczeniach PmWiki na polski, i uwagi o problemach.%0a%0a!!! Nowe tłumaczenia dokumentacji PmWiki na język polski:%0a* [[PodstawyEdycji]] - tłumaczenie [[PmWiki.BasicEditing]]; 26 Feb 2008 Jerzy Tarasiuk%0a* [[ZasadyFormatowaniaTekstu]] - tłumaczenie [[PmWiki.TextFormattingRules]]; 28 Feb 2008 Jerzy Tarasiuk%0a* [[Tabele]] - tłumaczenie [[PmWiki.Tables]]; 07 Mar 2008 Jerzy Tarasiuk%0a* [[Patrick Michaud]] - o autorze PmWiki; 15 Mar 2008 Jerzy Tarasiuk\\%0a  - pewnie przydałoby się uzupełnić - to jest skrócone tłumaczenie%0a* [[Dyrektywy Tabel]] - tworzenie zaawansowanych tabel; 15 Mar 2008 Jerzy Tarasiuk\\%0a  - trzeba przetłumaczyć ostatnie pytanie w FAQ i znaleźć odpowiedź%0a!!! Lista stron w grupie [[PmWikiPl/]] (generowana automatycznie):%0a(:pagelist group=PmWikiPl list=normal:)%0a----
+time=1315672569

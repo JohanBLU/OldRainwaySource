@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=de-sandbox
+name=PmWikiCs.Sandbox
+rev=16
+targets=PmWikiCs.TextFormattingRules
+text=!! Pískoviště %0aNebojte se na této stránce vyzkoušet formátování [[pomocí formátovacích pravidel->PmWikiCs/Text Formatting Rules]], právě pro tyto účely stránka slouží. Jen klikněte na odkaz ''Upravit'', který je umístěn na dolním okraji stránky. Úpravy zkoušejte na konci pod vodorovnou oddělovací čárou.%0a----%0a
+time=1315668571

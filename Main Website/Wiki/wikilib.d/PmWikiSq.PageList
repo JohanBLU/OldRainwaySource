@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Peter Bowers
+charset=UTF-8
+csum=
+ctime=1293463466
+name=PmWikiSq.PageList
+rev=2
+targets=
+text=(:pagelist group={$Group}:)
+time=1315672569

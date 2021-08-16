@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=
+ctime=1180532500
+name=PmWikiFr.SendPmMoney
+rev=9
+targets=Profiles.Pm,PmWiki.DonationsPage,PmWiki.SendPmMoney
+text=(:title Financer Patrick Michaud:)%0aPmWiki est disponible sans frais selon la licence GNU [[http://www.gnu.org/licenses/gpl.html |General Public License]]. Si vous trouvez PmWiki utile pour vous ou votre organisation, vous pouvez montrer votre approbation et votre support en envoyant une contribution à [[~Pm]]. Les dons peuvent être faits facilement en utilisant PayPal ou Amazon, en cliquant sur les liens dans la page anglaise ou ci-dessous:%0a%0a||width=100%25%0a|| (:paypal pmwiki:) || (:amazon pmwiki:) ||%0a%0aVotre don aidera à la pérennité du support, de la documentation et de l'expansion de PmWiki. Pm sera heureux de vous lister comme donateur sur la page [[PmWiki/donations page]]-- il suffit de dire en commentaire comment vous voulez être listés (ou si vous ne voulez pas l'être).%0a%0aOu si vous voulez envoyer quelque chose de tangible au lieu d'argent, regardez la liste [[Pm's ThinkGeek Wish List -> http://www.thinkgeek.com/brain/gimme.cgi?wid=81cecc3f8]].%0a%0aLa page en anglais:%0a%0a[[PmWiki.SendPmMoney]]%0a%0aNote du traducteur: Si vous n'avez pas d'argent (ou si vous avez déjà donné), vous pouvez aussi aider en participant aux travaux, à la traduction, ou en faisant de la publicité à PmWiki. Pm est particulièrement présent sur la liste de discussion et le serveur de PmWiki (ici même) parfois un peu lent, si vous pouvez donner, n'hésitez pas à le faire.
+time=1315669216
+title=Financer Patrick Michaud

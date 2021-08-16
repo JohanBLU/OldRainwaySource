@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=bertrand
+charset=UTF-8
+csum=directory ->dossier
+name=PmWikiFr.DossiersEtFichiers
+rev=11
+targets=PmWikiFr.PerGroupCustomizations,PmWikiFr.LocalCustomizations,PmWikiFr.InterMap,PmWikiFr.IndexDocAdmin
+text=!!! Organisation des fichiers de PmWiki%0a%0a* @@pmwiki.php@@ est le script principal qui fait fonctionner le système wiki. %0a* @@local@@ (dossier) est un bon endroit pour stocker les [[PerGroupCustomizations|personnalisations de groupe]] et autres [[LocalCustomizations |configurations locales]].%0a** @@local/config.php@@ contient les paramètres pour l'ensemble du site.%0a** @@local/localmap.txt@@ contient les raccourcis de [[InterMap|+]] définis localement.%0a* @@pub@@ (dossier) contient les fichiers qui doivent être accessibles aux navigateurs, tels que les images ou les fichiers.css. %0a* @@wiki.d@@ (dossier) contient les pages créées par les utilisateurs, enregistrées dans des fichiers textes individuels. Il est créé automatiquement la première fois que pmwiki.php est lancé. Les noms de fichiers ont la forme: Nomdegroupe.Nomdepage. Les pages détruites celle-ci: Nomdegroupe.Nomdepage,temps. Vous pouvez retirer physiquement les fichiers détruits uniquement via un shell ou par commandes FTP.%0a* @@wikilib.d@@ (dossier) contient les pages par défaut fournies avec la distribution de PmWiki. Les fichiers de ce dossier sont utilisés quand une page du même nom n'existe pas dans le dossier @@wiki.d@@.%0a* @@scripts@@ (dossier) contient des scripts additionnels dont :  %0a** @@intermap.txt@@ qui définit les raccourcis de [[InterMap|+]] par défaut pour certaines [=URLs=].%0a** faq.php%0a** includeurl.php%0a** pgcust.php%0a** pmwe%0a** simple-journal.php%0a** trails.php%0a* @@COPYING@@ un exemplaire de la License publique Générale GNU.%0a%0a----%0a%25trail%25%3c%3c|[[Index doc admin]]|>>%0a%0a----%0a%25tr%25Traduction de ? - Page originale sur PmWiki:PmWikiFr.DossiersEtFichiers%0a
+time=1315669216

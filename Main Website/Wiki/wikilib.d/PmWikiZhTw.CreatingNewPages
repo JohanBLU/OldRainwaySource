@@ -1,0 +1,11 @@
+version=pmwiki-2.2.107 ordered=1 urlencoded=1
+author=Laundry Machine
+charset=UTF-8
+csum=Fix typos
+ctime=1262091107
+name=PmWikiZhTw.CreatingNewPages
+rev=5
+targets=PmWikiZhTw.MyNewPage,PmWikiZhTw.Links,Site.SideBar,PmWikiZhTw.WikiGroup,PmWiki.Links
+text=(:Summary:如何新增一個頁面:)%0a(:title 新增頁面:)%0a(:Audience: authors (basic) :)%0a想要新增一個頁面的第一步是：編輯一個現有的頁面，並在此頁面中加入連到您想新增的頁面的連結。%0a%0a-> 要連結到新增的頁面，您必須先為這個頁面命名。頁面的名稱最好與它的內容相關，這樣大家就可以很容易明白此頁面的內容為何了。%0a%0a-> 要新增連結，請使用 '''double brackets''' 來包圍住頁面的名稱。例如，輸入 [@[[my new page]]@] 將會建立一個連結到 [[my new page]] 頁面。您也可以使用 double bracket%0a 形式的連結來完成[[許多事情 -> Links]]。%0a%0a就如您所見，在 [[my new page]] 的後面，有一個問號。這是因為 [[my new page]] 這個頁面尚未寫入任何的內容。所以，新增頁面的第二步就是：點選剛剛所輸入的連結，並連到新增的頁面。撰寫好內容後，就可以將新增的頁面存檔了。%0a%0a----%0a另一個新增頁面的方法：在您瀏覽器的網址列（顯示網址的區域）中，將您目前所在的 wiki 頁面名稱改為您所想要新增的頁面名稱，然後按下 Enter 鍵。PmWiki 將提示您此頁面並不存在，但您仍可以按下"編輯"連結，然後撰寫、儲存新的頁面。%0a%0a->而此法的壞處在於：所新增的頁面將是一個孤立的頁面，也就是說「沒有頁面可以連結到它」。所以將只有新增頁面的作者知道此頁面的存在。它將成為一個孤兒：沒有人讀、沒有人看、沒有人連結，更慘的是：沒有人愛。所以說，在既有的頁面中新增連結，或者是增加於[[Site/SideBar|側邊欄]]中是比較好的方法。%0a----%0a%0a延伸學習：%0a* 您也可以組織一部分的頁面，使它們成為[[wiki group|群組]]，您也可以連結群組中不同的頁面。%0a%0a>>faq%3c%3c [[#faq]]%0a[[#beginning]]%0aQ: 我要如何新增一個頁面？%0aA: 輸入 [=[[my new page]]=] 就可以建立一個到新頁面的連結。有許多可以用 double bracket 來表達的[[PmWiki.Links|連結]]%0a%0aQ: 為什麼有些頁面的名稱中可以有空白，例如「Creating New Pages」，而又有些頁面則是以 WikiWord 的形式命名，例如「CreatingNewPages」？%0aA: 預設的頁面名稱是以 WikiWord 的形式命名的，例如「CreatingNewPages」。然而，您可以更改頁面的標題，在頁面中直接輸入 [@(:title Creating New Pages:)@] 在您的想要頁面名稱中有特殊的符號，使得它無法被正確的儲存時，就可以用此法來避免名稱中含有特殊符號了。（您可以按此頁的"編輯"來參考標題的範例）
+time=1520092869
+title=新增頁面

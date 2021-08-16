@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=content moved to page Search and replaced with redirect
+ctime=1142585524
+name=PmWikiRu.SiteSearh
+rev=6
+targets=
+text=(:Summary: Redirects to [[PmWikiRu/Search]]:)%0a(:redirect PmWikiRu/Search:)
+time=1315680534

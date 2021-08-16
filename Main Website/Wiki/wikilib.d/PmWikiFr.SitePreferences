@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1144868824
+name=PmWikiFr.SitePreferences
+rev=6
+targets=Site.Preferences,PmWikiFr.AccessKeys,Site.EditForm
+text=(:title Préférences du site:)%0aLa page [[{$SiteGroup}.Preferences]] contient les préférences du navigateur ajustable.%0aCeci inclut [[access keys|+]] (raccourcis clavier vers certaines actions telles que l'édition, l'historique ou la navigation) et les paramètres de la page [[{$SiteGroup}.EditForm]] (largeur et hauteur de la fenêtre d'édition) de même que le nom de la forme d'édition en cours.%0a%0aUne autre page que [[{$SiteGroup}.Preferences]] peut être choisie en faisant une copie de cette page sous un nouveau nom, en l'adaptant, et en définissant un cookie qui pointera sur cette page pour le navigateur actuellement utilisé, avec %0a%0a   ?setprefs=`UnGroupe.`PréférencesPersonnelles%0a%0a`UnGroupe.`PréférencesPersonnelles étant le nom de la page personnalisée.%0a%0a!!!à propos des raccourcis clavier%0a%0a----%0a!!Notes et Commentaires%0a%0aNotez qu'afin de valider l'utilisation de la page [[{$SiteGroup}.Preferences]], une ligne comme suit doit être ajoutée au fichier local/config.php:%0a%0a XLPage('prefs', "Site.Preferences");
+time=1315669216
+title=Préférences du site

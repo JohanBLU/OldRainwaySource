@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=typo
+ctime=1143576858
+name=PmWikiFr.Contributors
+rev=10
+targets=PmWikiFr.WikiStyles,PmWikiFr.EnvoyerDesFichiersSurLeSite,PmWikiFr.WikiGroup,PmWikiFr.Links,PmWikiFr.Uploads,Cookbook.EmacsPmWikiMode,PmWiki.MailingLists,PmWiki.Petko,PmWiki.ChangeLog,PITS.PITS,PmWikiFr.IndexDocumentation
+text=(:title Contributeurs:)%0aCi-dessous une liste des contributeurs principaux au développement et à l'amélioration de `PmWiki.  Toutes mes excuses si j'ai oublié quelqu'un -- Vous êtes libres de vous y citer si vous avez été oublié, et vous pouvez retirer votre nom si vous ne désirez pas être associé avec tous ces gens. :-)%0a%0a* Glenn Blalock - suggestions de [[WikiStyles|+]], tests, documentation%0a* James Davis - [[WikiStyles|+]] codes, test%0a* Scott Duff - pmwe, simple-journal.php, vérification générale du bon fonctionnement%0a* Dawn Green - suggestions de [[WikiStyles|+]], [[Envoyer des fichiers sur le site]], documentation%0a* Janice Heinold - Tests initiaux de `PmWiki et suggestions, documentation%0a* Ross Kowalski - [[Envoyer des fichiers sur le site]] et étude de la forme d'impression%0a* Isabelle Michaud - codes d'image flottante, [[groupes Wiki->WikiGroup]], [[Envoyer des fichiers sur le site]]/attachements%0a* John Rankin - WikiTrails, [[Links|+]], EditQuickReference, notify.php, documentation, déboguage%0a* Carlo Strozzi - Internationalisation, `PmWiki on Boa, redirection HTML %0a* Jessica Tishmack - [[Uploads|+]], tests%0a* Christian Ridderström - [[Cookbook:EmacsPmWikiMode |pmwiki-mode for Emacs]] et quelques autres astuces/modifications.%0a* Jean-Claude Gorichon - Priorités de développement : http://pmichaud.com/wiki/Development/DevelopmentPriority%0a* Petko Yotov - je suis développeur du noyau PmWiki et webmestre de pmwiki.org depuis janvier 2009 (après l'avoir connue en 2004). Mes contributions sont sur la page [[(PmWiki:)Change log]], dans le [[(PITS:)PITS]] (système de suivi de problèmes) et dans les [[(PmWiki:)mailing lists|listes de discussion]]. Mes modules (recettes) sont sur [[PmWiki:Petko|mon profil]].%0a%0a---- %0a%25trail%25%3c%3c|[[Index documentation]]|>>
+time=1315669216
+title=Contributeurs

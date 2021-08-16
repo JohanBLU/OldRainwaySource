@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=IDB
+charset=UTF-8
+csum=Creation of Project Roles holding page, as per PM's email to pmwiki-users
+ctime=1232144436
+name=PmWiki.ProjectRoles
+rev=3
+targets=
+text=Holding page for Project Roles -- as per PM's message on [pmwiki-users], Any hope for 2.2.0 stable release?:%0a%0aOn Fri, Jan 16, 2009 at 03:14:44PM +0100, Christian Ridderstr?m wrote:%0a%0a> On Fri, 16 Jan 2009, Petko Yotov wrote:%0a%0a>> I'll make a longer and more precise statement in a day or two, about\\%0a>> what should be expected from me, but making it easy for translators to\\%0a>> prepare the documentation for a release is on my priority list.%0a%0a> Speaking to your role as release manager, I suggest that you document how\\%0a> you want to do the process. In my experience that'll help you and us to\\%0a> do this more efficiently. It can be a quite simple documentation, just a\\%0a> list of the steps.%0a%0aI already have a procedure in place and a script that%0aautomates the task of generating a new release -- including %0aparts of the initial draft of the release announcement.  I've%0abeen using it for years.  So, we primarily need to document%0ahow one uses that release script.  :-)%0a%0a> I think it'd also be a good idea to write down what you think the\\%0a> different roles will do, as you will now have to differentiate between\\%0a> yourself as release manager, developer and user... not that easy in my\\%0a> experience.%0a%0aI agree that we should document the roles somewhere.  If only%0awe had a good way to organize such documentation that could%0abe easily upda.... Oh. :-)%0a%0aI suggest we start a page at %0ahttp://www.pmwiki.org/PmWiki/ProjectRoles .
+time=1315670897

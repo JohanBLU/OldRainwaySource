@@ -1,0 +1,10 @@
+version=pmwiki-2.2.105 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=redirection
+ctime=1467380226
+name=PmWikiDe.StateOfTranslation
+rev=2
+targets=
+text=(:redirect StandDerUebersetzung quiet=1:)(:Translation_Status: %25green%25fertig%25%25:)(:comment für die Seite Stand der Übersetzung:)%0a(:Summary: Die Seite wird umgeleitet auf [[StandDerUebersetzung]]:)%0a(:comment Diese Seite gewährleistet, dass der Stand der Übersetzung über den Standardnamen StateOfTranslation erreichbar ist.:)
+time=1511026653

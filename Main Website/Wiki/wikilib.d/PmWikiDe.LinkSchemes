@@ -1,0 +1,11 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=link to german page
+ctime=1404748493
+name=PmWikiDe.LinkSchemes
+rev=3
+targets=PmWikiDe.InterMap,PmWikiDe.MakeLink,Cookbook.AddUrlSchemes
+text=(:title Linkschemata:)%0a(:Summary: Von PmWiki unterstützte Linkschemata:)%0a(:Original_Page: PmWiki.LinkSchemes:)%0a(:Translation_Date: 2014-07-07:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren (Administratoren):)%0a%0a!! Von PmWiki unterstützte Linkschemata%0aVon den [[http://tools.ietf.org/html/rfc3986|URI-Schemata]]'^[[Wikipedia:URI_scheme|#]]^' (Protokollen) [-(data: file: ftp: gopher: http: https: ldap: ldapi: ldaps: mailto: mms: news: nntp: pop: rlogin: rtsp: rtspu: rsync: sip: sips: snews: telnet: tn3270: ssh: urn: urn:isbn: urn:oid:)-]%0awerden die folgenden von PmWiki unterstützt%0a[-(definiert in pmwiki.php)-]%0a%0a* http: [[http://tools.ietf.org/html/rfc2616|rfc 2616]] [-[[http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol|#]]-]%0a* https: [[http://tools.ietf.org/html/rfc2616|rfc 2817]]%0a* mailto: [[http://tools.ietf.org/html/2368|rfc 2368]]%0a* ftp: [[http://tools.ietf.org/html/959|rfc 959]] [-[[Wikipedia:File_Transfer_Protocol|#]]-]%0a* news: [[http://tools.ietf.org/html/1738|rfc 1738]] [-[[Wikipedia:Network_News_Reader_Protocol|#]]-]%0a* gopher: [[http://tools.ietf.org/html/1436|rfc 1436]] [-[[Wikipedia:Gopher_(protocol)|#]]-]%0a* nap: [-http://nap.dstm.info/[[|#]]-]%0a* file: [[http://tools.ietf.org/html/rfc1738|rfc 1738]]%0a* tel: [[http://tools.ietf.org/html/rfc2806|rfc 2806]]%0a* geo: [[http://tools.ietf.org/html/rfc5870|rfc 5870]]%0a%0aPmWiki unterstützt auch das [[InterMap#path|path]] -Linkschema%0a%0aSiehe auch%0a* [[PmWikiDe/InterMap]] {PmWikiDe.InterMap$:Summary}%0a* [[PmWikiDe/MakeLink|$LinkFunctions]]%0a%0a!!FAQ%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Wie füge ich ein neues Schema hinzu, z. B. [[http://sdp.ppona.com/|mms]]?%0aA: Siehe [[Cookbook:AddUrlSchemes]] {Cookbook.AddUrlSchemes$:Summary}%0a[[#faqend]]%0a>>%3c%3c%0a
+time=1466316968
+title=Linkschemata

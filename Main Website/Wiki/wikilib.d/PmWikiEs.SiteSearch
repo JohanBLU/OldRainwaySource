@@ -1,0 +1,10 @@
+version=pmwiki-2.2.116 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=another mistake
+ctime=1563319442
+name=PmWikiEs.SiteSearch
+rev=4
+targets=
+text=(:Summary:$[Search wiki]:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0a[[#searchinfostart]]%0aUna búsqueda de más de una palabra encontrará páginas que contienen todas las palabras. Use comillas para buscar una frase. También use comillas para texto con puntuación o caracteres especiales. Las búsquedas no distinguen entre mayúsculas y minúsculas, pero el acento es sensible en la configuración predeterminada (es decir, 'u' no es lo mismo que 'ù').%0a%0aPara limitar su búsqueda a un solo grupo, ingrese el nombre del grupo seguido de una barra al principio de la cadena de búsqueda (por ejemplo, "[=PmWiki/=]" o "{$SiteGroup}/").%0aPara listar todas las páginas, ingrese una barra para la búsqueda.%0a%0a!! [- Ejemplos de búsqueda-]%0a%0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||!Ingrese ||!Para buscar páginas cuyo contenido contenga ||%0a||tarta de manzana ||ambos 'manzana' y 'tarta' ||%0a||"pastel de manzana" ||la frase 'pastel de manzana' ||%0a||pmwiki/manzana ||'manzana' en el grupo de páginas [= PmWiki =] ||%0a||"pmwiki/manzana" ||la frase 'pmwiki/manzana' en todos los grupos de páginas ||%0a||manzana -tarta ||'manzana', omitiendo aquellos que contienen 'tarta' ||%0a||alimentos -"pastel de manzana" ||'alimentos', omitiendo aquellos que contienen 'pastel de manzanas' ||%0a||manzana "-tarta" ||las palabras 'manzana' y '-tarta' ||%0a||tarta - manzana ||'manzana', '-', y 'tarta' ||%0a||"tarta:" ||la palabra 'tarta' con dos puntos ||%0a||"tarta=sabroso" ||la frase 'tarta=sabroso' ||%0a||pmwiki/ ||todas las páginas en el grupo [=PmWiki=] ||%0a%0aAlgunos '' caracteres especiales '' deben incluirse entre comillas, incluidos los dos puntos (:), signo de igual (=), menor que (&lt;), comilla simple (') y comilla doble (").%0a%0a[[#searchinfoend]]
+time=1563345166

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=translate summary
+ctime=1255105904
+name=PmWikiNl.SiteSearch
+rev=6
+targets=
+text=(:Summary:Redirect-link naar [[PmWikiNl.Search]]:)%0a(:redirect Search:)
+time=1315670189

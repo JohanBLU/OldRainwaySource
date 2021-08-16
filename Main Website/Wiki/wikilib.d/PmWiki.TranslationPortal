@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=content moved to other pages (see comment in page) Replaced by redirect
+ctime=1180458567
+name=PmWiki.TranslationPortal
+rev=31
+targets=
+text=(:Summary: Redirects to [[Localization/Localization]]:)%0a(:redirect Localization/Localization:)%0a(:comment Most of the content is merged into Localization.Localization or Localization.Localization-Talk. One subheading is merged with PmWiki.Internationalizations:)%0a
+time=1315670897

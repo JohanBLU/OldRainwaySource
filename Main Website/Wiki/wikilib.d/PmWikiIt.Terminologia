@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+name=PmWikiIt.Terminologia
+rev=17
+targets=
+text=(:Summary: Redirect verso [[PmWikiIt.Terminology]]:)%0a(:redirect PmWikiIt.Terminology:)
+time=1315669968

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=redirect PmWikiFr.PmWikiFr, le contenu est le même
+ctime=1168868200
+name=PmWikiFr.HomePage
+rev=7
+targets=
+text=(:redirect PmWikiFr.PmWikiFr:)%0a%0a%0a
+time=1315669216

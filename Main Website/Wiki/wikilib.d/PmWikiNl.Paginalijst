@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=
+ctime=1149413991
+name=PmWikiNl.Paginalijst
+rev=2
+targets=
+text=Dit is een overzicht van alle in het Nederlands vertaalde pagina's van de PmWiki, gesorteerd op volgorde van aanmaken van de pagina%0a%0a(:pagelist group=PmWikiNl fmt=#title order=time list=normal:)%0a
+time=1315670189

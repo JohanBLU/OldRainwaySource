@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=rigo
+charset=UTF-8
+csum=Traduzione
+ctime=1198427547
+name=PmWikiIt.ListStyles
+rev=2
+targets=PmWikiIt.WikiStyles,PmWikiIt.DocumentationIndex
+text=(:title Stili per gli elenchi:)%0a(:Summary: Stili per gli [[TextFormattingRules#BulletedLists|elenchi]]:)%0aSi veda anche [[Wiki styles|+]], [[Cookbook:WikiStylesPlus]]%0a%0aOltre alle liste tradizionali, ordinate (numerate) e non, è possibile usare gli stili [@%25ROMAN%25@], [@%25roman%25@], [@%25ALPHA%25@], e [@%25alpha%25@]. Questi vanno applicati al primo elemento di un elenco numerato.%0a%0a(:markup class=horiz:)%0a# %25ROMAN%25 Primo livello%0a## %25ALPHA%25 Secondo livello%0a## Secondo livello%0a## Secondo livello%0a### Terzo livello%0a### Terzo livello%0a## Secondo livello%0a### Terzo livello%0a#### %25alpha%25 Quarto livello%0a##### %25roman%25 Quinto livello%0a##### Quinto livello%0a#### Quarto livello%0a# Primo livello%0a# Primo livello%0a(:markupend:)%0a%0aPer iniziare un elenco con un numero qualsiasi, bisogna usare lo stile [@value@]. Esempio:%0a%0a(:markup class=horiz:)%0a# %25item value=2517%25 Primo livello%0a# %25ROMAN%25 Primo livello%0a## %25ALPHA%25 Secondo livello%0a## Secondo livello%0a## Secondo livello%0a### Terzo livello%0a### Terzo livello%0a## Secondo livello%0a### Terzo livello%0a#### %25alpha%25 Quarto livello%0a##### %25roman%25 Quinto livello%0a##### Quinto livello%0a#### Quarto livello%0a# Primo livello%0a# Primo livello%0a%0a(:markupend:)%0a%0a%0a%25trail%25%3c%3c|[[Documentation Index|+]]|>>
+time=1315669968
+title=Stili per gli elenchi

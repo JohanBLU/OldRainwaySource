@@ -1,0 +1,11 @@
+version=pmwiki-2.2.135 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=de-sandbox (+1066)
+ctime=1206102986
+name=PmWikiDe.FAQ
+rev=20
+targets=Site.Search,PmWikiDe.DocumentationIndex,PmWiki.Questions
+text=(:title FAQ:)%0a(:Summary: frequently answered/ask Questions - häufig beantwortete/gestellte Fragen:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2011-05-15:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren, Administratoren:)%0a%0aDiese Seite ist bestrebt, einige der gewöhnlich auftretenden Fragen zu sammeln. Die Antworten sind in den korrespondierenden Seiten zu finden (siehe Verweise). Wenn Sie eine Frage haben, die hier nicht beantwortet wird, können Sie ihre Frage (auf englisch) in der Seite [[(PmWiki:)Questions]] loswerden, oder suchen Sie nach Dokumentationen mit Hilfe der [[Site.Search|Suchseite]]. Weitere Dokumentationen finden sich im [[DocumentationIndex|+]].%0a%0a(:comment Die Fragen und Antworten sind in ihren diesbezüglichen Seiten zu finden. Hierunter ist eine Sammlung dieser Fragen mit Hilfe einer Seitenliste erzeugt. Bitte nehmen Sie Änderungen in den diesbezüglichen Seiten vor anstatt zu versuchen, hier etwas einzutragen!  :)%0a%0a%0a(:pagelist trail=PmWikiDe.DocumentationIndex name=-{*$FullName} "[[#faq]]" fmt=#includefaq class=faqtoc:)%0a
+time=1612788394
+title=FAQ

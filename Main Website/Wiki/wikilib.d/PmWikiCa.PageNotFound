@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan translation
+ctime=1310985608
+name=PmWikiCa.PageNotFound
+rev=3
+targets=PmWikiCa.PageNotFound
+text=(:Language:Català:)%0a(:Title Pàgina inexistent:)%0a(:Summary: Pàgina que es mostra quan PmWiki no pot trobar la pàgina demanada:)%0a(:nolinkwikiwords:)%0a(:if name PmWikiCa.PageNotFound:)%0a-> %25green font-style:italic%25 Aquesta pàgina conté el text que es mostrarà quan PmWiki no ha pogut localitzar la pàgina demanada.  Les administradores poden editar aquesta pàgina per a canviar el missatge.%0a(:ifend:)%0a%0a(:if !group Category:)%0aLa pàgina "{$RequestedPage}" no existeix.  %0a(:ifend:)%0a(:if auth edit:)%0a%25rel=nofollow%25 ([[{*$FullName}?action=edit | Creeu {*$FullName}]]). %0a(:ifend:)
+time=1315672241
+title=Pàgina inexistent

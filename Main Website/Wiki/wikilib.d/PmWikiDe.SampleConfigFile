@@ -1,0 +1,11 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=summary
+ctime=1340363015
+name=PmWikiDe.SampleConfigFile
+rev=10
+targets=
+text=(:title Beispielkonfigurationsdatei:)%0a(:Summary: Die Seite wird umgeleitet auf [[SampleConfigFileLocalization]]:)%0a(:Original_Page: Localization.SampleConfigFileLocalization:)%0a(:Translation_Date: 2012-06-21:)%0a(:Translation_Status: %25color=green%25fertig%25%25:)%0a(:Audience: Administratoren (Fortgeschritten):)%0a(:redirect PmWikiDe.SampleConfigFileLocalization quiet=1:)%0a(:comment Diese Seite existiert wegen der Namensgleichheit mit der englischen (Original-)Seite. Nach der Installation der Gruppe Localization ist die Bezugsseite allerdings in dieser Gruppe zu finden Localization.SampleConfigFileLocalization. Das soll sich im Namen der Seite widerspiegeln:)%0a
+time=1465917977
+title=Beispielkonfigurationsdatei

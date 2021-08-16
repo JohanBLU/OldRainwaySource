@@ -1,0 +1,11 @@
+version=pmwiki-2.2.43 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1143746449
+name=PmWikiFr.AvailableActions
+rev=7
+targets=PmWikiFr.CustomMarkup,PmWikiFr.IndexDocAdmin
+text=(:title Les actions possibles:)%0a!! Les actions disponibles dans `PmWiki%0a%0a:[@?action=browse@]: affiche la page spécifiée %0a%0a:[@?action=edit@]: édite la page spécifiée%0a%0a:[@?action=diff@]: montre l'historique des changements de la page spécifiée%0a%0a:[@?action=attr@]: affiche un dialogue pour définir/modifier le mot de passe de la page spécifiée%0a%0a:[@?action=postattr@]:%0a%0a:[@?action=upload@]: affiche un formulaire pour envoyer un attachement au groupe courant%0a%0a:[@?action=crypt@]: affiche un formulaire pour la génération d'une chaîne cryptée à partir d'un mot de passe en clair ('hashcode') pour l'utiliser dans votre fichier config.php%0a%0a:[@?action=print@]: affiche la page spécifiée en utilisant le modèle spécifié par $ActionSkin['print']%0a%0a:[@?action=source@]: montre le code source de la page%0a%0a!!! Actions validées par $EnableDiag:%0a%0aLes actions suivantes sont disponibles seulement si vous spécifiez [@$EnableDiag = 1@] dans votre fichier de configuration. Elles peuvent être utilisées pour le déboguage et ne doivent pas être active dans un environnement de production.%0a%0a:[@?action=ruleset@]: affiche une liste de toutes les balises en trois colonnes:%0a** colonne 1 = nom de la balise (1. paramètre de la fonction markup() )%0a** colonne 2 = quand appliquer la règle (2. paramètre de la fonction markup() )%0a** colonne 3 = clé interne de tri de `PmWiki(dérivé de #2)%0a->(voir [[CustomMarkup|balises personnalisées]])%0a%0a:[@?action=phpinfo@]: affiche la sortie de phpinfo() et termine. Aucune page ne sera affichée.%0a%0a:[@?action=diag@]: affiche un vidage des toutes les variables globales et termine. Aucune page ne sera affichée.%0a%0a----%0a%25trail%25%3c%3c|[[Index doc admin]]|>>
+time=1350372024
+title=Les actions possibles

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+author=Antony Templier
+charset=UTF-8
+csum=
+ctime=1180532061
+name=PmWikiFr.FAQ
+rev=25
+targets=PmWikiFr.Recherche,PmWikiFr.DocumentationIndex,PmWikiFr.PmWikiFrQuestions,PmWiki.FAQ,PmWikiFr.FichierDeConfiguration,Profiles.PRZ,Group.Name
+text=Cette page essaie de répondre à quelques unes des questions les plus fréquemment posées. Si vous avez des questions qui n'ont pas leur réponse ici, vous pouvez laisser votre question sur la page [[PmWikiFrQuestions]] ou chercher dans la documentation avec l'outils [[PmWikiFr.Recherche|Rechercher]]. Vous trouverez d'autre renseignements sur la page [[PmWikiFr.DocumentationIndex|documentation]].%0a%0aCette page ne recense que les questions/réponses posées en français (ou traduite) - pour l'équivallent en anglais, voir [[PmWiki.FAQ]].%0a%0a(:comment Les questions et les réponses sont contenues dans leurs pages respectives, merci de faire les modifications sur ces pages et non pas ici:)%0a(:pagelist "[[#faq]]" fmt=#includefaq group=PmWikiFr name=-PmWikiFr.FAQ class=faqtoc :)%0a%0a!!Changement Récent%0a%0aComment faire en sorte que les "Changements récents" fonctionnes ?. Pour moi ce lien renvoie sur $Group.ModifsDuGroup, fichier qui n'existe pas donc cela finis par faire un $Group.ModifDuGroup?action=edit :-( , en revanche un fichier $Group.RecentChanges existe et est bien mis a jour !? Comment faire ?\\%0a%25green%25 Voir la page [[fichier de configuration]] ou c'est défini. [[~PRZ]]%0a%0aEffectivement cela marche avec ceci dans config.php%0a%0a   $RecentChangesFmt = array(%0a  '$SiteGroup.ToutesLesModifs' => %0a    '* [[$Group.$Name]]  . . . $CurrentTime par $AuthorLink: [=$ChangeSummary=]',%0a  '$Group.ModifsDuGroupe' =>%0a    '* [[$Group/$Name]]  . . . $CurrentTime par $AuthorLink: [=$ChangeSummary=]'); %0a%0aMerci, JP .
+time=1321898687

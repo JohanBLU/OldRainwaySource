@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=also commentout-pmwikiorg
+ctime=1254502720
+name=PmWikiNl.Download
+rev=8
+targets=PmWiki.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.Subversion,Cookbook.Standalone
+text=(:title Downloaden:)%0a(:Summary:Downloaden van PmWiki versies:)%0aGeïnstalleerde en andere versies van PmWiki zijn beschikbaar om te downloaden via http://www.pmwiki.org/pub/pmwiki/ .%0a%0a!! Directe links voor basisprogramma%0aNieuwste ''stabiele'' versie ({$Version}%25commentout-pmwikiorg%25 of meer recent%25%25):%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0aDirecte links naar geïnstalleerde versie {$Version}:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0a!! Internationale taalpakketten%0aBovenop het basisprogramma kunnen taalpakketten geïnstalleerd worden.%0a* http://pmwiki.org/pub/pmwiki/i18n/ - Alle beschikbare vertalingen%0a* http://pmwiki.org/pub/pmwiki/i18n/i18n-nl.zip - Het Nederlandse taalpakket%0a%0a!! Gerelateerde pagina's%0a* [[PmWiki/Installation|Installeren]] '^(en)^' - Het verkrijgen en installeren van PmWiki %0a* [[PmWiki/Upgrades|Upgraden]] '^(en)^' - Hoe een bestaande PmWiki installatie upgraden%0a** [[PmWiki/ReleaseNotes|Release Informatie]] '^(en)^' - PmWiki release-informatie%0a** [[PmWiki/ChangeLog|Wijzigingen]] '^(en)^' - Lijst van wijzigingen in PmWiki%0a* [[PmWiki:Subversion]] '^(en)^' - Hoe krijg ik de laatste pre-release uit het versiebeheersysteem.%0a* [[Cookbook:Standalone]] '^(en)^' - Hoe PmWiki laten draaien in "standalone"-modus, zonder een webserver zoals Apache %0a
+time=1315670189
+title=Downloaden

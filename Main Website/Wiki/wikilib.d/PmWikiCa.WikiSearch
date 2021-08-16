@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=translation of Site.Search
+ctime=1311459113
+name=PmWikiCa.WikiSearch
+rev=2
+targets=PmWikiCa.PageLists
+text=(:Language:Català:)%0a(:Title Cerca:)%0a(:Summary:Cerca al wiki:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0a[[#searchinfostart]]%0aUna cerca amb més d'una paraula trobarà pàgines que contenen totes les paraules introduïdes.%0aFeu servir cometes per a buscar una frase concreta.  %0aTambé heu de fer servir cometes per a textos amb puntuació o caràcters especials.%0aLes cerques no tenen en compte si les lletres són majúscules o minúscules.%0a%0aPer a limitar la cerca a un únic grup, introduïu a l'inici el nom del grup seguit d'una barra obliqua (p.ex., "[=PmWiki/=]" o "{$SiteGroup}/").  %0aPer a obtenir una llista de totes les pàgines, introduïu únicament una barra obliqua.  %0a%0a!![-Exemples de cerca-]%0a %0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||!Introduïu         ||!Per a trobar pàgines que contenen ||%0a||coca poma      ||tant 'coca' com 'poma' ||%0a||"coca de poma"    ||la frase 'coca de poma' ||%0a||pmwiki/poma   ||'poma' al grup de pàgines [=PmWiki=] ||%0a||"pmwiki/poma" ||la frase 'pmwiki/poma' a tots els grups de pàgines ||%0a||poma -coca     ||'poma', ometent aquelles que contenen 'coca' ||%0a||menjar -"coca de poma" ||'menjar', ometent aquelles que contenen 'coca de poma' ||%0a||poma "-coca"   ||les paraules 'poma' i '-coca' ||%0a||poma - coca    ||'poma', '-', i 'coca' ||%0a||"coca:"         ||la paraula 'coca' amb dos punts ||%0a||"coca=gustosa"    ||la frase 'coca=gustosa' ||%0a||name=*misc* ||noms de pàgina que contenen 'misc' ||%0a%0aAlguns ''caràcters especials'' s'han de tancar entre cometes, incloent els dos punts (:), el signe d'igualtat (=), menor que (&lt;), cometa simple (') i cometa doble (").%0a%0aPer a ''cerques avançades'', es poden introduir els paràmetres de la directiva [[Llistat de pàgines -> PmWikiCa/page list(s)]] (count, name, group, fmt, link, list, order, i trail) juntament amb la cadena a buscar.  %0a-%3cEls ''caràcters comodí'': l'asterisc (*) representa zero o més caràcters i l'interrogant (?) representa exactament un caràcter.%0a[[#searchinfoend]]%0a
+time=1315672241
+title=Cerca

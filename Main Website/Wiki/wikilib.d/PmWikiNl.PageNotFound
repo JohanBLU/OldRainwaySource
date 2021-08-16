@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=translate backlinks
+ctime=1256505359
+name=PmWikiNl.PageNotFound
+rev=5
+targets=PmWikiNl.PageNotFound,PmWiki.PmWiki
+text=(:Summary: De pagina wanneer PmWiki de gevraagde pagina niet kan vinden:)%0a(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound:)%0a-> %25green font-style:italic%25 Deze pagina wordt getoond wanneer PmWiki de gevraagde pagina niet kan vinden.  Beheerders kunnen deze pagina wijzigen om dit bericht op een andere manier te brengen.%0a(:ifend:)%0a%0a(:if !group Category:)%0aDe pagina "{$RequestedPage}" bestaat niet.  %0a(:ifend:)%0a(:if auth edit:)%0a* %25rel=nofollow%25 [[{*$FullName}?action=edit | "{*$FullName}" aanmaken]]. %0a(:ifend:)%0a%0a(:if equal {*$Name} {$DefaultName} :)%0a* [[{$ScriptUrl}?action=search&q={*$Groupspaced} | Zoek op deze site naar "{*$Groupspaced}"]].%0a(:else:)%0a* [[{$ScriptUrl}?action=search&q=link={*$FullName} | Toon de "Links Terug" naar deze pagina]].%0a* [[{$ScriptUrl}?action=search&q={*$Namespaced} | Zoek op deze site naar "{*$Namespaced}"]].%0a(:ifend:)%0a* [[{$DefaultGroup}/|Ga naar de hoofdpagina van deze site]].%0a%0a
+time=1315670189

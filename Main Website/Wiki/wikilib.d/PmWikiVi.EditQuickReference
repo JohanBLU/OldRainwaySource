@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=change title in Summary
+name=PmWikiVi.EditQuickReference
+rev=9
+targets=PmWikiVi.QuyTacDinhDangChu,PmWikiVi.MeoHieuChinh,PmWikiVi.MucLucTaiLieu,PmWikiVi.BảngĐơnGiản,PmWikiVi.BảngCấpCao
+text=(:Summary: Trợ giúp nhanh hiệu chỉnh:)%0a%0a(:table width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial;' bgcolor='#eeeeff':)%0a(:cellnr:)%0a%0a%25target=_blank%25 [[PmWikiVi/QuyTacDinhDangChu|Quy tắc định dạng chữ]] - [[PmWikiVi/MeoHieuChinh|Mẹo hiệu chỉnh]] - [[PmWikiVi/MucLucTaiLieu|Mục lục tài liệu]]%0a%0a(:cell align=right:)%0a%25target=_blank%25 '''Bảng:''' [[PmWikiVi/(Bảng) đơn giản]] - [[PmWikiVi/(Bảng) cấp cao]]%0a(:cellnr:)%0a'''Đoạn văn:''' để bắt đầu một đoạn văn mới, hãy bấm phím ''return'' hai lần;\\%0a'''[=->=]''' để thụt lề chữ, '''[=-%3c=]''' thụt đầu dòng treo%0a(:cell align=right:)%0a'''Ngắt dòng:''' '''[=\\=]''' hay '''[=[[%3c%3c]]=]'''%0a(:cellnr colspan='2':)%0a'''Danh sách:''' '''*''' cho danh sách có dấu đầu dòng, '''#''' cho danh sách thứ tự số, ''':'''kỹ thuật''':'''lời định nghĩa, cho danh sách định nghĩa \\%0a'''Nhần mạnh:''' [=''nghiêng''=], [='''đậm'''=], [='''''nghiêng đậm'''''=], [=@@chữ đơn cách@@=] (như máy chữ) \\%0a'''Tham chiếu:''' đến [=[[trang khác]]=], [=[[http://www.nơiMạng.com]]=], [=[[trang khác | chữ liên kết]]=], [=[[#nẹo]]=] \\%0a'''Nhóm:''' [=[[Nhóm/Trang]]=] hiển thị Trang, [=[[Nhóm.Trang]]=] hiển thị Nhóm.Trang,\\%0a[=[[Nhóm(.Trang)]]=] hiển thị Nhóm%0a(:cellnr:)%0a'''Phân cách:''' '''!''', '''!!''', '''!!!''' cho tựa đề, '''[=----=]''' cho dòng ngang \\%0a'''Đổi cỡ:''' [=[+...+]=] lớn hơn, [=[-...-]=] nhỏ hơn,%0a'''[='^=]'''chữ cao'''[=^'=]''', '''[='_=]'''chữ thấp'''[=_'=]'''%0a(:cell align=right:)%0a'''Ngăn cản định dạng:''' [=[=...=]=] %0a(:tableend:)
+time=1315680534

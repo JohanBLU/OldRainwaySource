@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=eaglex
+charset=UTF-8
+name=PmWikiRo.CautareWiki
+rev=3
+targets=
+text=(:searchbox:)%0a%0a(:searchresults:)%0aIntroduceţi mai sus textul pe care doriţi să îl căutaţi. În pagina cu rezultate se vor afişa toate paginile care conţin cuvintele care le-aţi introdus. Pentru a căuta fraze, puneţi toată fraza între ghilimele.%0a%0aPentru a limita căutarea la un singur grup, introduceţi numele grupului urmat de un slash la inceputul termenilor de căutare (ex., "[=PmWiki/=]" sau "Main/"). Pentru a afişa toate paginile, introduceţi un slash pentru căutare.%0a%0a!!!Exemple de căutare:%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Enter'''    ||'''Pentru a găsi pagini care conţin''' ||%0a||plăcintă cu mere      ||'plăcintă', 'cu' şi 'mere' ||%0a||"plăcintă cu mere"    ||fraza 'plăcintă cu mere' ||%0a||pmwiki/măr   ||'măr' in grupul [=PmWiki=] ||%0a||"pmwiki/măr" ||fraza 'pmwiki/măr' în toate grupurile ||%0a||mere -plăcintă     ||'mere', în afară de paginile care conţin 'plăcintă' ||%0a||ninja -"plăcintă cu mere" ||'ninja', în afară de paginile care conţin 'plăcintă cu mere' ||%0a||măr "-plăcintă cu mere"   ||cuvintele 'măr' si '-plăcintă cu mere' ||%0a||plăcintă cu - măr    ||'plăcintă', 'cu', '-', şi 'măr' ||%0a
+time=1315672569

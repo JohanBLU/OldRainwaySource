@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=Correct Subversion link
+ctime=1141473653
+name=PmWikiFr.Download
+rev=19
+targets=PmWikiFr.Installation,PmWikiFr.Upgrades,PmWiki.Subversion,Cookbook.Standalone
+text=(:title Téléchargement:)%0aLa version à jour et les anciennes versions de `PmWikì sont disponibles sur  http://www.pmwiki.org/pub/pmwiki/ .%0a%0a!! [-Liens directs:-]%0a%0aDernière version ''stable'' ({$Version}):%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0aLiens directs:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0aInternationalisation%0a*[[http://pmwiki.org/pub/pmwiki/i18n/i18n-fr.zip| pack langue  (que le Français) en zip]]%0a%0a!! [-Pages associées:-]%0a* [[Installation|+]]%0a* [[Upgrades|+]]%0a* [[PmWiki:Subversion]] - Installe/met à jour facilement le logiciel en utilisant la fonction "export" du système de gestion de versions.%0a* [[Cookbook:Standalone]] 'Autonome' - Module pour faire fonctionner `PmWiki sans serveur web%0a
+time=1315669216
+title=Téléchargement

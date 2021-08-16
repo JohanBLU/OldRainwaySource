@@ -1,0 +1,10 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=hint to "Functions"
+ctime=1329793998
+name=PmWiki.CondAuth
+rev=4
+targets=PmWiki.LocalCustomizations,PmWiki.Functions
+text=(:Summary: Documentation of the internal function CondAuth:)%0aCheck whether the user requesting a page has specific authorizations, for example editing, browsing.%0a%0a->[@%0aif (CondAuth($pagename, 'edit')) { ... }%0a@]%0a%0aYou can provide either authorization levels ('read', 'edit', 'attr', 'admin') or action names ('browse', 'upload', 'source') as the second argument to CondAuth().%0a%0aWhen using CondAuth() or other [[PmWiki/LocalCustomizations#configphp-order | similar functions]] it's important to remember to place them as late as possible in your config.php to avoid various caching issues which can be very difficult to troubleshoot otherwise. CondAuth causes the cache(s) to be populated, which may cause problems by code further down expecting unpopulated caches.%0a%0aSee also:%0a* [[PmWiki.Functions#CondAuth|+]] - {PmWiki.Functions$:Summary}
+time=1467639362

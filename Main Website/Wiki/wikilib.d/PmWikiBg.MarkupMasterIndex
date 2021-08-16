@@ -1,0 +1,11 @@
+version=pmwiki-2.2.56 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1380958402
+name=PmWikiBg.MarkupMasterIndex
+rev=1
+targets=PmWiki.MarkupMasterIndex,PmWikiBg.Links
+text=(:title Главен указател за форматиране :)%0a%0aТази страница [[PmWiki/MarkupMasterIndex|на английски]].%0a%0aТази страница съдържа кратко представяне на най-често използваните форматирания на текст. Следвайте хипервръзките в отделните раздели, за повече подробности.%0a%0a!! Хипервръзки%0a%0aВижте: [[Links|Хипервръзки]]%0a%0a...%0a%0a!!! [[#InlineMarkups]] Форматиране на букви/символи%0a%0a-%3c [@''emphasized''@] %0a-%3c [@'''strong'''@]%0a-%3c [@'''''strong emphasis'''''@]%0a-%3c [@@@monospaced@@@]%0a-%3c [@[-small-], [--smaller--]@]%0a-%3c [@[+big+], [++bigger++]@]%0a-%3c [@'-small-', '+big+'@]%0a-%3c [@'^superscript^', '_subscript_'@]%0a-%3c [@{+inserted+} (underscore)@]%0a-%3c [@{-deleted-} (strikethrough)@]%0a-%3c @@[=[@escaped code@]=]@@%0a-%3c [@[=escaped text=]@]%0a%0aМоля, помогнете за превода на останалото!%0a
+time=1380958402
+title=Главен указател за форматиране 

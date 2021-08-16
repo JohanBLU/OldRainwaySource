@@ -1,0 +1,11 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1495071926
+name=PmWikiEs.CreatingNewPages
+passwdedit=$1$VYywVk2Z$ALMApZJVyZWS/TizQXeGA0
+rev=15
+targets=PmWiki.CreatingNewPages
+text=!This is pmwiki.org, this page should translate [[PmWiki.CreatingNewPages]] in Spanish.
+time=1495124848

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.107 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=link to Cookbook:ListResume
+name=PmWiki.ListStyles
+rev=20
+targets=PmWiki.WikiStyles,Cookbook.WikiStylesPlus,Cookbook.ListResume
+text=(:Summary: Styles for use in wiki [[PmWiki/TextFormattingRules#BulletedLists|lists]]:)%0aSee also [[Wiki styles]], [[Cookbook:WikiStylesPlus]]%0a%0aAs well as the ordinary ordered (numbered) and unordered lists it is possible to use the styles [@%25ROMAN%25@], [@%25roman%25@], [@%25ALPHA%25@], and [@%25alpha%25@]. The style is used in the first element of an ordered list, for example:%0a%0a(:markup class=horiz:)%0a# %25ROMAN%25 Top level%0a## %25ALPHA%25 Second level%0a## Second level%0a## Second level%0a### Third level%0a### Third level%0a## Second level%0a### Third level%0a#### %25alpha%25 Fourth level%0a##### %25roman%25 Fifth level%0a##### Fifth level%0a#### Fourth level%0a# Top level%0a# Top level%0a(:markupend:)%0a%0aIf you wish to start a numbered (ordered) list at an arbitrary starting value, use the [@value@] style, for example:%0a%0a(:markup class=horiz:)%0a# %25item value=2517%25 Top level%0a## %25ROMAN%25 Second level%0a## Second level%0a## Second level%0a### Third level%0a### Third level%0a## Second level%0a### Third level%0a#### %25alpha%25 Fourth level%0a##### %25roman%25 Fifth level%0a##### Fifth level%0a#### Fourth level%0a# Top level%0a# Top level%0a(:markupend:)%0a%0aFor an alternative to the manual [@%25item value=...%25@] wikistyle, see Cookbook:ListResume for how to automatically resume related lists.%0a%0aIf you want to force a list to end, in order to start another list, so that you have separate html OL/UL lists use the escape sequence:%0a(:markup class=horiz:)%0a# Item 1%0a# Item 2%0a[==]%0a# Item 1%0a[==]%0a# Item 1%0a(:markupend:)%0a%0a
+time=1523097807

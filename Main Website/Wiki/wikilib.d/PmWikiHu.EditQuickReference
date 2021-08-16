@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiHu.EditQuickReference
+rev=8
+targets=PmWikiHu.TextFormattingRules
+text=(:table width='100%25' cellspacing='0' cellpadding='0':)%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' colspan='2':)%0a%25target=_blank%25 [[PmWikiHu/TextFormattingRules|Szöveg Formázási Szabályok]] - PmWiki/TipsForEditing \\%0a'''Bekezdések:''' új bekezdéshez használna a ''return''-t 2×; use [=->=] to indent text \\%0a'''Listák:''' * bajusz lista, # számozott lista, :cím:definíció definíciós lista \\%0a'''Hangsúlyozás:''' [=''dőlt''=], [='''kövérített'''=], [='''''Dőlt kövérített'''''=], [=@@monospace@@=] (azonos szélességű) \\%0a'''Hivatkozások:''' [=[[másik oldal]]=], [=[[http://www.webcim.com]]=], vagy `NagyBetüsSzavak \\%0a'''Témakörök:''' [=[[Témakör/Oldal]]=] megjenés: "Oldal", [=[[Témakör.Oldal]]=] megjelenés: Témakör.Oldal%0a(:cellnr style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd':)%0a'''Elválasztók:''' !, !!, !!! címsorok, [=----=] vizszintes vonal \\%0a'''Méretezés:''' [=[+...+]=] nagyobb, [=[-...-]=] kisebb%0a(:cell style='font-size:12px; font-family:Arial;' bgcolor='#ffeedd' :)%0a'''Stílus használat:''' [=[=...=]=] \\%0a'''Sortörés:''' [=\\=] or [=[[%3c%3c]]=]%0a(:tableend:)%0a
+time=1315668571

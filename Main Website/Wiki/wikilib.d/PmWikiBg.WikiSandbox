@@ -1,0 +1,10 @@
+version=pmwiki-2.2.77 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1214147861
+name=PmWikiBg.WikiSandbox
+rev=18
+targets=PmWiki.TextFormattingRules
+text=Тук можете да изпробвате [[PmWiki/Text Formatting Rules|правилата за оформление]]. Просто натиснете връзката "$[Edit]".%0a----%0a%0aТест на  кирилица.%0a%0a АБВГДЕЖЗИЙ%0a КЛМНОПРСТУ%0a ФХЦЧШЩЪЬЮЯ%0a Э Ы Ѓ Џ Ќ Љ Ѣ Ѕ Ј Ѝ Ё%0a%0a абвгдежзий%0a клмнопрсту%0a фхцчшщъьюя%0a э ы ѓ џ ќ љ ѣ ѕ ј ѝ ё%0a%0a
+time=1437005370

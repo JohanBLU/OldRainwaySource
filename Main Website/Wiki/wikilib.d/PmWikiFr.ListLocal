@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=jdd
+charset=UTF-8
+csum=
+ctime=1143842588
+name=PmWikiFr.ListLocal
+rev=11
+targets=PmWikiFr.FullName,PmWikiFr.Name
+text=(:title Liste des pages de PmWikiFr:)%0a(:pagelist fmt=PmWikiFr.ListLocal#translation group=PmWiki order=-time -RecentChanges -DocumentationGuidelines-Comments:)%0a%0a[[#translation]]%0a(:if equal {%3c$Group}:)%0a(:table border='1' cellspacing='0' cellpadding='0':)%0a(:cellnr align=center colspan=2:)'''Page originale de `PmWiki'''%0a(:cell align=center colspan=2:)'''Traduction dans `PmWikiFr'''%0a(:cellnr align=center:)Nom de la page%0a(:cell align=center:)Dernière modif%0a(:cell align=center:)Dernière modif%0a(:cell align=center:)Nom de la page%0a(:if:)%0a(:cellnr:)[[{=$FullName}|+]]%0a(:cell:){=$LastModified}%0a(:cell:){PmWikiFr.{=$Name}$LastModified}%0a(:cell:)[[PmWikiFr/{=$Name}|+]]%0a(:if equal {>$Group}:)%0a(:tableend:)%0a(:if:)%0a[[#translationend]]
+time=1315669216
+title=Liste des pages de PmWikiFr

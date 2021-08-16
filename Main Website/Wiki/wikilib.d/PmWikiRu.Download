@@ -1,0 +1,11 @@
+version=pmwiki-2.2.130 ordered=1 urlencoded=1
+author=Finar
+charset=UTF-8
+csum= (-177)
+ctime=1143733565
+name=PmWikiRu.Download
+rev=22
+targets=PmWikiRu.Installation,PmWikiRu.Upgrades,PmWikiRu.Subversion,Cookbook.Standalone
+text=(:title Загрузка:)%0aТекущую и предыдущие версии [=PmWiki=] можно скачать по адресу http://www.pmwiki.org/pub/pmwiki/ .%0a%0a!! [-Прямые ссылки-]%0aПоследний ''стабильный'' релиз ({$Version}%25commentout-pmwikiorg%25 или более свежий%25%25):%0a* [[(http://www.pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://www.pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a* [[http://www.pmwiki.org/pub/pmwiki/pmwiki-latest.md5|md5 checksums]]%0a%0aРелиз, на котором работает этот сайт ({$Version}):%0a* [[(http://www.pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://www.pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a* [[http://www.pmwiki.org/pub/pmwiki/{$Version}.md5|md5 checksums]]%0a%0aСамая свежая бета-версия ''для разработчиков'':%0a* [[(http://www.pmwiki.org/pub/pmwiki-devel/)pmwiki-latest-svn.zip]]%0a%0aМеждународный пакет языков:%0a* [[(http://www.pmwiki.org/pub/pmwiki/i18n/)i18n-all.zip ]]%0a%0a!! [-Связаные с данной темой страницы-]%0a* [[Installation|+]] PmWiki.%0a* [[Upgrades|+]] PmWiki.%0a* [[Subversion|+]] в PmWiki.%0a* [[Cookbook:Standalone]] - рецепт для запуска PmWiki без вебсервера.%0a
+time=1594291378
+title=Загрузка

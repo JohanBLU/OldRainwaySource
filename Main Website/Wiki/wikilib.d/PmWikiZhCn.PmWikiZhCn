@@ -1,0 +1,11 @@
+version=pmwiki-2.2.138 ordered=1 urlencoded=1
+author=W_or_P
+charset=UTF-8
+csum= (+71)
+ctime=1359904800
+name=PmWikiZhCn.PmWikiZhCn
+rev=87
+targets=PmWikiZhCn.页面链接,PmWikiZhCn.Download,PmWikiZhCn.Installation,PmWikiZhCn.BasicEditing,PmWikiZhCn.Skins,Skins.Skins,Cookbook.Cookbook
+text=(:title PmWiki中文简体首页:)%0a(:Language:Chinese simplified:)%0a(:Summary:{$:Language}:)%0a[[[[页面链接]]]]%0a[[http:// | 链接名称]]'_'_下标_''_下标_'_'%0a'+PmWiki+'是一款方便'''协同创作'''及'''知识管理'''的PHP维基程序。它无需数据库支持，且安装简单，易于定制，便于维护。%0a%0a%0a最新版本是{$Version}。采用%25newwin%25[[http://www.gnu.org/copyleft/gpl.html|通用公共许可证]]授权。%0a%0a你可以在[[Download|'''下载页面''']]下载最新版本，并根据[[installation|'''安装指南''']]%0a%0aPmWiki最大的特点是它的每个页面都有“'''编辑'''”按钮。你可以方便的创建并使用[[basic editing|基础编辑语法]]编辑页面，而不用学习任何HTML、CSS语言。另外，它的的权限功能可以方便的协同使用或作为私人wiki使用。它有着强大的自定义功能和丰富的插件，你甚至可以用它来做为博客使用。%0a%0a----%0a!!PmWiki功能特点%0a%0a-%3c'''自由定制的风格'''：你可以随心所欲地定制自己喜欢的功能、[[Skins|模版]]。或者直接从[[Skins:Skins|主题模版]]中下载。%0a%0a-%3c'''完善的权限管理'''：PmWiki的密码保护可以自由的用于整个站点、一组页面或单独的页面，并且可以自由的设置访问、编辑等权限。PmWiki的密码系统是完全独立的，可以和“.htaccess”、LDAP和MySQL数据库进行整合。%0a%0a-%3c'''丰富给力的扩展'''：PmWiki的原则是提供一个仅包含核心功能、利于自定义的Wiki程序，你不必为多余的功能“买单”。可以通过[[(Cookbook:)Cookbook|扩展]]来添加需要的功能。%0a%0a%0aPmWiki是[[http://www.pmichaud.com/ | Patrick R. Michaud ]]注册的商标。%0a%0a
+time=1619803550
+title=PmWiki中文简体首页

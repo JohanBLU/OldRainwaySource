@@ -1,0 +1,10 @@
+version=pmwiki-2.2.53 ordered=1 urlencoded=1
+author=p1
+charset=UTF-8
+csum=despam
+ctime=1136254035
+name=PmWikiPtBr.SideBar
+rev=69
+targets=PmWikiPtBr.PmWikiPtBr,PmWikiPtBr.WikiSandbox,PmWikiPtBr.RecentChanges,PmWikiPtBr.RecentChangesShort,PmWikiPtBr.TranslationGuide,PmWikiPtBr.FAQ,PmWikiPtBr.Download,PmWikiPtBr.Installation,PmWikiPtBr.BasicEditing,PmWikiPtBr.DocumentationIndex,PmWikiPtBr.PmWikiPhilosophy,PmWikiPtBr.SendPmMoney,PmWikiPtBr.OtherLanguages,PmWikiPtBr.SideBar
+text=* [[PmWikiPtBr/PmWikiPtBr |Página Principal]]%0a* [[PmWikiPtBr/WikiSandbox | Wiki sandbox]]%0a* [[PmWikiPtBr/RecentChanges | Mudanças recentes]]%0a** [[PmWikiPtBr/RecentChangesShort | [-(abreviada)-]]]%0a%0a%25sidehead%25 [[PmWikiPtBr/PmWikiPtBr]]%0a* ''[[PmWikiPtBr/TranslationGuide | Guia para Tradução]]''%0a* [[PmWikiPtBr/FAQ]]  %0a* [[PmWikiPtBr/Download]]%0a* [[PmWikiPtBr/Installation | Instalação]]%0a* [[PmWikiPtBr/BasicEditing | Edição básica]]%0a* [[PmWikiPtBr/DocumentationIndex | Documentação]]%0a* [[PmWikiPtBr/PmWikiPhilosophy | Filosofia do PmWiki]]%0a%0a* [[PmWikiPtBr/SendPmMoney | Doações ao Pm]]%0a%0a* ''[[PmWikiPtBr/OtherLanguages | Outras Linguas]]''%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org (en)]]%0a(:include Site.SideBar:)%0a%0a%25rfloat%25[[PmWikiPtBr/SideBar?action=edit| [-edite o SideBar-] ]]
+time=1375565092

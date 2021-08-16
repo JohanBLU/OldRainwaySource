@@ -1,0 +1,11 @@
+version=pmwiki-2.2.57 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1324153250
+name=PmWikiBg.DocumentationIndex
+rev=14
+targets=PmWiki.DocumentationIndex,PmWikiBg.BasicEditing,PmWikiBg.Links,PmWikiBg.Images,PmWikiBg.MarkupMasterIndex,PmWikiBg.WikiTrails,PmWikiBg.DeletingPages,PmWikiBg.SpecialPages,PmWikiBg.AuthUser
+text=(:title Документация:)%0a%0aТази страница [[PmWiki/DocumentationIndex|на английски]].%0a%0a...%0a%0a----%0a%0a!!Теми за начинаещи редактори на страници%0a%0a*[[Basic editing | Основи на редактирането]]%0a* ...%0a*[[Links|Хипервръзки]]%0a*[[Images|Изображения]]%0a%0a!!Инструменти за редактиране за средно ниво напреднали%0a%0a*[[MarkupMasterIndex|Главен указател за форматиране]]%0a%0a...%0a%0a!!Организация и защита на страниците%0a%0a*...%0a*[[WikiTrails]] - Създаване на "линии" от страници, през които се навигира с връзки "Предишна"-"Следваща".%0a*...%0a*[[DeletingPages]] - Изтриване на страници%0a*...%0a*[[SpecialPages]] - Специални страници - страници в PmWiki, които имат специално значение или се създават и актуализират по специален начин.%0a%0a%0a!!Администриране на PmWiki сайт%0a%0a!!!Някои настройки след инсталиране%0a%0aPmWiki не съдържа ''config.php'' файл с настройки и за да може да се правят настройки, различни от тези по подразбиране, такъв файл се създава ръчно като се копира файл ''sample-config.php'' от директория ''pmwiki/docs'' в директорията ''pmwiki/local'' и се преименува на ''config.php''.%0a%0aЗа да може на сайта да се пишат страници и с други азбуки освен латиница, като например на български, трябва да се премахне знакът # пред реда:%0a%0a@@include_once("scripts/xlpage-utf-8.php");@@%0a%0a!!!Инсталиране на български език%0a%0aПакетът с превода на PmWiki на български се изтегля от http://www.pmwiki.org/pub/pmwiki/i18n . Изтегля се файла с име '''''i18n-bg.zip'''''. Този файл съдържа две директории ''scripts'' и ''wikilib.d''. Файлът с име '''''PmWikiBg.XLPage''''' от директория ''wikilib.d'' се качва в директория ''wikilib.d'' на сървъра.%0a%0aЗа да се показват надписите View, Edit, History и т.н. на български във файл ''config.php'' трябва да се добави реда:%0a%0a@@XLPage('bg','PmWikiBg.XLPage');@@%0a%0a!!!Сигурност%0a%0a*[[AuthUser|Система за защита]] с помощта на потребителски имена и пароли%0a*...%0a%0a%0a%0a%0a%0a
+time=1385183909
+title=Документация

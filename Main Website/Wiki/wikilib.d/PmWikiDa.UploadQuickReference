@@ -1,0 +1,10 @@
+version=pmwiki-2.2.71 ordered=1 urlencoded=1
+author=JohnnyN
+charset=UTF-8
+csum=Changed some links for Danish translation.
+ctime=1413919251
+name=PmWikiDa.UploadQuickReference
+rev=5
+targets=PmWikiDa.RecentUploads,PmWikiDa.Uploads,PmWikiDa.UploadQuickReference
+text=(:Summary:Hurtigreference til at [[upload(s)]]e sider:)%0a[[#quickreference]]%0a>>color:#000000 bgcolor:#f9f9f9 font-family:'Arial,sans-serif' font-size:12px padding:2px border:'1px solid #cccccc' class='quickref'%3c%3c%0a(:if exists {*$Group}.RecentUploads:)%0a%25rfloat newwin%25[[{*$Group}.RecentUploads|Seneste uploads]] til {*$Group} `WikiGroup%0a(:ifend:)%0a'''%25newwin%25[[Uploads]]'''%0a%0a# Brug knappen herover, til at finde "Fil at uploade" på din lokale computer.%0a%0a# I feltet "Navngiv vedhæftning:", indtast det navn du gerne vil have at filen skal have, når den er blevet uploadet til netstedet.\\%0aDet kan være det samme som dens filnavn på din kildedisk ''eller det kan være anderledes'', men %25bgcolor:yellow%25'''sørg for at den har den rigtige filendelse'''%25%25.%0a%0a# Tryk på "$[Upload]" for at uploade filen.%0a%0a# For at referere til en vedhæftning inden for en wikiside i denne {$Group}-`WikiGruppe, indtast @@[=Attach:=]''filenavn.end''@@ i sideteksten.%0a%0a# Efter upload kan du%0a** %25item rel=nofollow class=browse%25 [[{*$FullName}?action=browse | $[View]e siden {*$Name}]] eller%0a** %25item rel=nofollow class=edit%25 [[{*$FullName}?action=edit   | $[Edit]e siden {*$Name}]] eller%0a** Rulle ned for at se listen af filer der er blevet uploadet til wikigruppen {*$Group}.%0a>>%3c%3c%0a[[#quickreferenceend]]%0a%0a----%0a%0a!! Eksisterende uploads%0a>>font-size:smaller%3c%3c%0a(:attachlist:)%0a>>%3c%3c%0a
+time=1421775396

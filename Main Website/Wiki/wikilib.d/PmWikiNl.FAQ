@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=Replace SiteSearch by Search
+ctime=1255645379
+name=PmWikiNl.FAQ
+rev=5
+targets=PmWiki.FAQ,PmWikiNl.Search,PmWikiNl.DocumentationIndex,PmWiki.Questions
+text=(:title PmWiki VGV:)(:Summary:Lijst van Veel Gestelde Vragen:)%0a%25green%25Er is nog geen complete Nederlandse documentatie. Deze index zal groeien naarmate meer pagina's zijn vertaald. Voor een volledig overzicht raadpleeg de Engelse versie%25%25 [[PmWiki.FAQ | hier]].%0a%0aDeze pagina zal trachten de veelgestelde vragen te behandelen. De antwoorden zijn terug te vinden op de desbetreffende pagina's (volg hun links). Als je een vraag hebt die hier niet wordt beantwoord, kan je je vraag achterlaten op pagina [[PmWiki:Questions|PmWiki:Vragen]] '^(en)^' of kan je de documentatie doorzoeken met een [[Search | +]]. Meer documentatie is terug te vinden via de [[DocumentationIndex | +]].%0a%0a(:comment The questions and answers are held on their respective page(s), then collated below according to the pagelist. Please make changes to those page(s) rather than making the changes here .:)%0a%0a(:pagelist trail=DocumentationIndex "[[#faq]]" fmt=#includefaq class=faqtoc :)%0a
+time=1315670189
+title=PmWiki VGV

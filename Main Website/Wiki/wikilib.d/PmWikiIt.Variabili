@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=update summary
+ctime=1174815638
+name=PmWikiIt.Variabili
+rev=5
+targets=
+text=(:Summary: Redirect verso [[PmWikiIt.Variables]]:)%0a(:redirect PmWikiIt.Variables:)
+time=1315669968

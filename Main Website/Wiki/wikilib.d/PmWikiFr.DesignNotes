@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+csum=
+ctime=1141476480
+name=PmWikiFr.DesignNotes
+rev=12
+targets=PmWikiFr.PmWikiPhilosophy,PmWikiFr.MailingLists,PmWikiFr.FlatFileAdvantages,PmWikiFr.HierarchicalGroups,PmWiki.HierarchicalGroups,PmWikiFr.PageLocking,PmWikiFr.SimultaneousEdits,PmWiki.PageLocking,PmWikiFr.SearchImprovements,PmWiki.SearchImprovements,PmWikiFr.FilePermissions,PmWiki.FilePermissions,PmWikiFr.IndexDocumentation
+text=(:title Notes à propos de la conception:)%0aVoici quelques précisions à propos des choix de conception de PmWiki. Beaucoup proviennent de la [[PmWikiPhilosophy|+]] et de discussions intenses sur la [[liste de diffusion->MailingLists]].%0a%0a* [[FlatFileAdvantages|+]] - pourquoi PmWiki utilise des fichiers simples au lieu d'une base de données SQL%0a* [[HierarchicalGroups|+]] engl:[[PmWiki/HierarchicalGroups]]) - pourquoi PmWiki ne comporte pas de groupes imbriqués%0a* [[PageLocking|+]] (engl:[[PmWiki/PageLocking]]) - Pourquoi PmWiki fonctionne sans verrouillage des pages (voir aussi [[SimultaneousEdits|+]])%0a* [[SearchImprovements|+]] (engl:[[PmWiki/SearchImprovements]]) - Pourquoi PmWiki comporte un outil de recherche incorporé%0a* [[FilePermissions|+]] (engl:[[PmWiki/FilePermissions]]) - quelques informations à propos des droits d'accès aux fichiers%0a%0a%25trail%25 %3c%3c|[[IndexDocumentation]]|>>
+time=1315669216
+title=Notes à propos de la conception

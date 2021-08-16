@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Anno
+charset=UTF-8
+csum=
+name=PmWiki.Users
+rev=7
+targets=Category.Forms,Category.Authentication,PmWiki.Audiences
+text=Since `PmWiki is a development tool, as any other wiki, it has three types of users:%0a* Readers, who merely browse the information present as they surf any other web page and may interact only with [[!forms]] rendered as part of wiki pages,%0a* Authors, who start interacting with the pages by editing them (pmwiki allows guest authoring as well as several forms of [[!authentication]]%0a* Admins, who install pmwiki, maintain it, and have rights to determine how it works and who can access which areas%0a%0aFor more details, see [[audiences]]
+time=1315670897

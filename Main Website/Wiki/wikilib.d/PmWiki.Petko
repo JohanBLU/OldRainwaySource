@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=redirect Profiles.Petko
+ctime=1277000612
+name=PmWiki.Petko
+rev=2
+targets=
+text=(:redirect Profiles.Petko:)%0a(:Summary:Redirects to [[Profiles.Petko]]:)
+time=1315670897

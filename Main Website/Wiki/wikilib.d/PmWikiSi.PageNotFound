@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Anno
+charset=UTF-8
+csum=
+ctime=1142073383
+name=PmWikiSi.PageNotFound
+rev=2
+targets=PmWikiSi.HomePage
+text=Strani z imenom "{$UrlPage}" ni mogo&#269;e najti.  Zato lahko:%0a%0a* Ustvari [[{$UrlPage}.{$UrlPage}]]%0a* Ustvari [[{$UrlPage}.{$DefaultName}]]%0a* Ustvari [[{$DefaultGroup}.{$UrlPage}]]%0a%0aMogo&#269;e pa je stran objavljena na spodnjem seznamu:%0a%0a(:pagelist group={$UrlPage}:)
+time=1315672569

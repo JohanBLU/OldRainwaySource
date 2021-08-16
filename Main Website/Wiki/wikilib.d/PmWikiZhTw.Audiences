@@ -1,0 +1,10 @@
+version=pmwiki-2.2.111 ordered=1 urlencoded=1
+author=Laundry Machine
+charset=UTF-8
+csum=
+ctime=1546276265
+name=PmWikiZhTw.Audiences
+rev=2
+targets=PmWikiZhTw.WikiAdministrator
+text=(:Summary:Patrick Michaud's comments regarding the "audiences" for which PmWiki was designed:)%0a本頁含有 Patrick Michaud 關於 PmWiki 設計「受眾」的評論。因此很多人不願意修改本頁，因為本頁是以他的意見作為聲明，並描述了一些對於建立 PmWiki 的看法（我們感謝他提出的意見！）%0a%0a!!Patrick 的評論%0a我認為 PmWiki 就兩種受眾而言：%0a* ''作者''是使用 PmWiki 生成網站內容的人們%0a* ''[[wiki administrator|Wiki 管理員]]''負責安裝、配置、維護 PmWiki 在網站伺服器的安裝包。%0a在某些意義上，身為 PmWiki 的主要開發者，可能會認為：我的目標受眾只會是 Wiki 管理員，同時作者也是管理員的目標受眾。但真正讓 PmWiki 對 Wiki 管理員有用的是：我在創造對作者實用的工具時，我考量了很多，正因為如此，當我在設計，以及在 PmWiki 加入新功能時，我必須記住兩種受眾的需求。%0a%0a在編寫受眾條目時，我看到了這裡有「新手作者」以及「老手作者」。
+time=1546276384

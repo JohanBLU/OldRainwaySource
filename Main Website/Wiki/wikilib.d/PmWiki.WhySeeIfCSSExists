@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=jb
+charset=UTF-8
+csum=
+ctime=1158960850
+name=PmWiki.WhySeeIfCSSExists
+rev=5
+targets=Profiles.GNUZoo,Profiles.Pm
+text=(:title Why see if a CSS exists?:)%0a(:linebreaks:)%0a%0a[[~GNUZoo]] wrote:%0a> It does not need to know if the css exists.  Just link to it, and if it %0a> does not exist it wont hurt anything (will it?).%0a%0aIt adds more load to the webserver, as it has to handle a lot of%0a"404 Not Found" requests, and the webserver error logs start%0afilling up with all of the 404 error responses.  In fact, if no%0apub/css/local.css, pub/css/Group.css, and pub/css/Group.PageName.css%0afile exists, then each page request will generate three extra 404%0aentries in the webserver logs.%0a%0aAt any rate, people will see that PmWiki is generating 404 errors %0ain the web logs and think "Gee, that's not a very robust %0aimplementation."%0a%0aSome people (especially people in the business of web design)%0awill have their browsers configured to report when 404 errors %0aoccur in images and .css files, so it'll be less than ideal for them.%0a%0aThe page won't pass some validation tests (e.g., on w3.org)%0athat check to make sure the .css links are valid.%0a%0aSo, while some people might not care about any of this, there are%0aa lot of people who would consider these to be fatal shortcomings%0aof the PmWiki implementation and choose to go with something else %0ainstead.%0a%0a[[~Pm]]
+time=1315670897
+title=Why see if a CSS exists?

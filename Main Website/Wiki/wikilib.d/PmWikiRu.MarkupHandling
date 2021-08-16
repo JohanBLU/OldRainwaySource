@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Holo
+charset=UTF-8
+csum=
+ctime=1146929005
+name=PmWikiRu.MarkupHandling
+rev=4
+targets=
+text=(:redirect CustomMarkup:)%0a
+time=1315680534

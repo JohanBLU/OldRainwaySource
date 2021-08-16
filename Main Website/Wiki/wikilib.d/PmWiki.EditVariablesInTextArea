@@ -1,0 +1,10 @@
+version=pmwiki-2.2.64 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=$
+ctime=1140068797
+name=PmWiki.EditVariablesInTextArea
+rev=13
+targets=PmWiki.EditVariablesInTextArea,Profiles.HomePage,Profiles.Petko,PmWiki.Variables,Cookbook.ConditionalMarkupSamples
+text=%3c%3c|[[PmWiki.Variables]]|>>%0a(:Summary: Collection of some edit tricks:)%0a!! {$:Summary}%0aVariables like [={$Version} {$AuthId} ($Author}=] can be used in the textarea.%0a%0a!!!Some useful functionality, particularly in Page/Group Headers, Sidebars%0a%0a!!Refer to the document itself%0a(:markup:)%0a# [[http:?action=edit|edit]]%0a# [[{$Group}/{$Name}?action=edit|edit]]  %0a# [[{$FullName}?action=edit|edit]]%0a(:markupend:)%0a%0a!!!Refer to a relative path:%0a(:markup:)%0ahttp:/pmwiki/pub/skins/pmwiki/pmwiki-32.gif%0a(:markupend:)%0a%0a!!!Show Logged-in User, link to logout:\\%0a(:markup:)%0a[[http:?action=logout|{$AuthId}]]%0a(:markupend:)%0a(This shows nothing when the user is not logged in, but could show a login field.  see [[Cookbook:ConditionalMarkupSamples]])%0a%0a!!!Link to User's Profile  %0a(:markup:)%0a* [[Profiles/{$AuthId}|UserHome]] for example in SideBar \\%0a[[Profiles/{$Author}|UserHome]]%0a(:markupend:)%0a%0a!!!Conditonal Markup and {$ Variables%0a[-(seem to be inconsistant to me)-]%0a(:markup:)%0a(:if authid:)  AuthID: {$AuthId}%0a(:if author:)  Author: {$Author}%0a{$Namespaced} | {$Titlespaced} | {$FullName}%0a{$ScriptUrl}%0a(:markupend:)%0a%0a%0a[-I thought it might be useful to make some more documentation in using variables and conditional markup. May be this page belongs to Cookbook or markup tricks in general, be free to move-]%0a%0asee also [[Cookbook:ConditionalMarkupSamples]]
+time=1399584429

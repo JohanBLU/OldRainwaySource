@@ -1,0 +1,11 @@
+version=pmwiki-2.2.132 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=touch (+0)
+ctime=1206103449
+name=PmWikiDe.Questions
+rev=31
+targets=PmWikiDe.MailingLists,PmWiki.Questions,PmWikiDe.HowToGetAssistance,PmWikiDe.FAQ,PmWikiDe.FunctionList
+text=(:title Fragen:)%0a(:Summary: Wo kann ich Fragen stellen?:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2008-03-21:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren:)%0a%0aDiese (deutsche) Seite ist nicht die richtige Stelle um Fragen zu Problemen zu stellen. Besser %0a* Sie senden Ihre Frage an eine der [[MailingLists|PmWiki-Mailing-Listen]], oder%0a* Sie schreiben Ihre Frage in die Seite [[PmWiki:Questions|+]] auf PmWiki.org [-(englisch)-].%0a%0aSiehe auch %0a* [[HowToGetAssistance|+]]%0a* [[FAQ]]%0a* [[FunctionList|+]]%0a%0a&nbsp;
+time=1602313792
+title=Fragen

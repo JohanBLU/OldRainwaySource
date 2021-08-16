@@ -1,0 +1,11 @@
+version=pmwiki-2.2.107 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=link to Cookbook:ListResume
+ctime=1205422318
+name=PmWikiDe.ListStyles
+rev=10
+targets=Cookbook.ListResume
+text=(:title Wikistile für Listen:)%0a(:Summary: Stile für Aufzählungen und Listen:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2008-03-10:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren (Grundlagen):)%0a%0aNeben den normalen Aufzählungen (nummerierten Listen) können Sie die Stile [=%25ROMAN%25, %25roman%25, %25ALPHA%25, und %25alpha%25=] verwenden. Geben Sie den Stil in der ersten Zeile der jeweiligen Ebene an. So entsteht eine Gliederung.%0a%0a(:markup class=horiz:)%0a# %25ROMAN%25 Höchste Ebene%0a## %25ALPHA%25 Zweite Ebene%0a## Zweite Ebene%0a## Zweite Ebene%0a### Dritte Ebene%0a### Dritte Ebene%0a## Zweite Ebene%0a### Dritte Ebene%0a#### %25alpha%25 Vierte Ebene%0a##### %25roman%25 Fünfte Ebene%0a##### Fünfte Ebene%0a#### Vierte Ebene%0a# Höchste Ebene%0a# Höchste Ebene%0a(:markupend:)%0a%0aSie können auch den Anfangszähler frei wählen.%0a%0a(:markup class=horiz:)%0a# %25item value=2517%25 Höchste Ebene%0a## %25ROMAN%25 Zweite Ebene%0a## Zweite Ebene%0a## Zweite Ebene%0a### Dritte Ebene%0a### Dritte Ebene%0a## Zweite Ebene%0a### Dritte Ebene%0a#### %25alpha%25 Vierte Ebene%0a##### %25roman%25 Fünfte Ebene%0a##### Fünfte Ebene%0a#### Vierte Ebene%0a# Höchste Ebene%0a# Höchste Ebene%0a(:markupend:)%0a%0aSehen Sie in Cookbook:ListResume nach, wie Sie alternativ zu dem manuellen [@%25item value=...%25@]-Wikistil betroffenen Listen nach Unterbrechungen automatisch wiederaufnehmen können.%0a%0aWenn Sie eine Liste zwangsweise beenden wollen, um eine neue Liste zu beginnen, damit Sie getrennte HTML-OL/UL-Listen erhalten, benutzen Sie die folgende Sequenz:%0a%0a(:markup class=horiz:)%0a# Item 1%0a# Item 2%0a[==]%0a# Item 1%0a[==]%0a# Item 1(:markupend:)%0a
+time=1523436042
+title=Wikistile für Listen

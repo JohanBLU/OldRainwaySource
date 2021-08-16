@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Marksken58
+charset=UTF-8
+csum=foute schrijfwijze
+ctime=1149413541
+name=PmWikiNl.SideBar
+rev=23
+targets=PmWikiNl.PmWikiNl,PmWikiNl.Download,PmWikiNl.WikiSandbox,PmWikiNl.BasicEditing,PmWikiNl.DocumentationIndex,PmWikiNl.FAQ,PmWikiNl.PmWikiPhilosophy,PmWikiNl.Paginalijst,PmWikiNl.StateOfTranslation
+text=%25sidehead%25[[PmWikiNl|Nederlandstalige PmWiki]]%0a* [[Download |+]]%0a* [[WikiSandbox|+]]%0a* [[BasicEditing|Basisbewerkingen]]%0a* [[DocumentationIndex|+]]%0a* [[FAQ|+]]%0a* [[PmWikiPhilosophy|+]]%0a* [[Paginalijst|Nederlandse pagina's]]%0a* [[StateOfTranslation|+]]%0a%0a----%0a'''English:'''%0a(:include Site/SideBar:)%0a
+time=1315670189

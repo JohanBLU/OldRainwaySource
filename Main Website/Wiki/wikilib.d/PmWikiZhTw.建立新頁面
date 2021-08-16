@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=old content, now redirected to newer translated version
+name=PmWikiZhTw.建立新頁面
+rev=4
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.CreatingNewPages]]:)%0a(:redirect PmWikiZhTw.CreatingNewPages:)
+time=1315680534

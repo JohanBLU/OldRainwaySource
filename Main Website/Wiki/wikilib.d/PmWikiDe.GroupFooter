@@ -1,0 +1,10 @@
+version=pmwiki-2.2.138 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=`http -> `https (+2)
+ctime=1306657058
+name=PmWikiDe.GroupFooter
+rev=12
+targets=PmWikiDe.GroupFooter,PmWiki.GroupFooter
+text=(:Translation_Status: %25green%25fertig%25%25:)%25comment%25 für die Liste aller Seiten%0a(:Summary: Der GroupFooter fügt Trails, falls vorhanden, am Ende der Seite ein und fügt einen Kasten mit einem Verweis auf die Originalseite hinzu.:)%0a(:include PmWikiDe.GroupHeader#trailstart#trailend:)%0a----%0a>>trad%3c%3c%0a(:if exists PmWiki.{*$Name}:)%0aÜbersetzung von [[(http://www.pmwiki.org/wiki/)PmWiki.{*$Name}]], &nbsp;%0a(:ifend:)%0aOriginalseite auf [[(http://www.pmwiki.org/wiki/){*$FullName}]] &nbsp; &mdash; &nbsp; [[$[Backlinks]->{*$FullName}?action=search&q=link={*$FullName}&fmt=title]]%0a(:if (equal "{*$ScriptUrl}" "https://pmwiki.org/wiki") or (equal "{*$ScriptUrl}" "https://www.pmwiki.org/wiki"):)%0a||width=*%0a||Zuletzt geändert:&nbsp; &nbsp;|| [[{*$FullName}]]||am {(ftime "%25d.%25m.%25Y" "@{*$LastModifiedTime}")}||%0a|| || (:if exists PmWiki.{*$Name}:)[[PmWiki.{*$Name}]]||am {(ftime "%25d.%25m.%25Y" "@{PmWiki.{*$Name}$LastModifiedTime}")}(:if:)||%0a>>%3c%3c
+time=1619590984

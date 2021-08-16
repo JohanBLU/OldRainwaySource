@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Laurent
+charset=UTF-8
+csum=
+ctime=1236610124
+name=PmWikiFr.CommentMarkup
+rev=3
+targets=
+text=!! Titre%0a%0a%25center%25 CENTRE%0a
+time=1315669216

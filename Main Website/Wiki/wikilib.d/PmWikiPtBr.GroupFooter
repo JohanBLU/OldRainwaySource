@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=
+ctime=1205739107
+name=PmWikiPtBr.GroupFooter
+rev=27
+targets=PmWiki.GroupFooter,Site.GroupFooter,PmWikiPtBr.GroupFooter
+text=[[%3c%3c]]%0a---- %0a%25trad%25 %0a(:if exists PmWiki.{*$Name} :)%0aEssa é possivelmente a tradução do original em : [[PmWiki.{*$Name}]] - [[$[Backlinks]->PmWiki.{*$Name}?action=search&q=link=PmWiki.{*$Name}&fmt=title]]\\%0a(:ifend:)%0a(:if exists Site.{*$Name}:)%0aEssa é a tradução do original em :  [[Site.{*$Name}]] \\%0a(:ifend:)%0aEssa tradução se encontra em : [[PmWikiPtBr.{*$Name}]] - [[$[Backlinks]->PmWikiPtBr.{*$Name}?action=search&q=link=PmWikiPtBr.{*$Name}&fmt=title]]\\%0aÚltimas modificações da tradução feitas em :  {*$LastModified} \\%0a(:if exists PmWiki.{*$Name} :)%0aÚltimas modificações feitas no original em :  {PmWiki.{*$Name}$LastModified} %0a(:ifend:)%0a
+time=1315670403

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Simon
+charset=UTF-8
+csum=tidy
+ctime=1166214058
+name=PmWikiSk.Contributors
+rev=3
+targets=PmWiki.PmWiki,PmWikiSk.Uploads,PmWikiSk.Links,PmWikiSk.WikiGroup,PmWikiSk.DocumentationIndex
+text=(:title Prispievatelia:)%0aTu je zoznam ľudí, ktorí prispeli k vývoju a vylepšeniu [[PmWiki]]. Ospravedlňujem sa ak som na niekoho zabudol -- ak ste boli vynechaní môžete slobodne%0apridať svoje meno, ak nechcete byť spájaní s týmito ľuďmi môžete slobodne odstrániť svoje meno.  :-)%0a%0a* Scott Duff - pmwe, simple-journal.php, všadeprítomný kontrolór príčetnosti Pm %0a* Ross Kowalski - [[uploads | nahratia]] a výskum stránky pre tlač%0a* John Rankin - WikiTrails, [[Links | Odkazy]], `EditQuickReference, notify.php, dokumentácia, debugovanie%0a* Joachim Durchholz - hackovanie dokumentácie, všeobecná otrava%0a* Jessica Tishmack - nahratia, testovanie%0a* Jean-Claude Gorichon - hlasovanie%0a* Janice Heinold - skoré PmWiki testovanie a návrhy, dokumentácia%0a* James Davis - značkovanie WikiŠtýlov, testovanie%0a* Isabelle Michaud - značkovanie vznášajúcich sa obrázkov, [[Wiki Group | Wiki Skupiny]], [[uploads | nahratia]]/prílohy%0a* Glenn Blalock - návrhy WikiŠtýlov, testovanie, documentácia%0a* Dawn Green - návrhy WikiŠtýlov, [[uploads | nahratia]], dokumentácia%0a* Christian Ridderström - [[Cookbook:EmacsPmWikiMode |pmwiki-mode pre Emacs]] a niektoré ďalšie hacky/modifikácie.%0a* Carlo Strozzi - Internationalization, PmWiki na Boa, HTML presmerovanie%0a* Michael Weiner - Modifikácie v ToDo, RssFeedDisplay, MyPmWiki, a CommentBox receptoch%0a%0a%25trail%25%3c%3c|[[DocumentationIndex | IndexDokumentácie]]|>>
+time=1315672569
+title=Prispievatelia

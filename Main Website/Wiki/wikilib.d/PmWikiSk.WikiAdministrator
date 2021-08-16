@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=initial version
+ctime=1166207607
+name=PmWikiSk.WikiAdministrator
+rev=2
+targets=PmWikiSk.Installation,PmWikiSk.InitialSetupTasks,PmWiki.DocumentationIndex,PmWiki.Audiences,PmWikiSk.DocumentationIndex
+text=(:title WikiAdministrátor:)%0aWikiAdministrátor je osoba (alebo osoby) ktorá inštaluje, konfiguruje a spravuje PmWiki systém pre autorov a návštevníkov stránky. PmWiki bolo navrhnuté tak, aby čo najviac uľahčilo [[installation | inštaláciu]] a [[initial setup tasks | úvodné nastavenie]] pre ľudí, ktorí nemajú veľa znalostí o HTML, PHP, alebo dokonca o softvéri webového servera. Súčasne, je PmWiki navrhnuté aby bolo dosť flexibilné na to aby niekto iba s malými vedomosťami o HTML a PHP mohol prispôsobiť PmWiki svojim konkrétnym potrebám.%0a%0aV [[PmWiki.DocumentationIndex | Pmwiki.IndexeDokumentácie]] nájdete stránky o správe PmWiki, a v [[PmWiki.Audiences | PmWiki.Cieľové skupiny]] viac podrobností o cieľových skupinách PmWiki.%0a%0a%25trail%25%3c%3c|[[DocumentationIndex | IndexDokumentácie]]|>>
+time=1315672569
+title=WikiAdministrátor

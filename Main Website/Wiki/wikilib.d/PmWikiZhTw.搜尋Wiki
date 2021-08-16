@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+name=PmWikiZhTw.搜尋Wiki
+rev=5
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.Search]]:)%0a(:redirect PmWikiZhTw.Search:)
+time=1315680534

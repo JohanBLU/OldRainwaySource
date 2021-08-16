@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=Summary
+ctime=1203260545
+name=PmWikiPtBr.UploadQuickReference
+rev=3
+targets=PmWiki.Uploads,PmWikiPtBr.UploadQuickReference
+text=(:Summary:Referência rápida sobre como anexar arquivos:)%0a(:title Referência Rápida para Anexar Arquivos:)%0a%0a>>class='quickref' bgcolor=#f9f9f9 font-family=Arial font-size=12px padding=2px border='1px solid #cccccc'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads | Arquivos anexos]]'''\\%0a1. Use o botão acima para encontrar e selecionar o arquivo no seu computador para ser anexado.%0a%0a2. No campo "$[Name attachment as:]", coloque o nome que você deseja que o arquivo tenha após ser enviado para o servidor. O nome pode ser o mesmo do arquivo no seu computador ou pode ser ''diferente'', mas tenha certeza de manter a mesma extensão do arquivo original.%0a%0a3. Clique em "$[Upload]" para anexar o arquivo.%0a%0a4. Para fazer referência a um arquivo anexado em uma página wiki neste `WikiGroup {$Group} , escreva  @@[=Attach:=]''arquivo.ext''@@ no texto da página.%0a%0a5. Depois de anexar o arquivo, você pode:%0a**[[{*$Name}?action=browse | Ver a página {*$Name} ]];%0a** [[{*$Name}?action=edit | Editar a página {*$Name}]];%0a**Olhar mais abaixo e ver a lista de arquivos que foram anexados ao `WikiGroup {*$Group} .%0a>>%3c%3c%0a%0a----%0a%0a!!Arquivos Anexos Existentes%0a%0a(:attachlist:)
+time=1315670403
+title=Referência Rápida para Anexar Arquivos

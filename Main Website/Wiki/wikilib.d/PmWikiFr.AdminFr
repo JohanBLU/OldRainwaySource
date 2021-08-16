@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.AdminFr
+rev=4
+targets=
+text=(:redirect IndexDocAdmin:)
+time=1315679728

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan translation.
+ctime=1310992937
+name=PmWikiCa.Introduction
+rev=3
+targets=PmWikiCa.WikiWikiWeb,PmWikiCa.PmWikiCa,PmWikiCa.BasicEditing,PmWikiCa.TextFormattingRules,Main.WikiSandbox,PmWikiCa.Requirements,PmWikiCa.DocumentationIndex,PmWiki.Download,PmWikiCa.Installation,PmWiki.MailingLists,PmWiki.HowToGetAssistance
+text=(:Language:Català:)%0a(:Title Introducció:)%0a>>faq%3c%3c [[#faq]]%0aQ: Què és PmWiki?%0aA: PmWiki és una plataforma [[WikiWikiWeb|basada en el sistema wiki]] de col·laboració creativa i manteniment de pàgines web. Feu una ullada a  [[PmWikiCa/PmWikiCa]].%0a%0aQ: Per a que es pot fer servir?%0aA: Les pàgines de PmWiki tenen l'aspecte i actuen com a pàgines web normals, excepte perquè tenen un enllaç d'"Edició" que facilita, mitjançant l'ús de les regles d'[[basic editing|+]], la modificació i creació de les pàgines. No cal tenir coneixements d'HTML o CSS. L'edició de pàgines es pot deixar oberta al públic o restringida a un xicotet grup d'autores. Proveu les [[Text Formatting Rules|+]] a la "[[Main/WikiSandbox?action=edit | zona de proves]]". La pàgina web que esteu visitant ara mateix està construïda fent servir PmWiki.%0a%0aQ: Què és requereix?%0aA: Feu una ullada a la pàgina de [[PmWikiCa.Requirements | requisits de PmWiki]].%0a%0aQ: On puc trobar-ne documentació?%0aA: Feu una ullada a l'[[PmWikiCa.DocumentationIndex |+]].%0a%0aQ: Com puc descarregar PmWiki?%0aA: Feu una ullada a la pàgina de [[PmWiki:Download |descàrrega]].%0a%0aQ: Com puc instal·lar PmWiki?%0aA: Les instruccions per a instal·lar-lo són a la [[PmWikiCa.Installation | pàgina d'instal·lació]].%0a%0aQ: Qui em pot ajudar amb PmWiki?%0aA: Feu una ullada a [[(PmWiki:)Mailing lists]] i [[(PmWiki:)How to get assistance]] (en anglès).%0a
+time=1315672241
+title=Introducció

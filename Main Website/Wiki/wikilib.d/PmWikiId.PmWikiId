@@ -1,0 +1,10 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+author=wahyuhanifah
+charset=UTF-8
+csum=pmWiki adalah suatu sistem berbasis wiki untuk pembuatan dan pemeliharaan situs secara kolaboratif
+ctime=1281375154
+name=PmWikiId.PmWikiId
+rev=16
+targets=
+text=(:Language:Indonesian:)%0a(:Summary:{$:Language}:)%0aPmWiki adalah suatu sistem berbasis wiki untuk pembuatan dan pemeliharaan situs secara kolaboratif. %0a%0aPerangkat lunak ini ditulis dalam %25newwin%25[[http://php.net/|PHP]], yang tersedia gratis di bawah %25newwin%25[[http://www.gnu.org/copyleft/gpl.html|General Public License]] dan bisa diunduh dari http://pmwiki.org/pub/pmwiki/.%0a%0aSitus ini sekarang menjalankan versi {$Version}. Dokumentasi tersedia melalui indeks dokumentasi.%0a%0aPmWiki adalah merek dagang terdaftar dari [[http://www.pmichaud.com/ | Patrick R. Michaud ]].%0a%0a
+time=1492050519

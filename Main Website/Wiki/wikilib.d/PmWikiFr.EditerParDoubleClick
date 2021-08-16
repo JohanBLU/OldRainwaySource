@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.EditerParDoubleClick
+rev=8
+targets=Profiles.Pyros,Profiles.Kisqo,PmWikiFr.IndexComplements
+text=!!!But%0a%0aPasser en mode édition quand on double-clique sur la page.%0a%0a!!!Solution%0a%0aAjouter cette ligne à la déclaration %3cbody> du modèle que vous utilisez :%0a%0a ondblclick="window.location.href='$PageUrl?action=edit'"%0a%0a--[[~Pyros]]%0a%0aen pratique : %0a%0a  %3cbody onDblClick="window.location.href='$PageUrl?action=edit'">%0a%0a-- [[~Kisqo]]%0a%0aPour moi le double clic est extrêment gênant : impossible de faire du copier-coller à la souris et quand les automatismes reviennent la page se recharge et les modifications en cours sont perdues...%0a%0aJe préfère la saisie de la touche F1 qui ne gêne pas la saisie au clavier et le double clic reste réservé au copier-coller :%0a%0a%3cbody onkeyup="if (event.keyCode==112) {window.location.href='$PageUrl?action=edit';}">%0a%0aChez moi (Mac) : %0a* onkeyup marche avec Safari et Firefox.%0a* onkeydown marche avec safari mais pas avec firefox. Pour ce dernier, le onkeydown pose problème et je n'ai rien trouvé de résolu sur les forums Firefox.%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25 Traduction de PmWiki:Cookbook.EditOnDblClick - page originale sur PmWiki:PmWikiFr.EditerParDoubleClick%0a
+time=1315669216

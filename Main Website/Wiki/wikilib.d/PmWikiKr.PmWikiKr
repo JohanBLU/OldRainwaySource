@@ -1,0 +1,9 @@
+version=pmwiki-2.2.61 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=(:pagelist group={$Group}:)
+name=PmWikiKr.PmWikiKr
+rev=20
+targets=PmWiki.PatrickMichaud,PmWiki.WikiWikiWeb
+text=(:Language:Korean:)%0aPmWiki 는 [[PmWiki/Patrick Michaud]] [=가 PHP 스크립트 언어로 개발한=] [[PmWiki/WikiWikiWeb]] [=시스템입니다. PmWiki 는 웹사이트의 쉬운 관리와 협업작업을 우선으로 설계되었습니다.=]%0a%0a* [=이 사이트는=] {$Version} [=으로 실행되고 있습니다.=]%0a* [=이 소프트웨어는 GNU General Public License (GPL) 로 자유롭게 사용할 수 있습니다.=]%0a* http://www.pmichaud.com/pub/pmwiki [=에서 다운로드 받을 수 있습니다. 문서는=] documentaion index [=에서 볼 수 있습니다.=]%0a%0aPmWiki [=는=] Patrick R. Michaud (http://www.pmichaud.com) [=의 상표로 등록되어 있습니다.=]%0a----%0a%0a[=한글 인코딩은 euc-kr 을 사용하였습니다.=] PmWikiKr.XLPage [=를 사용하지 않고서 간단히 사용하실분들은 config.php 파일에 다음과같이 두줄을 추가해 주시면됩니다.=]%0a%0a->global $HTTPHeaders;%0a->$HTTPHeaders[] = 'Content-type: text/html; charset=utf-8';%0a%0a----%0a%0a%0apmwiki에서 한글사용시 euc-kr을 사용않고 유니코드(unicode, utf-8)를 사용하여 한글 사용이 가능하며%0a%0a이때는 config.php파일에%0a%0ainclude_once('../scripts/xlpage-utf-8.php');%0a%0a이라고 한 줄만 추가하면 됩니다.%0a%0a~Kisang Kim (김기상) %0a%0a----%0a%0aiis에서 사용할 경우, iis상의 php가 UTF-8로 인코딩된 한글 파일의 쓰기를 처리하지 못합니다. 이 경우 아래와 같이 해주면 됩니다.%0a%0a->include_once('scripts/xlpage-utf-8.php');%0a->global $HTTPHeaders;%0a->$HTTPHeaders[] = 'Content-type: text/html; charset=euc-kr';%0a%0a~Hyaline (조대환, cutycutyhyaline@gmail.com)%0a%0a(:pagelist group={$Group}:)%0a
+time=1391894458

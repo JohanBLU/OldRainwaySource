@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=GC
+charset=UTF-8
+csum=ortografo
+ctime=1170698243
+name=PmWikiEo.PmWikiEo
+rev=5
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud
+text=(:Language:Esperanto:)%0a(:Summary:{$:Language}:)%0aPmWiki estas [[PmWiki/WikiWikiWeb]] sistemo programita de [[PmWiki/Patrick Michaud]] per la komputil-lingvo PHP. Pmwiki estis &#265;efe farita kiel ilo por facila helpo, kolektiva a&#365;toreco kaj facila administrado de ttt-pa&#285;oj.%0a%0aTiu-&#265;i pa&#285;aro uzas la version {$Version}. Eblas libere uzi la softvaron kiel oni anoncas en la licenco GNU &#284;enerala Publika Licenco (GPL) kaj eblas el&#349;uti &#285;in de http://pmichaud.com/pub/pmwiki. La dokumentaro estas anka&#365; el&#349;utebla de la dokumentara indekso.%0a%0aPmWiki estas registrita marko de Patrick R. Michaud (http://pmichaud.com).%0a%0a
+time=1315672422

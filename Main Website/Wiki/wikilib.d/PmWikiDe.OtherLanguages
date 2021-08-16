@@ -1,0 +1,11 @@
+version=pmwiki-2.2.109 ordered=1 urlencoded=1
+author=MFWolff
+charset=UTF-8
+csum=touch
+ctime=1467825079
+name=PmWikiDe.OtherLanguages
+rev=8
+targets=PmWikiDe.Internationalizations
+text=(:Summary: PmWiki [[PmWiki/internationalizations|internationalisiert]] in anderen Sprachen:)%0a(:title Andere Sprachen:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2016-06-07:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a%0a(:if name OtherLanguages:)%0aPmWiki kann Eingabeaufforderungen in vielen anderen Sprachen neben Englisch anzeigen, und die Übersetzung in andere Sprachen kann durch Bearbeiten von Übersetzungsseiten erfolgen. Für mehr Details siehe %0a[[internationalizations|+]]%0a%0aÜbersetzungen, die für PmWiki bereits durchgeführt wurden, schließen die folgenden Sprachen ein:%0a(:ifend:)%0a(:include PmWiki.OtherLanguages#start:)%0a
+time=1538577609
+title=Andere Sprachen

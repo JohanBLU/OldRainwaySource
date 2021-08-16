@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\obj\Debug\RainwayLauncher.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\bin\Debug\RainwayLauncher.exe.config
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\bin\Debug\RainwayLauncher.exe
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\bin\Debug\RainwayLauncher.pdb
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\obj\Debug\RainwayLauncher.exe
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\obj\Debug\RainwayLauncher.pdb
+C:\Users\user\source\repos\RainwayLauncherbyCodex\RainwayLauncherbyCodex\obj\Debug\RainwayLauncher.csprojAssemblyReference.cache
+C:\Rainway\RainwayLauncher.exe.config
+C:\Rainway\RainwayLauncher.exe
+C:\Rainway\RainwayLauncher.pdb
+C:\Users\Flarf\Desktop\Rainway Src\Launcher\RainwayLauncher\obj\Debug\RainwayLauncher.csproj.AssemblyReference.cache
+C:\Users\Flarf\Desktop\Rainway Src\Launcher\RainwayLauncher\obj\Debug\RainwayLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Flarf\Desktop\Rainway Src\Launcher\RainwayLauncher\obj\Debug\RainwayLauncher.exe
+C:\Users\Flarf\Desktop\Rainway Src\Launcher\RainwayLauncher\obj\Debug\RainwayLauncher.pdb

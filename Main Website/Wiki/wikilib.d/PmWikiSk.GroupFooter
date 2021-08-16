@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=initial version
+ctime=1166033059
+name=PmWikiSk.GroupFooter
+rev=2
+targets=PmWikiSk.A,PmWikiSk.GroupFooter,PmWiki.GroupFooter
+text=%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px' font-size='smaller'%25%0a%0a----%0a%25trad%25.%0a(:if exists PmWiki.{$Name}:)%0aPreklad stránky [[(http://www.pmwiki.org/wiki/)PmWiki.{$Name}]] %0a(:ifend:)%0a- Pôvodná stránka je na [[(http://www.pmwiki.org/wiki/){$FullName}]] -%0a[[$[Backlinks]->A?action=search&q=link={$FullName}&fmt=title]]\\%0a(:if (equal "{$ScriptUrl}" "http://pmwiki.org/wiki") or (equal "{$ScriptUrl}" "http://www.pmwiki.org/wiki"):)%0aPosledné zmeny:\\%0a[[{$FullName}]]: {$LastModified}\\%0a(:if exists PmWiki.{$Name}:)%0a[[PmWiki.{$Name}]]: {PmWiki.{$Name}$LastModified}%0a(:ifend:)
+time=1315672569

@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.CheminDeRecherche
+rev=12
+targets=PmWikiFr.WikiWord,PmWikiFr.Links,PmWikiFr.IndexComplements
+text=!!!Rechercher les pages des [[MotsWiki->WikiWord]] et les [[liens->Links]] en dehors du groupe courant.%0a%0aPar défaut, dans [=PmWiki=], les pages correspondant aux [[MotsWiki->WikiWord]] et aux [[liens->Links]] sont recherchées dans le groupe en cours, a moins qu'un autre groupe soit défini de manière explicite [=(par AutreGroupe/CettePage ou AutreGroupe.CettePage)=]%0a%0aVous pouvez éventuellement vouloir rechercher les pages correspondants aux  `MotsWiki ou aux liens à l'intérieur de plusieurs groupes.%0a%0aCeci est possible en redéfinissant le chemin de recherche définit dans la variable $PagePathFmt%0a%0aLa valeur par défaut est :%0a%0a  $PagePathFmt =  array('$Group.$1','$1.$1');%0a%0aqui dit de rechercher une page dans le groupe courant, et ensuite dans le groupe qui a le même nom que la page.  %0a%0aVous pouvez définir cette variable dans le fichier de configuration config.php pour spécifier les groupes que vous souhaitez, comme%0a%0a  $PagePathFmt = array('$Group.$1',%0a    'A.$1', 'B.$1', 'C.$1', '$1.$1');%0a%0aqui dit de rechercher en premier dans le groupe courant, puis dans le groupe A, puis B, puis C, et finalement dans un groupe qui a le même nom que la page,%0a%0aA titre d'exemple de redéfinition :%0a%0a  $PagePathFmt = [=array('$Group.$1','$DefaultGroup.$1',%0a    'YourGroup1.$1','YourGroup2.$1','PmWiki.$1','$1.$1');=]%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25Traduction de la page PmWiki:Cookbook.PagePaths%0a
+time=1315669216

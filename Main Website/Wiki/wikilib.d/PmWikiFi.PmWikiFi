@@ -1,0 +1,11 @@
+version=pmwiki-2.2.68 ordered=1 urlencoded=1
+author=a
+charset=UTF-8
+csum=
+ctime=1176887070
+name=PmWikiFi.PmWikiFi
+passwdattr=$1$0t3aQU2H$YjGwD5gfC7w2AvSJCM.jN1
+rev=5
+targets=PmWiki.PatrickMichaud,PmWiki.WikiWikiWeb
+text=(:Language:Suomi:)%0a(:Summary:{$:Language}:)%0aPmWiki on [[PmWiki/Patrick Michaud]]:n kehittämä PHP-ohjelmointikielellä [[PmWiki/WikiWikiWeb]]-järjestelmä. PmWiki on ensisijaisesti suunniteltu tukemaan helppoa ja yhteisöllistä www-sivujen luontia ja ylläpitoa.%0a%0aTämä sivusto toimii versiolla {$Version}. Ohjelmisto on vapaasti käytettävissä GNU General Public License (GPL) -lisenssin alla ja on ladattavissa osoitteesta http://pmichaud.com/pub/pmwiki. Dokumentaatio on löydettävissä otsikon 'Documentation index' alta.%0a%0aPmWiki on Patrick R. Michaud:n nimellä rekisteröity tuotemerkki (http://pmichaud.com).
+time=1411313356

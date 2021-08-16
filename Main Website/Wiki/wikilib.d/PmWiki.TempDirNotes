@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Pm
+charset=UTF-8
+csum=clarify
+ctime=1170546029
+name=PmWiki.TempDirNotes
+rev=5
+targets=
+text=This page outlines the steps that would be required for each of the temporary directory scenarios in the mailing list thread (http://www.pmichaud.com/pipermail/pmwiki-users/2007-February/038723.html).%0a%0a!! Leave ''wiki.d/'' pages at pmwiki root, create a ''tmp/'' in pmwiki root%0a%0aInstalling pmwiki (if safe_mode off):%0a# [@chmod 2777 pmwiki_root@]%0a# reload pmwiki.php%0a%0aInstalling pmwiki (safe_mode on, or site cannot do "chmod 2777"):%0a# [@mkdir pmwiki_root/wiki.d@]%0a# [@chmod 777 pmwiki_root/wiki.d@]%0a# [@mkdir pmwiki_root/tmp@]%0a# [@chmod 777 pmwiki_root/tmp@]%0a%0a%0a!! Top-level writable directory, pages and temp files as subdirs%0a%0aFor now we'll assume the top-level writable directory is called ''data.d/'' (likely to change).%0a%0aInstalling pmwiki, safe_mode off:%0a# either [@chmod 2777 pmwiki_root/data.d@] or [@chmod 777 pmwiki_root/data.d@]%0a# reload pmwiki.php%0a%0aInstalling pmwiki, safe_mode on:%0a# [@mkdir pmwiki_root/data.d/pages@]%0a# [@chmod 777 pmwiki_root/data.d/pages@]%0a# [@mkdir pmwiki_root/data.d/tmp@]%0a# [@chmod 777 pmwiki_root/data.d/tmp@]%0a%0a%0aPresumably the ''data.d/'' directory could be included in the distribution as an empty directory.  One potential downside to this would occur for Mac OS/X systems.  If a Mac OS/X system attempts to do a PmWiki upgrade by dragging-and-dropping a new pmwiki root on top of an existing pmwiki root, and the distribution contains an (empty) ''data.d/'' directory, that empty directory would override any existing ''data.d/'' directory, thus destroying any pages that happened to exist.%0a%0a
+time=1315670897

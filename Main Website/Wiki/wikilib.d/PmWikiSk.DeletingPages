@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=
+ctime=1166216273
+name=PmWikiSk.DeletingPages
+rev=3
+targets=PmWikiSk.WikiAdministrator,Site.AllRecentChanges,PmWikiSk.EditVariables,PmWikiSk.DocumentationIndex
+text=(:title Odstraňovanie stránok:)%0aPre odstránenie stránky, stránku upravte, vyberte (zvýraznite) všetok text v editovacej textovej oblasti a nahraďte ho jediným slovom%0a%0a    [@delete@]%0a%0aVšimnite si, že môže byť dobrý nápad pridať komentár do poľa @@zhrnutie@@%0avysvetľujúci prečo ste stránku odstránili. (Pole @@zhrnutie@@ sa zvyčajne nachádza%0ahneď pod editovacou textovou oblasťou).%0a%0aPo uložení zmien je stránka odstránená. Ako vlastnosť pridanej bezpečnosti, zmazaná stránka na serveri stále existuje (s časovým údajom - timestamp) a [[wiki administrator | wiki administrátor]] ju môže obnoviť na pôvodnú stránku.%0a%0aAk máte podozrenie, že stránka bola vymazaná ale nie ste si istí, pozrite sa na PoslednéZmeny ([=RecentChanges=]) wikiskupiny. Vymazanie stránky sa ráta ako úprava stránky, a činnosť sa zaznamená tam a medzi VšetkyPoslednéZmeny ([[{$SiteGroup}.AllRecentChanges]]).%0a%0aPredvolené slovo používané na mazanie stránok ("delete") možno zmeniť v config.php nastavením premennej $DeleteKeyPattern (pozri [[EditVariables | EditáciaPremenných]]). Ak existuje nebezpečenstvo zlomyseľného mazania stránok, môže byť dobrý nápad zmeniť mazacie slovo na niečo menej zrejmé. Existuje aj recept pre vytvorenie osobitnej vymazávacej akcie v [[Cookbook:DeleteAction | KuchárskaKniha:MazaciaAkcia]].%0a%0a'''Odstraňovanie skupín a kategórií'''%0a%0aKeď už vytvorím Skupinu (Group) alebo Kategóriu (Category), ako sa môžem zbaviť tej skupiny alebo kategórie?%0a%0aIba odstráňte nechcené stránky z wiki.d/ . (Ak to urobíte cez wiki%0anevyrieši to problém, keďže sa to berie ako "aktualizácia", čo spôsobí%0aže sa stránka RecentChanges (PoslednéZmeny) znovu vytvorí.)%0a%0a%0a%25trail%25%3c%3c|[[DocumentationIndex | IndexDokumentácie]]|>>
+time=1315672569
+title=Odstraňovanie stránok

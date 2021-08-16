@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=resolve broken links
+ctime=1136227622
+name=PmWikiZhCn.WikiWikiWeb
+rev=7
+targets=PmWiki.TextFormattingRules,Site.AllRecentChanges,PmWikiZhCn.BasicEditing,PmWikiZhCn.WikiSandbox
+text=WikiWikiWeb （或是简称 Wiki）是一个「开放性共同编辑”系统，它着重于'''写作'''和'''组织整理'''网页的内容，而不是仅仅简单地显示网页好供人浏览。%0a%0aWiki 的基本理念是允许（几乎）任何人可以编辑网站中的任何页面。%0a%0a听起来，这种理念是很吓人、或是混乱不堪的无政府主义，但真实的现状是，使用 Wiki 的网站往往能够发展成惊人复杂的、拥有大量组织整理过的文件资讯，可供特定社群共同来交流分享。%0a%0a不可避免的，是会有恶意的人到网站上来破坏页面，但是这种事不是经常发生。并且很多系统（包括本网站）有内建复原机制，能够恢复被篡改或破坏的内容。%0a%0aWiki 的目标是尽可能使建立和编辑网路内容的工作，变得简单而且值得投入。使用任何一个合乎标准的网页浏览器，你只要熟悉相当简单的 [[PmWiki/TextFormattingRules | 文本格式化语法]] '^(en)^'，就能编辑网站中的（几乎）任意网页。%0a%0a要建立连到新的或已经存在的页面的连结，只需简单地输入 WikiWord -- 由两个以上、单字间不含空白、且字首皆为大写的英文单字，连在一起组合而成 -- 来做为目标页面的连结标题。%0a%0a甚至不需学习 [[PmWiki/TextFormattingRules | 文本格式化语法]] '^(en)^' 就能开始进行，只要先将文件内容写入网页，就会有热心的人为你重新编排文件格式。毕竟，任何人都能编辑你的页面！%0a%0a在网站的 [[Site/AllRecentChanges | 所有最近更动]] 里头，你也可以看到其他人编修的内容。%0a%0a想要了解更多在 Wiki 中撰写网页的方法，请参考 [[Basic Editing | +]]，然后在 [[WikiSandbox | +]] 中试着学习如何编辑网页。%0a%0a如果你要了解更多关于 WikiWikiWeb 的理念，请参考底下这些网站（英文）：%0a%0a* %25newwin%25[[Wiki:WikiWikiWeb]]%25%25 '^(en)^' -- WikiWikiWeb 的起源%0a* %25newwin%25[[Meatball:WhyWikiWorks]]%25%25 '^(en)^' -- 如何和为什么 Wiki 能够运作%0a* %25newwin%25[[Meatball:SoftSecurity]]%25%25 '^(en)^' -- 开放性共同编辑如何成就好的网站%0a* %25newwin%25[[http://www.communitywiki.org/cw/CategoryWiki|Wiki]]%25%25 '^(en)^' 在 %25newwin%25[[http://www.communitywiki.org/en/SiteMap|CommunityWiki]]%25%25 '^(en)^'%0a* %25newwin%25[[Wikipedia:Wiki#Characteristics|WikiFeatures]]%25%25 '^(en)^' -- Wiki 的特征和如何使用它们的讯息%0a* %25newwin%25[[Wikipedia:Wikipedia:Why_Wikipedia_is_so_great]]%25%25 '^(en)^' -- 如何和为什么世界上最大的 Wiki 写出一套免费的综合性百科全书
+time=1315680534

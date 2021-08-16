@@ -1,0 +1,10 @@
+version=pmwiki-2.2.69 ordered=1 urlencoded=1
+author=JohnnyN
+charset=UTF-8
+csum=Created the page.
+ctime=1413918164
+name=PmWikiDa.Search
+rev=1
+targets=
+text=(:Summary:Gennemsøg wiki:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0a[[#searchinfostart]]%0aEn søgning efter mere end et ord vil finde sider der indeholder alle ordene.%0aBrug anførselstegn til at søge efter et udtryk.%0aBrug også anførselstegn til tekst med tegnsætning eller særlige tegn.%0aSøgninger ser ikke forskel på store og små bogstaver.%0a%0aFor at begrænse din søgning til en enkelt gruppe, indtast gruppenavnet efterfulgt af en skråstreg, i begyndelsen af søgestrengen (fx "[=PmWiki/=]" eller "{$SiteGroup}/").  %0aFor at opliste alle sider, indtast en skråstreg som søgning.  %0a%0a!![-Søgeeksempler-]%0a %0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||!Indtast         ||!For at finde sider der indeholder ||%0a||kanon god        ||både 'kanon' og 'god' ||%0a||"kanon god"      ||udtrykket 'kanon god' ||%0a||PmWiki/kanon     ||'kanon' i PmWiki-gruppen af sider ||%0a||"PmWiki/kanon"   ||udtrykket 'PmWiki/kanon' i alle grupper af sider ||%0a||kanon -god       ||'kanon', undtaget dem der indeholder 'god' ||%0a||fed -"kanon god" ||'fed', undtaget dem der indeholder 'kanon god' ||%0a||kanon "-god"     ||ordene 'kanon' og '-god' ||%0a||kanon - god      ||'kanon', '-', og 'god' ||%0a||"god:"           ||ordet 'god' med et kolon ||%0a||"god=rar"        ||udtrykket 'god=rar' ||%0a||pmwiki/          ||alle sider i gruppen [=PmWiki=] ||%0a%0aNogle ''særlige tegn'' er nødt til at blive skrevet i anførselstegn, herunder kolon(:), lig med (=), mindre end (&lt;), enkelt anførselstegn (') og dobbelt anførselstegn (").%0a%0a[[#searchinfoend]]%0a
+time=1413918164

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.63 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1171490874
+name=PmWiki.LinkSchemes
+rev=8
+targets=PmWiki.InterMap,PmWiki.MakeLink,Cookbook.AddUrlSchemes
+text=(:Summary: Link schemes supported by PmWiki:)%0a!! Link schemes supported by PmWiki%0aOf the [[http://tools.ietf.org/html/rfc3986|URI schemes]]'^[[Wikipedia:URI_scheme|#]]^' (protocols) [-(data: file: ftp: gopher: http: https: ldap: ldapi: ldaps: mailto: mms: news: nntp: pop: rlogin: rtsp: rtspu: rsync: sip: sips: snews: telnet: tn3270: ssh: urn: urn:isbn: urn:oid:)-]%0athe following are supported by PmWiki%0a[-(as defined in pmwiki.php)-]%0a%0a* http: [[http://tools.ietf.org/html/rfc2616|rfc 2616]] [-[[http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol|#]]-]%0a* https: [[http://tools.ietf.org/html/rfc2616|rfc 2817]]%0a* mailto: [[http://tools.ietf.org/html/2368|rfc 2368]]%0a* ftp: [[http://tools.ietf.org/html/959|rfc 959]] [-[[Wikipedia:File_Transfer_Protocol|#]]-]%0a* news: [[http://tools.ietf.org/html/1738|rfc 1738]] [-[[Wikipedia:Network_News_Reader_Protocol|#]]-]%0a* gopher: [[http://tools.ietf.org/html/1436|rfc 1436]] [-[[Wikipedia:Gopher_(protocol)|#]]-]%0a* nap: [-http://nap.dstm.info/[[|#]]-]%0a* file: [[http://tools.ietf.org/html/rfc1738|rfc 1738]]%0a* tel: [[http://tools.ietf.org/html/rfc2806|rfc 2806]]%0a* geo: [[http://tools.ietf.org/html/rfc5870|rfc 5870]]%0a%0aPmWiki also provides the [[InterMap#path|path]] link scheme%0a%0aSee also%0a* [[PmWiki/InterMap]] {PmWiki.InterMap$:Summary}%0a* [[PmWiki/MakeLink|$LinkFunctions]]%0a%0aQ: How do I add a new scheme, eg [[http://sdp.ppona.com/|mms]]?%0aA: See [[Cookbook:AddUrlSchemes]] {Cookbook.AddUrlSchemes$:Summary}%0a
+time=1399577879

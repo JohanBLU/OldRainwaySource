@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=same content, redirect to PmWikiZhTw.BasicEditing
+name=PmWikiZhTw.頁面編輯入門
+rev=13
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.BasicEditing]]:)%0a(:redirect PmWikiZhTw.BasicEditing:)
+time=1315680534

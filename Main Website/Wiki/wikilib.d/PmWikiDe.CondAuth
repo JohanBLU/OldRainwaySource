@@ -1,0 +1,11 @@
+version=pmwiki-2.2.99 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=more examples
+ctime=1467638218
+name=PmWikiDe.CondAuth
+rev=3
+targets=PmWikiDe.LocalCustomizations,PmWikiDe.Functions
+text=(:title CondAuth:)%0a(:Summary: Dokumentation der internen Funktion CondAuth:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2016-07-04:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Entwickler und Administratoren:)%0a%0a%0aÜberprüfen Sie, ob der Benutzer, der eine Seite abfragt, die spezifische Autorisierung hat, zum Beispiel 'browse', 'edit', 'upload', ...%0a%0a%0a->[@%0aif (CondAuth($pagename, 'edit')) { ... }%0a@]%0a%0aSie können Autorisierungsebenen ('read', 'edit', 'attr', 'admin') oder Aktionsnamen ('browse', 'upload', 'source') als zweites Argument übergeben.%0a%0aWenn Sie CondAuth() oder andere, [[PmWikiDe/LocalCustomizations#configphp-order | ähnliche Funktionen]] benutzen, ist es wichtig daran zu denken, dass Sie sie so spät wie möglich in Ihrer ''config.php''-Datei aufrufen, um verschiedene Caching-Probleme zu vermeiden, die sonst nur sehr schwer mit den übliche 'Troubleshoot'-Verfahren zu finden und zu lösen sind. CondAuth füllt den Cache / die Caches, was für nachfolgenden Kode zu Problemen führen kann, wenn der Kode den Cache leer erwartet.%0a%0aSiehe auch:%0a* [[PmWikiDe.Functions#CondAuth|+]] - {PmWikiDe.Functions$:Summary}
+time=1499802724
+title=CondAuth

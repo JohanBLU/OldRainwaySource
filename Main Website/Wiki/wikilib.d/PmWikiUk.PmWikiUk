@@ -1,0 +1,10 @@
+version=pmwiki-2.2.92 ordered=1 urlencoded=1
+author=vit_vit
+charset=UTF-8
+csum=
+ctime=1276043962
+name=PmWikiUk.PmWikiUk
+rev=13
+targets=
+text=(:Language:Ukrainian:)%0a(:Summary:{$:Language}:)%0aPmWiki - це вікі-система для колективного створення та підтримки веб-сторінок.%0a%0aСторінки PmWiki мають вигляд та функційність звичайних веб-сторінок, за винятком того, що вони можуть бути [[http://www.pmwiki.org/wiki/Main/WikiSandbox |відредаговані]], що дозволяє швидко вносити зміни в створені на сайті сторінки та додавати нові з використанням [[http://www.pmwiki.org/wiki/PmWiki/BasicEditing |основних правил]] редагування. Для цього не обов'язкові знання кодів HTML та CSS. Редагування сторінок може бути відкритим для будь-кого, або дозволене лише обмеженій групі людей.%0a%0aЦе програмне забезпечення, яке розроблене з використанням %25newwin%25[[http://php.net/|PHP]], може бути завантажене з http://pmwiki.org/pub/pmwiki/ та є безкоштовним за умов %25newwin%25[[http://www.gnu.org/copyleft/gpl.html|General Public License]]. Сайт використовує {$Version}. Документація знаходиться у [[http://www.pmwiki.org/wiki/PmWiki/DocumentationIndex|відповідному розділі]].%0aPmWiki є зареєстрованою торговою маркою [[http://www.pmichaud.com/ | Patrick R. Michaud ]].%0a%0a(:include PmWiki.OtherLanguages:)%0a
+time=1480633977

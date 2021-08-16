@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWiki.GoodStyle
+post= Save
+rev=12
+targets=
+text='+Be aware of these conventions, even if you choose to ignore them.+'%0a%0aWhen you write here, it is a common practice to use the second or third person. Remember '''Dragnet''' and write "Just the facts, ma'am." Give concrete advice.%0a%0aWhen you ''do'' write in the first person, it is conventional to sign your work. To sign a section of a page, add either @@[=~~=]~@@ or [@[[~your name]]@]%0a%0aPeople often use the first person to describe their own experiences.%0a%0aIt is conventional not to change a paragraph that someone else has signed, except to correct obvious mistakes. So if you'd prefer that something you write not be changed, sign it.%0a%0aUnsigned work is considered open for change. So if you want to, go ahead and change it.%0a%0aPractice understatement. Use plain language. Be bold and be nice.%0a
+time=1315670897

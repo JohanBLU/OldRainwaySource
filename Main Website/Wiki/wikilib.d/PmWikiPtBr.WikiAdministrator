@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=
+ctime=1286852031
+name=PmWikiPtBr.WikiAdministrator
+rev=3
+targets=PmWikiPtBr.Installation,PmWikiPtBr.InitialSetupTasks,PmWiki.DocumentationIndex,PmWiki.AdminTask,PmWiki.Security,PmWiki.Audiences
+text=(:Summary: Define o que é um administrador de wikis, suas responsabilidades e tarefas:)%0a(:title Administrador de Wikis:)%0aUm administrador do Wiki é uma pessoa (ou pessoas) que instalam, configuram e administram um sistema PmWiki para os autores e visitantes do site. PmWiki foi projetado para fazer a [[Installation|+]] e [[InitialSetupTasks|+]] tão fácil quanto possível para as pessoas que não têm muito conhecimento sobre HTML, PHP, ou até mesmo software de servidor web. Ao mesmo tempo, o PmWiki é projetado para ser flexível o suficiente para que alguém com pouco conhecimento sobre HTML e PHP pode personalizar PmWiki às suas necessidades específicas.%0a%0aVeja o [[PmWiki.DocumentationIndex|+]] para páginas sobre como administrar o PmWiki, [[PmWiki.AdminTask|+]], %0a[[PmWiki/security|+]] e [[PmWiki.audiences|+]] para mais detalhes sobre as audiências alvo do PmWiki.%0a
+time=1315670403
+title=Administrador de Wikis

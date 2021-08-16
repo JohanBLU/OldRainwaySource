@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=use auto translation for WikiSandbox link
+ctime=1255643498
+name=PmWikiNl.Introduction
+rev=8
+targets=PmWikiNl.WikiWikiWeb,PmWikiNl.PmWikiNl,PmWikiNl.BasicEditing,PmWikiNl.TextFormattingRules,PmWikiNl.WikiSandbox,PmWiki.Requirements,PmWikiNl.DocumentationIndex,PmWikiNl.Download,PmWiki.Installation,PmWiki.MailingLists,PmWiki.HowToGetAssistance
+text=(:title Inleiding:)%0a>>faq%3c%3c [[#faq]]%0aQ: Wat is PmWiki?%0aA: PmWiki is een [[WikiWikiWeb|wiki-gebaseerd]] systeem voor het gezamelijk aanmaken en onderhouden van websites. Zie [[PmWikiNl]].%0a%0aQ: Wat kan ik ermee doen?%0aA: PmWiki pagina's zien eruit en werken als normale webpagina's, behalve dat ze ook nog een "bewerk"-link hebben. Via deze weg is het gemakkelijk om bestaande pagina's te wijzigen en nieuwe pagina's te maken, gebruikmakend van een aantal [[BasicEditing|basisbewerkingen]]. Het is niet nodig om HTML of CSS te begrijpen of te gebruiken. Het bewerken van de pagina's kan open worden gelaten voor alle bezoekers of worden beperkt tot een kleine groep van auteurs. Voel je vrij om te experimenteren met de [[Text Formatting Rules|+]] in de "[[WikiSandbox?action=edit|+]]". De website die je momenteel bekijkt is gebouwd en onderhouden met PmWiki.%0a%0aQ: Wat zijn de systeem vereisten?%0aA: Zie pagina [[PmWiki.Requirements | PmWiki vereisten]] '^(en)^'.%0a%0aQ: Waar vind ik documentatie?%0aA: Zie pagina [[DocumentationIndex | + ]].%0a%0aQ: Hoe kan ik PmWiki downloaden?%0aA: Zie pagina [[Download | + ]].%0a%0aQ: Hoe installeer ik PmWiki?%0aA: Instructies voor installatie zijn te vinden op pagina [[PmWiki.Installation | Installatie]] '^(en)^'.%0a%0aQ: Hoe kan ik hulp krijgen met PmWiki?%0aA: Zie [[PmWiki:Mailing lists]] '^(en)^' en [[PmWiki:How to get assistance]] '^(en)^'.%0a
+time=1315670189
+title=Inleiding

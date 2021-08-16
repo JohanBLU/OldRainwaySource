@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=baxtep
+charset=UTF-8
+csum=кто то тут накосячил пробую исправить
+ctime=1142586662
+name=PmWikiRu.SitePageNotFound
+rev=5
+targets=PmWikiRu.SitePageNotFound
+text=(:nolinkwikiwords:)%0a(:if name PmWikiRu.SitePageNotFound:)%0a-> %25green font-style:italic%25 Эта страница содержит текст который показывается когда PmWiki не может найти запрашиваемую страницу. Администраторы могут её редактировать для изменения текста сообщения.%0a(:if:)%0a%0a(:if !group Category:)Страница "{$RequestedPage}" не существует.  %0a(:if auth edit:)%25rel=nofollow%25 ([[{*$FullName}?action=edit | Создать {*$FullName}]]) %0a(:if:)%0a%0a
+time=1315680534

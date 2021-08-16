@@ -1,0 +1,12 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=anonymous
+charset=UTF-8
+csum=
+ctime=1144010360
+description=Raccourcis de liens externes prédéfinis
+name=PmWikiFr.InterMap
+rev=40
+targets=Site.InterMap,PmWiki.Variables,PmWikiFr.Links,PmWikiFr.CustomInterMap,PmWikiFr.DocumentationIndex
+text=(:Title Liens InterMap:)(:description Raccourcis de liens externes prédéfinis:)%0a%0aLes Liens InterMap sont des raccourcis qui facilitent les liens vers des sites externes pré-définis. Ils ont initialement été développés avec [[(UseMod:)UseModWiki]] et [[(Meatball:)MeatballWiki]]. %0a%0aLes Liens InterMap ont la forme suivante [@Prefixe:Page@], où le préfixe sera remplacé par le début d'adresse URL à partir des informations des fichiers @@intermap.txt@@ et @@localmap.txt@@, et la page [[{$SiteGroup}.InterMap]].%0a%0aLe fichier par défaut @@intermap.txt@@ livré avec `PmWiki contient les entrées `InterMap suivantes :%0a [=%0aPmWiki:		http://www.pmwiki.org/wiki/PmWiki/%0aCookbook:	http://www.pmwiki.org/wiki/Cookbook/%0aWiki:		http://www.c2.com/cgi/wiki?%0aUseMod:		http://www.usemod.com/cgi-bin/wiki.pl?%0aMeatball:	http://www.usemod.com/cgi-bin/mb.pl?%0aWikipedia:	http://www.wikipedia.com/wiki/%0aPITS:		http://www.pmwiki.org/PITS/%0aPath:            %0a=]%0a%0aUn WikiAdministrateur peut définir d'autres préfixes dans la page [[{$SiteGroup}.InterMap]].%0a%0aAinsi, PmWiki:Variables devient un lien à la page [[PmWiki.Variables]] du site officiel PmWiki, Wiki:FrontPage est un lien sur la page d'accueil du premier WikiWikiWeb, et Wikipedia:Stonehenge vous envoie vers un article de l'encyclopédie Wikipédia à propos de ces très célèbres pierres d'Angleterre. %0a%0aLe préfixe [@Path:@] est spécial et permet de référencer des fichiers sur le même serveur. Par exemple, au lieu de [@http://www.monsite.fr/chemin/fichier.zip@], on saisit [@Path:/chemin/fichier.zip@].%0a%0aLes raccourcis InterMap s'écrivent comme les autres [[Links|liens]]:%0a* [@PmWiki:Installation@]%0a* [@[[PmWiki:Installation | texte du lien ]]@]%0a* [@[[(PmWiki:)Installation ]]@]%0a* etc.%0a%0aVoir aussi [[CustomInterMap|+]].%0a%0a----%0a%25trail%25%3c%3c|[[DocumentationIndex|+]]|>>%0a
+time=1315669216
+title=Liens InterMap

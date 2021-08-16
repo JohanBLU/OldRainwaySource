@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=summary
+ctime=1142020209
+name=PmWikiTa.PmWikiTa
+rev=3
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud,PmWikiTa.XLPage
+text=(:Language:Tamil:)%0a(:Summary:{$:Language}:)%0aPmWiki is a [[PmWiki/WikiWikiWeb]] system developed by [[PmWiki/Patrick Michaud]] in the PHP scripting language. PmWiki has been primarily designed as a tool to support easy, collaborative authoring and maintenance of web sites.%0a%0aThis site is running {$Version}. The software is freely available under the GNU General Public License (GPL) and may be downloaded from http://pmichaud.com/pub/pmwiki. Documentation is available via the documentation index.%0a%0aPmWiki is a registered trademark of Patrick R. Michaud (http://pmichaud.com).%0a%0a-----%0a%0aWe had a start on pages in Tamil at one point, but somehow the pages were corrupted or never quite worked out.  I'd be very pleased if someone could re-do the translations.  Simply [[XLPage?action=edit | edit the translation page]] and start adding the appropriate translations.%0a%0aAlso, this page should probably be translated into Tamil.%0a%0aThanks!%0a%0a
+time=1315672569

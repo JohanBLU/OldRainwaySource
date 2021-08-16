@@ -1,0 +1,13 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=Language:Deutsch
+ctime=1203276206
+name=PmWikiDe.PmWikiDe
+passwdattr=$1$AHmTr5p/$7TR2LlJOcW1DHFz.bRMP..
+passwdedit=$1$SPBrJkkt$fzO6ZfQVf19HFo.hRAIjV0
+rev=18
+targets=
+text=(:redirect PmWiki:)%0a(:title Automatische Startseite der Gruppe:)%0a(:Summary: Wird umgeleitet:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2008-03-10:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: admin:)%0a(:Language:Deutsch:)%0a%0a
+time=1315669264
+title=Automatische Startseite der Gruppe

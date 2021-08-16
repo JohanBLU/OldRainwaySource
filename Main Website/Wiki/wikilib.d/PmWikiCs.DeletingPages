@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petr Novotný
+charset=UTF-8
+csum=
+ctime=1187779769
+name=PmWikiCs.DeletingPages
+rev=2
+targets=PmWikiCs.WikiAdministrator,Site.AllRecentChanges,PmWikiCs.EditVariables,PmWikiCs.DocumentationIndex
+text=(:title Odstraňování stránek:)%0aPro odstranění stránky otevřete její editaci, vyberte veškerý její obsah a nahraďte ho jediným slovem%0a%0a    [@delete@]%0a%0aJe vhodné přidat do pole @@Souhrn@@ komentář vysvětlující proč jste danou stránku odstranili. (Pole @@Souhrn@@ se obyčejně nachází hned pod editační textovou oblastí).%0a%0aPo uložení změn je stránka odstraněná. Jako bezpečnostní pojistka stránka na serveru stále existuje (s časovým údajem - timestamp) a [[wiki administrator | wiki administrátor]] jí může obnovit na původní stránku.%0a%0aPokud máte podezření, že stránka byla vymazána, ale nejste si jisti, podívejte se na Poslední úpravy ([=RecentChanges=]) wikiskupiny. Vymazání stránky se považuje za změnu stránky a je tedy na tomto místě dohledatelná (stejně jako na VšechnyPosledníZměny ([[{$SiteGroup}.AllRecentChanges]]).%0a%0aPředvolené slovo používané na mazání stránek ("delete") je možné změnit v config.php nastavením proměnné $DeleteKeyPattern (viz [[EditVariables | EditaceProměnných]]). Pokud existuje riziko zlomyslného mazání stránek, je dobré změnit tento pokyn na nějaký méně odhadnutelný. Existuje i návod(recept) na vytvoření vlastní akce mazání v[[Cookbook:DeleteAction | Kuchařka:MazacíAkce]].%0a%0a'''Odstraňování skupin a kategorií'''%0a%0aKdyž vytvořím Skupinu (Group) nebo Kategorii (Category), jak se mohu zbavit oné skupiny či kategorie?%0a%0aOdstraňte nežádoucí stránky z wiki.d/ . (Přístup přes wiki nevyřeší problém, neboť se mazání bere jako "změna", což způsobí že se stránka RecentChanges (PosledníZměny) znovu vytvoří.)%0a%0a%0a%25trail%25%3c%3c|[[DocumentationIndex | IndexDokumentace]]|>>
+time=1315668571
+title=Odstraňování stránek

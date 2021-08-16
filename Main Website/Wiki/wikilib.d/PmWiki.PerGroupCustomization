@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Simon
+charset=UTF-8
+csum=no backlinks now
+ctime=1251405120
+name=PmWiki.PerGroupCustomization
+rev=4
+targets=
+text=(:redirect PmWiki.GroupCustomizations:)
+time=1315670897

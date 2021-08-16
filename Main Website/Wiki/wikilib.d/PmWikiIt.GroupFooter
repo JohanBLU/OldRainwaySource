@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=restore
+ctime=1192741273
+name=PmWikiIt.GroupFooter
+rev=10
+targets=PmWikiIt.DocumentationIndex,PmWikiIt.Variables,PmWikiIt.A,PmWikiIt.GroupFooter,PmWiki.GroupFooter
+text=[[#trailstart]](:comment included in PmWiki localisation headers and footers :)%0a(:if ontrail {*$Group}.DocumentationIndex#trailstart#trailend {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#eee;":)%0a%3c| [[{*$Group}/Documentation index(#trailstart#trailend)]] |> %25%25%0a(:divend:)%0a(:ifend:)%0a(:if ontrail {*$Group}.Variables {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#ddd;":)%0a%3c| [[{*$Group}/Variables]] |> %25%25%0a(:divend:)%0a(:ifend:)%0a[[#trailend]]%0a%25define=trad block color='#060' bgcolor=#cf9 border='1px solid #060' padding='3px' font-size='smaller'%25%0a%0a----%0a%25trad%25 (:if exists PmWiki.{$Name}:)Traduzione di [[(http://www.pmwiki.org/wiki/)PmWiki.{$Name}]] -(:elseif exists Site.{$Name}:)Traduzione di [[(http://www.pmwiki.org/wiki/)Site.{$Name}]] -(:ifend:)%0aPagina originale: [[(http://www.pmwiki.org/wiki/){$FullName}]] -%0a[[$[Backlinks]->A?action=search&q=link={$FullName}&fmt=title]]\\%0a(:if (equal "{$ScriptUrl}" "http://pmwiki.org/wiki") or (equal "{$ScriptUrl}" "http://www.pmwiki.org/wiki"):)%0aUltime modifiche:\\%0a[[{$FullName}]]: {$LastModified}\\%0a(:if exists PmWiki.{$Name}:)[[PmWiki.{$Name}]]: {PmWiki.{$Name}$LastModified}(:ifend:)
+time=1315669968

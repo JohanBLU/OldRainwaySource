@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Mtl
+charset=UTF-8
+csum=
+ctime=1228250003
+name=PmWikiFr.MtlTest
+rev=5
+targets=PmWikiFr.CustomizeShellPrompt
+text=!Cette page me sert de base%0a%0a!![[CustomizeShellPrompt]]%0a%0ale site de google : [[http://www.google.fr]]%0a%0ale site de Yahoo : [[http://www.yahoo.fr|La page de Yahoo]]%0a%0a!!Types de Sites%0a:wiki:Site web dont on peut éditer les pages "facilement"\\%0a- sans html\\%0a- sans frontpage ou autre grosse m...\\%0aEn particulier, on peut créer des nouvelles pages et des liens facilement.%0a%0a:cms:Un système de gestion de contenu ou SGC ((en) Content Management Systems ou CMS) est une famille de logiciels destinés à la conception et à la mise à jour dynamique de site web ou d'application multimédia.%0a%0a%0a%0a
+time=1315669216

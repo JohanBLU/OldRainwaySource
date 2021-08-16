@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.Menu
+rev=16
+targets=PmWikiFr.PmWikiFeatures,PmWikiFr.Download,PmWikiFr.IndexDocumentation,PmWikiFr.IndexDocAdmin,PmWikiFr.IndexComplements,PmWikiFr.ReleaseNotes,PmWikiFr.EtatDeLaTraduction
+text=*[[Fonctionnalités->PmWikiFeatures]]%0a*[[Download|+]]%0a*[[Documentation->index documentation]]%0a*[[Doc administration->index doc admin]]%0a*[[Doc compléments->index complements]]%0a*[[ReleaseNotes|+]]%0a*[[Etat de la traduction -> EtatDeLaTraduction]]%0a
+time=1315669216

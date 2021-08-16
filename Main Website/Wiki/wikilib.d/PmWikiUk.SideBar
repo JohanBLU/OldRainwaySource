@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Sergei
+charset=UTF-8
+csum=
+ctime=1282498934
+name=PmWikiUk.SideBar
+rev=17
+targets=PmWikiUk.PmWikiUk,PmWiki.WikiSandbox,Site.AllRecentChanges,Site.AllRecentChangesShort
+text=%25sidehead%25[[PmWikiUk|PmWikiUk]]%0a* [[PmWikiUk/PmWikiUk | Домашня сторінка]]%0a* [[PmWiki/Wiki Sandbox | Пісочниця]]%0a* [[Site/All Recent Changes|Усі останні зміни]] [[Site/AllRecentChangesShort| [-(Стисло)-]]]%0a%0a----%0a[+'''PmWiki Main'''+]%0a(:include Site/SideBar:)%0a%0a%0a[[http://www.pmwiki.org/wiki/PmWikiUk/SideBar?action=edit |[--Редагувати панель--]]]
+time=1315672569

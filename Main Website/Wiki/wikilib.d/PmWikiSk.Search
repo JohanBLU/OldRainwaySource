@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=pridaný lokalizovaný titulok
+ctime=1165862885
+name=PmWikiSk.Search
+rev=3
+targets=PmWiki.PageLists
+text=(:title Hľadanie:)%0a(:searchbox:)%0a%0a(:searchresults:)%0a%0aVyhľadávanie viac než jedného slova nájde stránky, ktoré obsahujú všetky zadané slová.%0aPoužijte úvodzovky pre vyhľadanie výrazu.  Tiež použijte úvodzovky pre text obsahujúci špeciálne znaky.%0a%0aPre obmedzenie vášho vyhľadávania na jedinú skupinu, zadajte názov skupiny nasledovaný lomítkom na začiatok hľadaného reťazca (napr., "[=PmWiki/=]" alebo "Main/").  Pre vypísanie všetkých stránok, zadajte lomítko pre hľadanie.  %0a%0a!![-Príklady vyhľadávania-]%0a %0a||border='0' cellspacing='0' width='100%25' cellpadding='0'%0a||'''Zadať'''    ||'''Nájsť stránky obsahujúce''' ||%0a||apple pie      ||obidva 'apple' aj 'pie' ||%0a||"apple pie"    ||výraz 'apple pie' ||%0a||pmwiki/apple   ||'apple' v skupine [=PmWiki=] ||%0a||"pmwiki/apple" ||výraz 'pmwiki/apple' vo všetkých skupinách ||%0a||apple -pie     ||'apple', s výnimkou tých, ktoré obsahujú 'pie' ||%0a||food -"apple pie" ||'food', s výnimkou tých, ktoré obsahujú 'apple pie' ||%0a||apple "-pie"   ||slová 'apple' a '-pie' ||%0a||apple - pie    ||'apple', '-', a 'pie' ||%0a||"pie:"         ||slovo 'pie' s dvojbodkou ||%0a||"pie=tasty"    ||výraz 'pie=tasty' ||%0a%0aNiektoré špeciálne znaky je potrebné vložiť do úvodzoviek, vrátane dvojbodky (:), znamienka rovná sa (=), jednoduchej úvodzovky (') a dvojitej úvodzovky(").%0a%0aPre pokročilé vyhľadávanie, [[PmWiki/PageLists]] parametre (count, group, fmt, link, list, order, a trail) môžu byť zadané spolu s hľadaným reťazcom.
+time=1315672569
+title=Hľadanie

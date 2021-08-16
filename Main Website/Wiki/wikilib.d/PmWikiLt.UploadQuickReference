@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Rogutės
+charset=UTF-8
+csum=
+ctime=1176145203
+name=PmWikiLt.UploadQuickReference
+rev=10
+targets=PmWiki.Uploads,PmWikiLt.UploadQuickReference
+text=(:Summary:Greita pagalba failų [[PmWiki/uploads|prisegimui]]:)%0a[[#quickreference]]%0a>>color:#000000 bgcolor:#f9f9f9 font-family:'Arial,sans-serif' font-size:12px padding:2px border:'1px solid #cccccc' class='quickref'%3c%3c%0a'''%25newwin%25[[PmWiki/Uploads|Išsamesnė pagalba failų prisegimui (angliškai)]]'''%0a%0a# Naudodami aukščiau esantį mygtuką „Parinkti“, savo kompiuteryje išrinkite failą, kurį norite prisegti.%0a%0a# Lauke „Galima pakeisti pavadinimą“ galite įvesti failo pavadinimą, kuriuo pageidaujate pavadinti prisegtą failą. [[%3c%3c]]Jis gali būti toks pats kaip ir originalus failo pavadinimas, ''taip pat gali būti ir kitoks'', %25bgcolor:yellow%25'''svarbiausia įsitikinti, kad failo plėtinys teisingas'''%25%25.%0a%0a# Spauskite „$[Upload]“, kad atsiųstumėte parinktą failą.%0a%0a# Norėdami naudoti prisegtą failą {$Group} grupės wiki puslapyje, redaguodami puslapį parašykite @@[=Attach:=]''failo_pavadinimas.plėtinys''@@.%0a%0a# Prisegę failą, galite%0a** %25item rel=nofollow class=browse    accesskey=$[ak_view]%25 [[{*$FullName}?action=browse | $[View] {*$Name} puslapį]] arba%0a** %25item rel=nofollow class=edit      accesskey=$[ak_edit]%25 [[{*$FullName}?action=edit   | $[Edit] {*$Name} puslapį]] arba%0a** Peržiūrėti žemiau esantį {*$Group} wiki grupėje prisegtų failų sąrašą.%0a>>%3c%3c%0a[[#quickreferenceend]]%0a%0a----%0a%0a!! Šiuo metu prisegti failai%0a>>font-size:smaller%3c%3c%0a(:attachlist:)%0a>>%3c%3c%0a%0a
+time=1315672422

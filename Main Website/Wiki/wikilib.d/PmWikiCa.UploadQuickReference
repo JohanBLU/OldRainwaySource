@@ -1,0 +1,11 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=
+ctime=1310983913
+name=PmWikiCa.UploadQuickReference
+rev=5
+targets=PmWikiCa.Uploads,PmWikiCa.UploadQuickReference
+text=(:Language:Català:)%0a(:Title Com adjuntar fitxers:)%0a(:Summary:referència ràpida per a [[PmWikiCa/Uploads|adjuntar fitxers]] a les pàgines:)%0a[[#quickreference]]%0a>>color:#000000 bgcolor:#f9f9f9 font-family:'Arial,sans-serif' font-size:12px padding:2px border:'1px solid #cccccc' class='quickref'%3c%3c%0a'''%25newwin%25[[PmWikiCa/Uploads|INTRUCCIONS:]]'''%0a%0a# Al camp '''"$[File to upload:]"''' seleccioneu el fitxer que voleu adjuntar.%0a%0a# Al camp '''"$[Name attachment as:]"''', introduïu el nom que voleu que tingui el fitxer un cop ha estat pujat. [[%3c%3c]]El nom pot ser el mateix que té al vostre ordinador ''o pot ser diferent'', però [+%25bgcolor:yellow%25'''assegureu-vos que li afegiu l'extensió correcta''' en cas d'especificar un nom nou%25%25+]. Deixeu aquest camp buit per a que el fitxer conservi el mateix nom que té al vostre ordinador.%0a%0a# Premeu '''"$[Upload]"''' per a enviar el fitxer.%0a%0a# Per fer referència a un fitxer adjunt des de les pàgines del wiki, només cal escriure a la pàgina:\\%0a @@[=Attach:=]''nom_del_fitxer.ext''@@\\%0a Substituïu ''nom_del_fitxer.ext'' per el nom que li heu donat al fitxer, i recordeu que si el nom té espais cal usar claudàtors, per exemple:\\%0a @@[=[[Attach:=]El meu curriculum.pdf]]@@\\%0a Per a més informació, per favor vegeu la pàgina %25newwin%25[[PmWikiCa/Uploads|+]].%0a%0a# Després d'haver adjuntat el fitxer, podeu  %0a** %25item rel=nofollow class=browse%25 [[{*$FullName}?action=browse | Veure la pàgina {*$Name} ]] o%0a** %25item rel=nofollow class=edit%25 [[{*$FullName}?action=edit   | Editar la pàgina {*$Name}]] o%0a** Desplaçar-vos [[#attachlist|abaix (en aquesta pàgina)]] per a veure la llista de fitxers adjunts.%0a>>%3c%3c%0a[[#quickreferenceend]]%0a%0a----%0a%0a!! Fitxers adjunts%0a[[#attachlist]]%0a>>font-size:smaller%3c%3c%0a(:attachlist:)%0a>>%3c%3c
+time=1318585880
+title=Com adjuntar fitxers

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=deleted dead links
+ctime=1205783569
+name=PmWikiDe.References
+rev=6
+targets=Profiles.ChristophLange,Cookbook.EmacsPmWikiMode
+text=(:title Referenzen:)%0a(:Summary: PmWiki in diversen Medien:)%0a(:Original_Page: PmWiki.References:)%0a(:Translation_Date: 2008-03-17:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Grundlagen:)%0a%0aPmWiki wurde in verschieden Medien besprochen:%0a%0a!! Artikel im WWW%0a%0a* [[''PmWiki - Wiki the Painless Way'' -> http://linuxgazette.net/114/shekhar.html]] (Linux Gazette)%0a* [[''PmWiki'' -> http://www.framasoft.net/article2972.html]] (Französisch -- Framasoft ist eine französische Zusammenstellung freier Software)%0a* [[''Présentation de PmWiki 2.2.29'' -> http://linuxfr.org/news/sortie-de-pmwiki%25C2%25A02229]] (in French)%0a* [[http://lxer.com/module/newswire/view/89566/index.html | ''Organizing Information'']] - Artikel auf LXer.%0a%0a!! Zeitschriften%0a%0a* [[''Working together with Wikis'' -> http://www.pcmag.com/article2/0,1895,1844736,00.asp]] Artikel in der Ausgabe vom 23. August 2005 von [[http://www.pcmag.com/ | PC Magazine]].%0a*  [[''It's a Wiki World'' -> http://www.inc.com/magazine/20060201/handson-technology-sidebar.html]] positiv erwähnt in einem Artikel namens ''[[http://www.inc.com/magazine/20060201/handson-technology.html|The End of E-Mail]]'' in der Februar-Ausgabe 2006 von [[http://www.inc.com/home/|Inc. Magazine]].%0a%0a!! Bücher%0a%0a* [[~Christoph Lange]] (ed.): ''[[http://www.cul.de/wikiblog.html | Wikis und Blogs - Planen, Einrichten, Verwalten]]'', C&L 2006 -- deutschsprachiges Buch mit einem Kapitel über PmWiki und ein paar Seiten über das Kochbuch-Rezept [[Cookbook:EmacsPmWikiMode]].%0a%0a!! Technisches%0a%0a* http://www.wikimatrix.org/show/PmWiki%0a->(Kein Update seit 10.12.2010)%0a* Wiki:WikiChoicetree%0a* [[https://de.wikipedia.org/wiki/PmWiki]]%0a* Wikipedia:Comparison_of_wiki_software%0a* MoinMoin:WikiEngineComparison%0a%0a%0a
+time=1458068401
+title=Referenzen

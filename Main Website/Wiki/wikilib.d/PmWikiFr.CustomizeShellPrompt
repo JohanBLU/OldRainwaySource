@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Mtl
+charset=UTF-8
+csum=
+ctime=1228250436
+name=PmWikiFr.CustomizeShellPrompt
+rev=4
+targets=
+text=Bash does support colors in the prompt. If you used the prompt I showed earlier you know that. Now how you can do it. Place this symbol in front of the section you want to colonize. \[\033[Xm\]. Replace the "X" with the number of the color you want.Example:%0a%0aPS1="\[\033[31m\][\u@\h]\[\033[0m\]>"%0a%0aThe translation the computer does is this:%0aPS1="red text begin[whoami@hostname]normal display>%0a%0aSo basically you have told the computer all text from here to be red. After that you have told the computer to place the username and hostname in the prompt. Now return the display to a normal setting. This is important because forgetting to tell it to go back to normal means everything will be red, or worse whatever your last color command is. The point being when you are done make sure you tell it to return to normal.%0aOkay more than one color:%0a%0aPS1="\[\033[31m\][\u@\[\033[1;33m\]\h]\]\033[0m\]>"%0a%0aPS1="red text[whoami@ yellow text hostname] normal display>%0a%0a* Les listes sont créées en utilisant les astérisques%0a** Plus d'astérisques augmentent la \%0aprofondeur de liste%0a*** Cette liste est terminée%0aCette première ligne n'est pas une liste%0a*** Les listes sont créées en utilisant les astérisques%0a** Plus d'astérisques augmentent la \%0aprofondeur de liste%0a*** Cette liste est terminée%0aCette première ligne n'est pas une liste%0a%0a
+time=1315669216

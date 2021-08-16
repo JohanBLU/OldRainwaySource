@@ -1,0 +1,10 @@
+version=pmwiki-2.2.49 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=fix skins link
+ctime=1165868326
+name=PmWikiSk.SideBar
+rev=14
+targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWikiSk.InitialSetupTasks,PmWikiSk.BasicEditing,PmWikiSk.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Cookbook.CookbookBasics,Skins.Skins,PITS.PITS,PmWiki.MailingLists,PmWikiSk.SideBar
+text=* [[Main/HomePage | Domov]]%0a* [[Main/WikiSandbox | WikiPieskovisko]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWikiSk/Initial Setup Tasks | Úvodné nastavenie]]  %0a* [[PmWikiSk/Basic Editing | Základy editácie]]%0a* [[PmWikiSk/Documentation Index | Index dokumentácie]]%0a* [[PmWiki/FAQ | Časté otázky]]%0a* [[PmWiki/PmWikiPhilosophy | Filozofia PmWiki]]%0a* [[PmWiki/Release Notes | Poznámky k vydaniu]]%0a* [[PmWiki/ChangeLog | Zoznam zmien]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:CookbookBasics | Kuchárska kniha (doplnky) ]]%0a* [[Skins/ | Témy vzhľadu ]]%0a* [[PITS:PITS | PITS (návrhy) ]]%0a* [[PmWiki/Mailing Lists | Mailové konferencie]]%0a%0a%25right%25 [-[[PmWikiSk.SideBar?action=edit | upraviť bočnú lištu]]-]
+time=1364341553

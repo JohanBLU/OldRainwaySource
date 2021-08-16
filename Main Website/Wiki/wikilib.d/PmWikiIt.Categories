@@ -1,0 +1,10 @@
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+author=Bruno
+charset=UTF-8
+csum=
+ctime=1339826280
+name=PmWikiIt.Categories
+rev=2
+targets=
+text=!!!Scopo delle categorie%0a%0aLe categorie (denominate anche "tags") sono un comodo modo per organizzare e ritrovare pagine che hanno una caratteristica comune. In PmWiki 2 le categorie sono implementate per default e molti wiki non richiedono una speciale codifica o particolari markup. Le categorie sono semplicemente un'utile convenzione. L'idea di base è che ogni pagina che tratta di un particolare tema dovrebbe essere collegata (avere un link) ad una pagina comune contenente collegamenti con altre pagine che trattano lo stesso tema. Queste pagine vengono create all'interno del gruppo ''Category''
+time=1339827846

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=translation improvement
+ctime=1254174985
+name=PmWikiNl.GroupFooter
+rev=10
+targets=PmWikiNl.DocumentationIndex,PmWikiNl.Variables,PmWikiNl.GroupFooter,PmWikiNl.StateOfTranslation,PmWiki.GroupFooter,PmWikiNl.GroupF
+text=(:Summary:PmWikiNl groep voettekst. Bevat Trail en translationBox definities:)%0a[[#trailstart]] (:comment included in PmWiki localisation headers and footers :)%0a(:if ontrail {*$Group}.DocumentationIndex#trailstart#trailend {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#eee;":)%0a%3c|[[{*$Group}/Documentation index(#trailstart#trailend)|+]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a(:if ontrail {*$Group}.Variables {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#ddd;":)%0a%3c|[[{*$Group}/Variables]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a[[#trailend]]%0a[[%3c%3c]]%0a----%0a%25translationBox%25 [==]%0a(:if exists PmWiki.{*$Name}:)%0aVertaling van originele pagina [[(http://www.pmwiki.org/wiki/)PmWiki.{*$Name}]] naar%0a(:ifend:)%0a[[(http://www.pmwiki.org/wiki/){*$FullName}]] - [[$[Backlinks]->{*$FullName}?action=search&q=link={*$FullName}&fmt=title]]\\%0a(:if (equal "{*$ScriptUrl}" "http://pmwiki.org/wiki") or (equal "{*$ScriptUrl}" "http://www.pmwiki.org/wiki"):)%0aLaatste wijzigingen (Zie ook [[StateOfTranslation|+]]):\\%0a[[{*$FullName}]]: {*$LastModified}\\%0a(:if exists PmWiki.{*$Name}:)%0a[[PmWiki.{*$Name}]]: {PmWiki.{*$Name}$LastModified}\\%0a(:if:)%0a>>bgcolor=#ffe font-size=.8em%3c%3c%0a(:if name *-Talk:)%0aDit is een overleg pagina ter verbetering van [[{(substr "{*$FullName}" 0 -5)}]].%0a(:else:)%0aEr is mogelijk %25commentout-pmwikiorg%25 op [[(http://www.)pmwiki.org]] een meer recente [[(http://www.pmwiki.org/wiki/PmWikiNl/){*$Name}]], en %25%25 een [[PmWiki:{*$Name}-Talk|Engelse]] en/of [[http://www.pmwiki.org/wiki/PmWikiNl/{*$Name}-Talk|Nederlandse]] overleg pagina.%0a(:ifend:)%0a>>%3c%3c%0a
+time=1315670189

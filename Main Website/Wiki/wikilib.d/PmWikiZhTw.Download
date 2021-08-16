@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=bigpoon
+charset=UTF-8
+csum=old content
+ctime=1261196811
+name=PmWikiZhTw.Download
+rev=6
+targets=PmWiki.Installation,PmWiki.Upgrades,PmWiki.ReleaseNotes,PmWiki.ChangeLog
+text=(:title 下載:)%0a目前最新版和先前版本的 [=PmWiki=] ，可在這裡下載： [[http://pmwiki.org/pub/pmwiki/]].%0a%0a%0a!! [-立即下載-]%0a最新稳定版本 ({$Version}):%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/)pmwiki-latest.zip]]%0a%0a立即下載:%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.tgz]]%0a* [[(http://pmwiki.org/pub/pmwiki/){$Version}.zip]]%0a%0a%0a國際語言下載:%0a* [[http://pmwiki.org/pub/pmwiki/i18n/]]%0a%0a!! [-相關網頁-]%0a* [[PmWiki.Installation]] - 安装PmWiki%0a* [[PmWiki.Upgrades]] - 升级你的PmWiki網站%0a** [[PmWiki.Release Notes]] - PmWiki版本發行說明%0a** [[PmWiki.Change Log]] - PmWiki的更新日誌%0a* [[PmWiki:Subversion]] - PmWiki版本控制%0a* [[Cookbook:Standalone]] - 如何在''獨立的''模式下運行PmWiki，不需要如apache之類的webserver%0a
+time=1315680534
+title=下載

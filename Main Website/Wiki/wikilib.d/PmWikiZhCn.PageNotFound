@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333169330
+name=PmWikiZhCn.PageNotFound
+rev=1
+targets=PmWikiZhCn.PageNotFound,PmWiki.PmWiki
+text=(:title 页面没有找到:)%0a(:Summary: 这是一个404页面:)%0a(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound-Local:)%0a-> %25green font-style:italic%25 当找不到该页时，PmWiki将显示下面的内容，您可以自由的定制它。%0a(:ifend:)%0a%0a(:if !group Category:)%0a%0a!!页面“{$RequestedPage}”没有找到。%0a%0a您可以：%0a%0a(:ifend:)%0a(:if auth edit:)%0a* %25rel=nofollow%25 [[{*$FullName}?action=edit | 创建{*$FullName} 页面]]。%0a(:ifend:)%0a(:if equal {*$Name} {$DefaultName} :)%0a* [[{$ScriptUrl}?action=search&q={*$Groupspaced} |Search this site for "{*$Groupspaced}"]]。%0a(:else:)%0a* [[{$ScriptUrl}?action=search&q={*$Namespaced} | 搜索站内关于“{*$Namespaced}”的内容]]。%0a(:ifend:)%0a%0a* [[{$DefaultGroup}/|返回首页]].
+time=1333169330
+title=页面没有找到

@@ -1,0 +1,11 @@
+version=pmwiki-2.2.99 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=layout
+ctime=1467641066
+name=PmWikiDe.CondExpr
+rev=2
+targets=PmWikiDe.ConditionalMarkup,Cookbook.JJSApprovePage,Cookbook.ConditionalMarkupSamples
+text=(:title CondExpr:)%0a(:Summary: Details zur internen Funktion CondExpr:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2016-07-04:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: (fortgeschrittene) Autoren, Entwickler:)%0a%0a%0a!CondExpr()...%0a%0aist ein Ausdruck-Parser für boolsche Ausdrücke. Sie benutzen ihn in dem "expr"-Markup, etwa in:%0a%0a%0a[@%0a   (:if expr equal {$var1} {$var2} xor equal {$var3} {$var4}) %0a%0a   (:if expr ! equal 'carrot' {$var4}) %0a@]%0a%0aMögliche Operatoren sind:%0a%0a* and%0a* or%0a* xor%0a* &&%0a* ||%0a* !%0a%0aIch denke, Sie können auch geklammerte Ausdrücke benutzen wie :%0a%0a[@%0a(: if expr ({$bool1} or {$bool2}) and ({$bool3} or {$bool4}) :)%0a@]%0a %0aBeispiele zur Benutzung:%0a* [[ConditionalMarkup#combiningconditions|+]] - {ConditionalMarkup$:Summary}%0a* [[Cookbook:JJSApprovePage]] - {Cookbook.JJSApprovePage$:Summary}%0a* [[Cookbook:ConditionalMarkupSamples]] - {Cookbook.ConditionalMarkupSamples$:Summary}%0a
+time=1499851428
+title=CondExpr

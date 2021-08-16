@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=AntonyTemplier
+charset=UTF-8
+csum=
+ctime=1137543132
+name=PmWikiFr.TestTom
+rev=17
+targets=PmWikiFr.FullName,PmWikiFr.Name
+text=(:pagelist fmt=PmWikiFr.TestTom#translation group=PmWiki:)%0a%0a[[#translation]]%0a(:if equal {%3c$Group}:)%0a(:table border='1' cellspacing='0' cellpadding='0':)%0a(:cellnr align=center colspan=2:)'''Original page `PmWiki'''%0a(:cell align=center colspan=2:)'''Translation `PmWikiFr'''%0a(:cellnr align=center:)Page name%0a(:cell align=center:)Last modified%0a(:cell align=center:)Last modified%0a(:cell align=center:)Page name%0a(:if:)%0a(:cellnr:)[[{=$FullName}|+]]%0a(:cell:){=$LastModified}%0a(:cell:){PmWikiFr.{=$Name}$LastModified}%0a(:cell:)[[PmWikiFr/{=$Name}|+]]%0a(:if equal {>$Group}:)%0a(:tableend:)%0a(:if:)%0a[[#translationend]]
+time=1315669216

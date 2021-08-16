@@ -1,0 +1,10 @@
+version=pmwiki-2.2.93 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=+user
+ctime=1180532394
+name=PmWikiFr.SuccessStories
+rev=7
+targets=PmWiki.SuccessStories,Skins.2016,Cookbook.Mini,Cookbook.AutoTOC,Profiles.Petko
+text=Cette page est un peu particulière. Vous verrez ci-dessous le contenu de la version anglaise, mais il est souhaitable que vous aidiez à remplir la version anglaise avec les exemples de succès dans les pays francophones.%0a%0aSuccess Stories de la version anglaise: [[PmWiki.SuccessStories]].%0a%0a%0a[[%3c%3c]]%0a----%0a[[#mcg]]%0a!!!! [[http://mcg.archi|Marie Christine Gangneux Architecte - MCG.archi]] %25date%25(Janvier 2016)%25%25%0aCe site minimaliste [[http://mcg.archi|MCG.archi]] est la présentation de l'architecte, professeure et journaliste française Marie Christine Gangneux (MCG). Le site est base sur PmWiki, avec les recettes/modules suivants: thème [[Skins/2016]] légèrement adapté, galeries photo et dessins par [[Cookbook/Mini]], table des matières par [[Cookbook/AutoTOC]]. Hébergé sur OVH. (Site créé et maintenu par [[~Petko]].)%0a
+time=1484844150

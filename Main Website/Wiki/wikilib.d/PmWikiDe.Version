@@ -1,0 +1,11 @@
+version=pmwiki-2.2.115 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=intermap on a link to a page not in the distribution
+ctime=1305450546
+name=PmWikiDe.Version
+rev=6
+targets=PmWikiDe.PageVariables,SiteAdmin.Status,PmWikiDe.BasicVariables,PmWikiDe.SiteAnalyzer,Cookbook.ModuleGuidelines,Cookbook.RecipeCheck
+text=(:title Version:)%0a(:Summary: So findet man die Version von PmWiki heraus.:)%0a(:Original_Page: PmWiki.{$Name} :)%0a(:Translation_Date: 2011-05-15:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren (Fortgeschrittene), Administratoren:)%0a%0a'''Die Version dieser Wiki-Installation ist %25red%25{$Version}%25%25, Versionsnummer %25red%25{$VersionNum}%25%25.'''%0a%0a%0a!! Beschaffen der PmWiki-Version%0aBenutzen Sie die [@{$Version}@]-[[page variables|Seitenvariable]], um die aktuelle Version von PmWiki anzuzeigen.%0a%0aSiehe die [[SiteAdmin.Status]]-Seite wegen der aktuellen Version und Versionsnummer.%0a%0a!!!!Beispiel:%0a(:markup:)%0aDiese PmWiki-Installation läuft unter PmWiki {$Version}, Versionsnummer {$VersionNum}%0a-%3cDie Standardgruppe ist ''{$DefaultGroup}''.%0a-%3cDer Standard(seiten)name ist ''{$DefaultName}''.%0a-%3cDie Sitegruppe ist ''{$SiteGroup}''.%0a(:markupend:)%0a%0aSiehe auch [[Basic variables|+]].%0a%0aDas Skript ''version.php'' enthält die Deklaration der Versionsnummer. Die Datei liegt im Verzeichnis ''scripts/version.php'', relativ zum PmWiki-Installationspfad.%0a%0a!! Beschaffen einer Rezeptversion%0a%0aDer [[Site Analyzer|+]] kann benutzt werden, um die aktuelle Version von Rezepten anzuzeigen. Wenn Sie der Administrator sind: die [[Cookbook.ModuleGuidelines|cookbook recipe guidelines]] geben vor, dass in den ersten paar Zeilen auch die Rezeptversion genannt werden soll:%0a[@%0a  $RecipeInfo['RecipeName']['Version'] = '2017-06-15'; # Datum, vorzugsweise in der Form YYYY-MM-DD %0a@] %0a%0aSiehe auch [[Cookbook:RecipeCheck]]%0a
+time=1558728126
+title=Version

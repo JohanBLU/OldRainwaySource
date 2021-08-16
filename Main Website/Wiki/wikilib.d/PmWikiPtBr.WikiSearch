@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=moved from Search to here to avoid conflict with documentation
+ctime=1292889042
+name=PmWikiPtBr.WikiSearch
+rev=2
+targets=PmWikiPtBr.PageLists
+text=(:searchbox:)%0a%0a(:searchresults:)%0a%0aUma busca por mais de uma palavra irá achar páginas que contenham todas as palavras utilizadas. Use aspas duplas para procurar por uma frase. Use aspas também para trechos de texto com pontuação ou caractéres especiais.%0a%0aPara limitar sua busca em apenas um grupo, dê entrada no nome do grupo seguido de uma barra no início do texto a ser procurado.(ex: "PmWiki/" ou "Main/"). %0a%0a!!!Exemplos%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Digite'''     ||'''Localizar páginas contendo...''' ||%0a||torta goiaba     ||ambas as palavras 'torta' e 'goiaba' ||%0a||"torta de goiaba"||a frase 'torta de goiaba' ||%0a||pmwiki/goiaba    ||a palavra 'goiaba' no grupo [=PmWiki=] ||%0a||"pmwiki/goiaba"  ||a frase 'pmwiki/goiaba' em todos os grupos ||%0a||goiaba -torta    ||a palavra 'goiaba', ignorando as que contêm 'torta' ||%0a||ninja -"torta de goiaba" ||a palavra 'ninja', ignorando as que contêm a frase 'torta de goiaba' ||%0a||"-torta" goiaba  ||ambas as palavras 'goiaba' e '-torta' ||%0a||torta - goiaba   ||as palavras 'torta', '-', e 'goiaba' ||%0a||"torta:"         ||A palavra torta com dois pontos ||%0a||"torta=saborosa" ||A frase "torta=saborosa"  ||%0a%0aAlguns caracteres especiais precisam estar entre aspas, incluindo dois pontos (:), sinal de igualdade (=), aspa simple (') e aspa dupla ("). \\%0aPara buscas avançadas, parâmetros do [[PageLists|+]] (count, group, fmt, link, list, order, e trail) podem ser usados na busca.
+time=1315670403

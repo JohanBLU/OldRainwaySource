@@ -1,0 +1,11 @@
+version=pmwiki-2.2.57 ordered=1 urlencoded=1
+author=vanyog
+charset=UTF-8
+csum=
+ctime=1385183814
+name=PmWikiBg.DeletingPages
+rev=2
+targets=PmWiki.DeletingPages
+text=(:title Изтриване на страници :)%0a%0aЗа да изтриете страница от PmWiki отворете да редактирате страницата и сменете цялото и съдържание само с думата delete.%0a%0aДобра идея е да напишете бележка в полето за резюме защо изтривате страницата.%0a%0aМоля, помогнете да се преведе останалото от [[PmWiki/DeletingPages]]%0a%0a
+time=1385183932
+title=Изтриване на страници 

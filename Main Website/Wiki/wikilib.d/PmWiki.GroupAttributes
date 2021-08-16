@@ -1,0 +1,11 @@
+version=pmwiki-2.2.39 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=page actions
+ctime=1209460438
+name=PmWiki.GroupAttributes
+passwdattr=$1$SEle8fOd$w.HV0lEXjLLVvwX6ugsh70
+rev=10
+targets=PmWiki.SpecialPages,PmWiki.Security,PmWiki.AvailableActions,PmWiki.WikiGroup,PmWiki.Passwords,PmWiki.PasswordsAdmin
+text=(:Summary:Group and [[PmWiki/AvailableActions|page action]] security password based access control:)%0a%0aThe Group Attributes page is a [[special page(s)]] that is a part of PmWiki [[security]].%0aWhen called with the [[AvailableActions|page action]] [@?action=attr@] it allows [[passwords]] to be set for the following [[PmWiki/AvailableActions|page actions]] for every page in the [[WikiGroup|group]].%0a* read		%0a* edit%0a* attribute%0a* upload%0a%0a!!! [[Password(s#pageattr)]] quick reference%0a* Enter 'clear' to clear a password,%0a* Enter '@nopass' for a non-password protected page within a password-protected group, or a non-password protected group with a site-wide default password set%0a* Enter '@lock' to lock a page for everybody but the administrator,%0a* Enter '@_site_edit', '@_site_read', '@_site_admin', or '@_site_upload' to assign the site-wide passwords set in config.php %0a%0aDetails are given on the [[passwords#groupattr|passwords]] and [[passwords admin]]istration pages.
+time=1342263294

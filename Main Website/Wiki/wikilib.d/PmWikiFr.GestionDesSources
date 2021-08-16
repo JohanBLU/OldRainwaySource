@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=jdd
+charset=UTF-8
+csum=
+ctime=1179681459
+name=PmWikiFr.GestionDesSources
+rev=4
+targets=
+text=A moins que j'ai loupé quelque chose, il y a un problème majeur qui n'est pas évoqué ici.%0a%0aIl ne doit pas y avoir correspondance parfaite entre ce wiki en ligne (ici même) et la documentation fournie dans le fichier i18n. Par exemple cette page n'a aucune raison de figurer dans le fichier. On se retrouve avec, dans le fichier i18n, des bac à sables sales et des pages ajoutées au hasard par des passants.%0a%0aIl me semble donc que nous devons trouver un moyen d'avoir plusieurs versions. Ceci nous permettrait aussi d'utiliser dans les pages en ligne des balises (catégories, simplement) signalant les pages en cours de traduction ("en cours de traduction par XYZ"), en relecture, à supprimer, à ne pas inclure dans la doc. Pourquoi pas, même, une balise "page à inclure dans la versions..."%0a%0aIl me semble qu'il doit être facile de créer la version "fichier" avec un script qui supprimera les balises devenues inutiles et ne prendra que la pages utiles.%0a%0aen fait, je ne sais pas exactement comment est généré le fichier i18n. Je vais me renseigner, mais je ne veux pas non plus faire parler de moi sans arrêt sur la liste anglaise, d'où ces notes :-)
+time=1315669216

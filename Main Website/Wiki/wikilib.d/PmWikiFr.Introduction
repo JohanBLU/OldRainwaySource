@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Lya
+charset=UTF-8
+csum=Faute d'orthographe corrigée
+ctime=1250693162
+name=PmWikiFr.Introduction
+rev=6
+targets=PmWikiFr.PmWikiFr,PmWikiFr.TextFormattingRules,PmWikiFr.WikiSandbox,PmWikiFr.BasicEditing,PmWikiFr.Requirements,PmWikiFr.DocumentationIndex,PmWiki.DocumentationIndex,PmWikiFr.Download,PmWikiFr.Installation,PmWikiFr.MailingLists,PmWikiFr.HowToGetAssistance
+text=>>faq%3c%3c [[#faq]]%0aQ: Qu'est PmWiki?%0aA: PmWiki est un système wiki pour la création et la maintenance de sites internet. Pour plus d'information, cf. [[PmWikiFr/PmWikiFr]].%0a%0aQ: Que puis-je faire avec PmWiki?%0aA: Les pages de PmWiki ressemblent à des pages web ordinaires, mais elles ont un lien "[[PmWikiFr/WikiSandbox?action=edit| $[Edit] ]]" qui facilite la modification de pages existantes et l'ajout de nouvelles pages dans le site internet, avec des [[Basic editing|règles simples d'édition]]. Vous n'avez pas besoin de connaitre ou d'utiliser HTML, CSS ou PHP. L'édition peut être ouverte à tous les visiteurs, ou réservée à de petits groupes d'auteurs. Essayez les [[PmWikiFr/Text Formatting Rules|+]] dans le "[[PmWikiFr/WikiSandbox?action=edit| Bac à sable]]". Ce site que vous êtes en train de parcourir est construit et maintenu avec PmWiki.%0a%0aQ: Quels sont les besoins système?%0aA: Référez-vous à la page [[PmWikiFr.Requirements |+]].%0a%0aQ: Où je peux trouver la documentation?%0aA: Voyez la page [[PmWikiFr.DocumentationIndex |+]] en français et [[PmWiki.DocumentationIndex |+]] en anglais.%0a%0aQ: Comment je peux télécharger PmWiki?%0aA: Voyez la page [[PmWikiFr/Download |+]].%0a%0aQ: Comment installer PmWiki?%0aA: Voyez la page [[PmWikiFr.Installation |+]].%0a%0aQ: Comment trouver de l'aide avec PmWiki?%0aA: Voyez les pages [[PmWikiFr/Mailing lists|+]] et [[PmWikiFr/How to get assistance|+]].%0a
+time=1315669216

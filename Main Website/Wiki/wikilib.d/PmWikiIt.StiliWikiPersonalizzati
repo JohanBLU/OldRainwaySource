@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=update summary
+ctime=1174414836
+name=PmWikiIt.StiliWikiPersonalizzati
+rev=7
+targets=
+text=(:Summary: Redirect verso [[PmWikiIt.CustomWikiStyles]]:)%0a(:redirect PmWikiIt.CustomWikiStyles:)
+time=1315669968

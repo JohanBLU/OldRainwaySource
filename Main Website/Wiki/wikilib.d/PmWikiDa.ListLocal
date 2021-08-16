@@ -1,0 +1,10 @@
+version=pmwiki-2.2.69 ordered=1 urlencoded=1
+author=JohnnyN
+charset=UTF-8
+csum=Created the page.
+ctime=1414513530
+name=PmWikiDa.ListLocal
+rev=1
+targets=PmWikiDa.FullName,PmWikiDa.Name
+text=(:pagelist fmt=PmWikiDa.ListLocal#translation group=PmWiki order=-time -RecentChanges -DocumentationGuidelines-Comments:)%0a%0a[[#translation]]%0a(:if equal {%3c$Group}:)%0a(:table border='1' cellspacing='0' cellpadding='0':)%0a(:cellnr align=center colspan=2:)'''Original side `PmWiki'''%0a(:cell align=center colspan=2:)'''Oversættelse `PmWikiDa'''%0a(:cellnr align=center:)Sidenavn%0a(:cell align=center:)Sidst ændret%0a(:cell align=center:)Sidst ændret%0a(:cell align=center:)Sidenavn%0a(:if:)%0a(:cellnr:)[[{=$FullName}|+]]%0a(:cell:){=$LastModified}%0a(:cell:){PmWikiDa.{=$Name}$LastModified}%0a(:cell:)[[PmWikiDa/{=$Name}|+]]%0a(:if equal {>$Group}:)%0a(:tableend:)%0a(:if:)%0a[[#translationend]]%0a
+time=1414513530

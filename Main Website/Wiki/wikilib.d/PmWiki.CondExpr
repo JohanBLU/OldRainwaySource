@@ -1,0 +1,10 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=hint to "ConditionalMarkup"
+ctime=1163800833
+name=PmWiki.CondExpr
+rev=6
+targets=PmWiki.ConditionalMarkup,Cookbook.JJSApprovePage
+text=(:Summary:Details of the CondExpr function:)%0a%0a!CondExpr...%0a%0ais an expression parser.  You use it via the "expr" markup, thusly:%0a%0a[@%0a   (:if expr equal {$var1} {$var2} xor equal {$var3} {$var4}) %0a%0a   (:if expr ! equal 'carrot' {$var4}) %0a@]%0a%0aOperations available are:%0a* and%0a* or%0a* xor%0a* &&%0a* ||%0a* !%0a%0aI ''think'' you can also use parenthetical expressions like%0a%0a[@%0a(: if expr ({$bool1} or {$bool2}) and ({$bool3} or {$bool4}) :)%0a@]%0a %0aUsage examples here: %0a* [[ConditionalMarkup#combiningconditions|+]] - {ConditionalMarkup$:Summary}%0a* [[Cookbook:JJSApprovePage]] - {Cookbook.JJSApprovePage$:Summary}%0a
+time=1467641258

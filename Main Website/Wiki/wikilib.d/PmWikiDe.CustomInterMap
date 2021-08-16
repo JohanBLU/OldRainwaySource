@@ -1,0 +1,9 @@
+version=pmwiki-2.2.86 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Seite gelöscht bis auf redirect
+name=PmWikiDe.CustomInterMap
+rev=13
+targets=PmWikiDe.InterMap
+text=(:redirect InterMap:)%0aSummary:wird weitergeleitet auf [[PmWikiDe.InterMap]].%0a(:Original_Page: PmWiki.{$Name}:)%0a%0a
+time=1462522493

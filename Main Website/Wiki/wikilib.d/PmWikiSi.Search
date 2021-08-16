@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Anno
+charset=UTF-8
+csum=
+ctime=1142073617
+name=PmWikiSi.Search
+rev=2
+targets=
+text=(:searchbox:)%0a%0a(:searchresults:)%0a%0aVnesite tekst, ki bi ga radi poiskali.  Rezultat iskanja vam bo vrnil seznam vseh strani, ki vsebujejo vse besede, ki ste jih vnesli v iskalni niz. %0a%0a!!!Primeri iskanja%0a  %0a||border='0' cellspacing='0' width='100%25' cellpadding='0' %0a||'''Vnesi'''    ||'''Najdi vse, ki vsebujejo''' ||%0a||apple pie      ||oboje 'apple' in 'pie' ||%0a||"apple pie"    ||frazo 'apple pie' ||%0a||pmwiki/apple   ||'apple' v [=PmWiki=] skupini ||%0a||"pmwiki/apple" ||frazo 'pmwiki/apple' v vseh skupinah ||%0a||apple -pie     ||'apple', izpusti vse ki vsebujejo 'pie' ||%0a||ninja -"apple pie" ||'ninja', izpusti vse ki vsebujejo 'apple pie' ||%0a||apple "-pie"   ||besedi 'apple' in '-pie' ||%0a||apple - pie    ||'apple', '-', in 'pie' ||
+time=1315672569

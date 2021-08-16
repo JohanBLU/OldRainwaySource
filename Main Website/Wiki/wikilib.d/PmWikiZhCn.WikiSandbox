@@ -1,0 +1,10 @@
+version=pmwiki-2.2.129 ordered=1 urlencoded=1
+author=c
+charset=UTF-8
+csum=b (+12)
+ctime=1333375831
+name=PmWikiZhCn.WikiSandbox
+rev=14
+targets=PmWikiZhCn.BasicEditing
+text=请通过[[BasicEditing|基础语法]]在本页练习，只需要点击“编辑”。'+大字体+'%0a%0a'+啦啦+‘%0a这是一个测试+'%0a!! 标题%0aaa%0a!! 标题%0a%0a!! 标题%0a%0a%0a%0a
+time=1591911531

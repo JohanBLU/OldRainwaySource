@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+name=PmWikiZhTw.測試沙箱
+rev=4
+targets=
+text=(:Summary: Redirects to [[PmWikiZhTw.WikiSandbox]]:)%0a(:redirect PmWikiZhTw.WikiSandbox:)
+time=1315680534

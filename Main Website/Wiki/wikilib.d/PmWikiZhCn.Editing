@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+ctime=1135221526
+name=PmWikiZhCn.Editing
+rev=24
+targets=
+text=(:Summary: Redirect to [[PmWikiZhCn.BasicEditing]]:)%0a(:redirect PmWikiZhCn.BasicEditing:)
+time=1315680534

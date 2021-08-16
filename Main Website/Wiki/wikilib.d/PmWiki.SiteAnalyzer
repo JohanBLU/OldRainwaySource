@@ -1,0 +1,10 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=!UpdateMe
+ctime=1157491521
+name=PmWiki.SiteAnalyzer
+rev=61
+targets=PmWiki.AnalyzeResults,PmWiki.GroupCustomizations,PmWiki.SiteAnalyzer,Cookbook.RecipeCheck,Category.Security,Category.UpdateMe
+text=(:Version: 2007-02-16:)%0a(:Summary:[[PmWiki/AnalyzeResults|Analyse]] PmWiki security and software versions:)%0a(:input form method='post' action='{$PageUrl}':)%0a:URL of PmWiki site to analyze:(:input text name='baseurl' size=50:)%0a:Analyze key:(:input text name='key':)%0a(:input checkbox name='enablesave':) Allow pmwiki.org to save a copy of [[PmWiki/AnalyzeResults|analysis results]]\\%0a(:input submit value='Analyze Site':)%0a(:input form end:)%0a%0a>>border="1px solid #cccccc" margin="0px 40px" font-size:smaller%3c%3c%0aTips:%0a* Supply the full URL to pmwiki -- ''http://example.com/pmwiki/pmwiki.php''%0a* Make sure your analyse key doesn't have spaces in it%0a* Make sure the "analyze.php" script is readable (permissions)%0a* Consider enabling the [[Site Analyzer]] only on one page using [[GroupCustomizations | per page customization]].%0a* If you do not have a visible URL try [[Cookbook:RecipeCheck]].%0a>>%3c%3c%0a%0a----%0a(:analyze:)%0a%0a----%0a%0a[[!Security]] [[!UpdateMe]]%0a
+time=1325971772

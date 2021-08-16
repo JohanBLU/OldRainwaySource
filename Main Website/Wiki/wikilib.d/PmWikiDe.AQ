@@ -1,0 +1,12 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=added description
+ctime=1206102838
+description=Diese Seite anthält nur Hinweise zu Fragen und Antworten
+name=PmWikiDe.AQ
+rev=11
+targets=PmWikiDe.FAQ
+text=(:title Beantwortete Fragen:)%0a(:Audience: Autoren, Administratoren:)%0a(:Summary: Fragen zu PmWiki, die bereits beantwortet wurden, siehe auch [[FAQ]]:)%0a(:description Diese Seite anthält nur Hinweise zu Fragen und Antworten:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2009-01-30:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:comment created by Neil Herber 2007-03-16, I translated it although I don't hink it's really used. If someone else thinks it should be removed, please do so! - OliverBetz:)%0a%0aDiese Seite ist '''keine''' [[FAQ]] sondern ein Ort für Fragen über PmWiki, die beantwortet sind. Wenn Du eine Frage zu PmWiki gestellt hast, und Dir hat jemand eine Antwort gegeben, füge sie dieser Seite hinzu. Dann hat der Nächste die Möglichkeit, die Antwort hier selbst zu finden.%0a%0aDiese Seite begann mit der Antwort auf folgende Frage:%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Warum verwenden wir kein Forum statt dieser "AQ" Seite? %0aA: Weil Foren (BBS) eher für ''Diskussionen'' geeignet sind als um ''Ergebnisse'' festzuhalten.%0a%0aQ: Warum soll man die Antwort nicht auf eine Seite schreiben, die zur Frage gehört?%0aA: Sollst Du. Aber wenn Du nicht so recht weißt, wohin mit der Information, schreibe sie hierhin. Diese Seite stellt wenigstens einen Platz zur Verfügung, bis die Antwort an die richtige Stelle verschoben wird. In der Zwischenzeit kann man die Antwort wenigstens hier finden.%0a%0a(:comment ich habe den Sinn der Frage zum "redirect file" und der Antwort nicht richtig verstanden und verzichte auf eine Übersetzung:)%0a
+time=1458810565
+title=Beantwortete Fragen

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.IndexAlphabetique
+rev=9
+targets=Profiles.Pm,PmWikiFr.IndexComplements
+text=(:title Index alphabétique:)%0a!!!Question%0a%0aComment avoir la liste des pages ordonnée comme un "index alphabétique", c'est à dire avec des paragraphes séparés pour chaque lettre de l'alphabet?%0a%0a!!!Réponse%0a%0aLe script [[dictindex.php->http://www.pmwiki.org/uploads/Cookbook/dictindex.php]]  active la liste des pages suivant le format "index alphabétique". Ce format peut être utilisé par toute commande produisant une liste; par exemple on peut faire :%0a%0a    [=(:pagelist group=Cookbook fmt=dictindex:)=]%0a    [=(:searchresults group=Cookbook text=index fmt=dictindex:)=]%0a%0a!!!Discussion%0a%0aLa sortie peut être personnalisée avec des variables  $FPLDictIndex...Fmt diverses -- voir la documentation du script pour les détails.%0a%0a!!!Contributeurs%0a%0a* [[~Pm]], 19-Oct-2004%0a%0a!!!Exemples/Essais%0aNota: cette fonction n'est pas activée sur ce groupe, pour voir un exemple, allez voir sur la page originale en anglais: PmWiki:Cookbook.DictIndex .%0a%0aListe de toutes les pages du groupe `PmWikiFr:%0a [=%0a(:pagelist group=PmWikiFr fmt=dictindex:)%0a=]%0a%0aListe de toutes les pages de `PmWikiFr contenant le mot "google":%0a [=%0a(:searchresults group=PmWikiFr fmt=dictindex google:)%0a=]%0a%0a----%0a%25trail%25%3c%3c|[[Index complements|+]]|>>%0a%0a----%0a%25tr%25 Traduction de PmWiki:Cookbook.DictIndex - page originale sur PmWiki:PmWikiFr.IndexAlphabétique%0a%0a
+time=1315669216
+title=Index alphabétique

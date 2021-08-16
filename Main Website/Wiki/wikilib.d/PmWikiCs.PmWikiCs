@@ -1,0 +1,9 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=Jiri
+charset=UTF-8
+csum=despam
+name=PmWikiCs.PmWikiCs
+rev=49
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud
+text=(:Language:&#268;esky [-(Czech)-]:)%0a(:Summary:{$:Language}:)%0aPmWiki je [[PmWiki/WikiWikiWeb]] systém, který vyvinul [[PmWiki/Patrick Michaud]] v skriptovacím jazyce PHP. Systém PmWiki byl primárně navržen  jako nástroj, umožňující lehkou, společnou tvorbu a údržbu webových stránek.%0a%0aTyto stránky běží na verzi {$Version}. Software je volně dostupný pod licencí GNU General Public License (GPL) a je možno ho stáhnout z http://www.pmichaud.com/pub/pmwiki. Dokumentace je dostupná přes index dokumentace.%0a%0aPmWiki je registrovanou obchodní značkou Patricka R. Michauda (http://www.pmichaud.com).(:if true:)%0a%0a----%0a%0aStránky v skupině {$Group}:%0a(:pagelist group=PmWikiCs :)(:ifend:)%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a
+time=1327738395

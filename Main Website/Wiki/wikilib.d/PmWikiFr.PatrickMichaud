@@ -1,0 +1,8 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=PRZ
+charset=UTF-8
+name=PmWikiFr.PatrickMichaud
+rev=6
+targets=PmWikiFr.PatrickMichaud,PmWikiFr.PmWiki
+text=PatrickMichaud ([[PatrickMichaud | Pm]]) est l'auteur de PmWiki.  On peut trouver plus d'informations à son sujet (en Anglais) sur http://www.pmichaud.com.
+time=1315669216

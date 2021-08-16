@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=CarlosAB
+charset=UTF-8
+csum=Done
+ctime=1302820761
+name=PmWikiPtBr.WikiPage
+rev=2
+targets=PmWikiPtBr.WikiWikiWeb,PmWikiPtBr.WikiStructure,Cookbook.EditTemplates,PmWiki.PageFileFormat,PmWiki.FlatFileAdvantages
+text=(:Summary: informação sobre páginas wiki:)%0aUma página wiki é o mais simples bloco de construção de uma [[WikiWikiWeb|+]]que contém texto, formatação, markup e imagens. Veja [[WikiStructure|+]] e [[WikiWikiWeb|+]] para maiores informações.%0a%0aPáginas Wiki podem possuir templates para definir seu conteúdo inicial, veja [[Cookbook:Edit Templates]] [-{Cookbook/EditTemplates$:Summary}-]%0a%0aPáginas Wiki são armazendadas em arquivos de texto individuais, veja [[PmWiki/Page File Format|+]] e [[(PmWiki:)Flat File Advantages|+]].
+time=1315670403

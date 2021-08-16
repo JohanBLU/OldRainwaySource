@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333500100
+name=PmWikiZhCn.DeletingPages
+rev=3
+targets=PmWiki.WikiAdministrator,Site.AllRecentChanges,PmWiki.EditVariables,Cookbook.DeleteAction,PmWiki.BackupAndRestore,Cookbook.CleanUp,PmWiki.WikiGroup,PmWiki.Categories,PmWikiZhCn.RecentChanges
+text=(:title 删除页面:)%0a(:Summary: 如何删除页面，进行相关维护:)%0a默认情况下，要删除一个页面，请编辑这个页面，并'''清空文本框中所有内容，填入“delete”这个英文单词'''，再保存即可删除。%0a%0a对于多人协同使用的Wiki，建议在@@summary@@（修改原因）中解释为什么你删除了它。这个@@summary@@（修改原因）通常在文本框的下面。%0a%0a当你保存后，这个页面就被删除了。但是为了安全方面的考虑，这个页面文件通常会被缓存一段时间后，才会真正的被删除。在这期间，Wiki[[PmWiki/wiki administrator|管理员]]，还是可以恢复它的。%0a%0a如何得知这个页面是否被删掉了呢？可以查看这个Wiki组的[=RecentChanges=]（更新记录），或[[{$SiteGroup}.AllRecentChanges|站点更新记录]]。%0a%0a这个删除("delete")英文单词通常可以在“config.php”由 $DeleteKeyPattern自定义(详见：[[PmWiki/Edit Variables|编辑变量]])。如果有坏家伙想对Wiki捣蛋，恶意删除页面，你可以参考： Cookbook:DeleteAction 设置。%0a%0a[[#cleanup]]%0a!! 移除已被删除掉的页面%0a%0a删除的页面会保存在wiki.d文件夹中，如果要删除 @@123456789@@页面，直接删除这个@@123456789@@的同名文件就可以了。 管理员可以通过Ftp等工具直接删除。%0a%0a当然，如果你有shell帐号，也可以通过下面的命令删除:%0a%0a  rm -f *,del-*%0a  find wiki.d -name '*,del-*' -delete%0a%0a当然也可以通过 Cookbook:CleanUp 来清除那些不使用的文件，详见：[[PmWiki/BackupAndRestore]]。%0a%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: 如何删除[[PmWiki/Wiki Group|Wiki组]]和[[PmWiki/Categories|分类]]？%0a%0aA: 管理员可以直接从“wiki.d/”文件夹中删除。在Wiki的世界中，这种做法通常叫做更新，类似于从[[Recent Changes|最近更改]]页面中删除了它，如果作为公共Wiki，你通常还需要从其它的页面中删除包含该分类的链接，从而避免其他用户再次创建。
+time=1333500238
+title=删除页面

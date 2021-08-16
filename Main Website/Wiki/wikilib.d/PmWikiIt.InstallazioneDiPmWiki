@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=add summary
+ctime=1163716597
+name=PmWikiIt.InstallazioneDiPmWiki
+rev=59
+targets=
+text=(:Summary: Redirect verso [[PmWikiIt.Installation]]:)%0a(:redirect PmWikiIt.Installation:)
+time=1315669968

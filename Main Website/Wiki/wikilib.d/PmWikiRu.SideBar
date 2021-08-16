@@ -1,0 +1,10 @@
+version=pmwiki-2.2.108 ordered=1 urlencoded=1
+author=Finar
+charset=UTF-8
+csum=change broken link to Skins
+ctime=1142374362
+name=PmWikiRu.SideBar
+rev=6
+targets=PmWikiRu.PmWikiRu,PmWikiRu.WikiSandbox,Site.AllRecentChanges,Site.AllRecentChangesShort,PmWikiRu.PmWikiRuFeatures,PmWikiRu.Download,PmWikiRu.Installation,PmWikiRu.BasicEditing,PmWikiRu.DocumentationIndex,PmWikiRu.FAQ,PmWikiRu.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Cookbook.Cookbook,Skins.Skins,PITS.PITS,PmWiki.MailingLists,PmWiki.PmWikiUsers,PmWiki.SuccessStories,Site.Site,PmWiki.SendPmMoney,PmWiki.OtherLanguages
+text=* [[PmWikiRu/PmWikiRu | Домашняя страница]]%0a* [[PmWikiRu/Wiki Sandbox | Песочница]]%0a* [[Site/All Recent Changes|Все последние изменения]] [[Site/AllRecentChangesShort|(Кратко)]]%0a%0a%25sidehead%25 [[PmWikiRu/PmWikiRu]]%0a* [[(PmWikiRu/PmWikiRu)Features|+]]%0a* [[PmWikiRu/Download|+]]%0a* [[PmWikiRu/Installation|+]]%0a* [[PmWikiRu/Basic Editing|+]]%0a* [[PmWikiRu/Documentation Index|+]]%0a* [[PmWikiRu/FAQ|+]]%0a* [[PmWikiRu/PmWiki Philosophy|+]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org]]%0a* [[(Cookbook:)Cookbook]]%0a* [[Skins/Skins | Skins (themes)]]%0a* [[PITS/PITS | PITS (issue tracking)]]%0a* [[PmWiki/Mailing Lists]]%0a* [[PmWiki/PmWiki Users]]%0a* [[PmWiki/Success stories]]%0a* [[Site/Site| Site Admin]]istration%0a%0a* [[PmWiki/SendPmMoney]]%0a%0a* ''[[PmWiki/Other Languages|Другие языки]]''%0a%0a%0a%25right color=#999999 font-size=smaller%25 (:if enabled IsHTMLCached:) cached (:if:)%0a
+time=1530809140

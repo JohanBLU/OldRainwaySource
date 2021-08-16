@@ -1,0 +1,10 @@
+version=pmwiki-2.2.78 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=broken, redirect PmWiki.PmWikiUsers-Map
+ctime=1251498532
+name=PmWiki.PmWikiUsers-GMap
+rev=53
+targets=PmWiki.PmWikiUsers-Map
+text=(:redirect PmWiki.PmWikiUsers-Map:)%0aGoogle Maps has suspended the API formerly used by this recipe.%0aWe now use maps from the OpenStreetMap project, see [[PmWiki.PmWikiUsers-Map]].
+time=1439057832

@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to correct English page name
+ctime=1286318472
+name=PmWikiPtBr.TableDirective
+rev=2
+targets=
+text=(:Summary: Redirect to [[PmWikiPtBr.TableDirectives]]:)%0a(:redirect PmWikiPtBr.TableDirectives:)
+time=1315670403

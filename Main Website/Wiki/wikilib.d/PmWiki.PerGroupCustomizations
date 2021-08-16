@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=redirect GroupCustomizations
+name=PmWiki.PerGroupCustomizations
+rev=39
+targets=
+text=(:redirect GroupCustomizations:)%0a(:Summary: Redirects to [[PmWiki.GroupCustomizations]]:)
+time=1315670897

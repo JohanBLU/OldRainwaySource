@@ -1,0 +1,10 @@
+version=pmwiki-2.2.87 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=update
+name=PmWikiDe.ListeAllerSeiten
+rev=44
+targets=PmWikiDe.StandDerUebersetzung,PmWikiDe.GoodStyle,PmWikiDe.PmWikiDe,PmWikiDe.FullName
+text=(:Summary:Die Seite listet alle Seiten der deutschen Dokumentation auf:)%0a(:title Liste aller deutschen Seiten:)%0aÜbersicht der Seiten in der Gruppe '[[{$Group}]]' in alphabetischer Reihenfolge. Hilf mit, die Dokumentation in Deutsch zu vervollständigen: [[StandDerUebersetzung|PmWiki.org - Stand der Übersetzung]] (siehe auch [[GoodStyle|+]]).%0a%0a(:pagelist group=PmWikiDe order=name name=-{$FullName},-CustomInterMap,-GroupAttributes,-PageNotFound,-RecentChanges,-StandDerUebersetzung,-WikiSandBox fmt=#vorlage_liste:)%0a%0aDie Liste enthält %0a(:pagelist group=PmWikiDe order=name name=-{$FullName},-CustomInterMap,-GroupAttributes,-PageNotFound,-RecentChanges,-StandDerUebersetzung,-WikiSandBox fmt=count:)%0aSeiten, darunter sind %0a(:pagelist group=PmWikiDe order=name name=-{$FullName},-CustomInterMap,-GroupAttributes,-PageNotFound,-RecentChanges,-StandDerUebersetzung,-WikiSandBox  %25green%25fertig%25%25  fmt=count:)%0afertige Seiten und %0a(:pagelist group=PmWikiDe order=name name=-{$FullName},-CustomInterMap,-GroupAttributes,-PageNotFound,-RecentChanges,-StandDerUebersetzung,-WikiSandBox -%25green%25fertig%25%25  fmt=count:)%0aSeiten, die noch einer (Nach-) Bearbeitung harren.%0a%0aSiehe auch &rarr; [[StandDerUebersetzung|Stand]] der Übersetzung%0a>>comment%3c%3c%0a[[#vorlage_liste]]%0a(:template first:)%0a(:table width="100%25" border="0" cellpadding="3":)%0a(:cellnr:)'''Seitenname'''%0a(:cell:)'''Stand der Übersetzung'''%0a(:cell:)'''Titel'''%0a(:cell:)'''Status der Übersetzung'''%0a(:template each:)%0a(:cellnr:)[[{=$FullName}]]%0a(:cell:){{=$FullName}$:Translation_Date}%0a(:cell:)[[{=$FullName}|+]]%0a(:cell:){{=$FullName}$:Translation_Status}%0a(:template last:)%0a(:tableend:)%0a[[#vorlage_listeend]]%0a>>%3c%3c
+time=1466689930
+title=Liste aller deutschen Seiten

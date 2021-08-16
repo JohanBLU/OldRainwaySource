@@ -1,0 +1,11 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=feer
+charset=UTF-8
+csum=
+ctime=1333073885
+name=PmWikiZhCn.WikiStructure
+rev=7
+targets=PmWiki.WikiPage,PmWikiZhCn.WikiWord,PmWiki.WikiGroup,PmWikiZhCn.Links,PmWiki.WikiTrails,PmWiki.Categories,PmWiki.PageTextVariables,PmWiki.PageLists,Site.PageListTemplates,PmWiki.IncludeOtherPages,PmWiki.Search
+text=(:title Wiki构造:)%0a(:Summary: PmWiki structural support for page organization:)%0a作者有很大的自由来创建和组织[[PmWiki/wiki page]]。%0a一个给力的Wiki将包含以下功能：%0a* content(内容)%0a* navigation（导航）%0a内容和导航是Wiki的两个最重要的功能。%0a%0a:[[Wiki Word]]:就是页面链接名称。%0a%0a:[[PmWiki/Wiki Page|Wiki页面]]: 页面可以包含图片、文字等信息内容，比如说本页就是一个页面。%0a%0a:[[PmWiki/Wiki Group|Wiki组]]: 每一个页面都需要一个组。 每一个页面都需要一个组。 一个组像一个Wiki中的Wiki：它可以有自己的显示效果、安全控制和导航功能。默认[[WikiWord]]s或归于当前组内，你也可以通过[@OtherGroup/MyWikiWord@]或[@OtherGroup.MyWikiWord@]来指定其它组。（详见：[[Links]]）。%0a%0a:[[PmWiki/Wiki Trails]]: 对一个组或多个组的页面进行归档，来创建关系树。这样访客就可以通过点击''next'' 和 ''previous''进行阅读了。%0a%0a:[[PmWiki/Categories|分类]]: 单独的页面可以通过标签链接到一个公共的"category"（分类）页面。PmWiki使用[@[[!category]]@] 标记来创建分类。比如[@[[!分类一]]@]、[@[[!分类二]]@]。%0a%0a:[[PmWiki/Page text variables]]: 一个比[[PmWiki/Categories]]更新、更有用的概念。 页面可以用一个或多个[[PmWiki/page text variables]] 来储存页面属性。它们可以被使用在[[PmWiki/page lists]]。%0a%0a:[[PmWiki/Page lists]]: 提供一个列出页面的能力或选用一些数据显示。 通过[[Site/PageListTemplates|template]]可以高度定制。%0a%0a:[[PmWiki/Include other pages]]: 提供一个可以灵活共享其它页面内容的手段。%0a%0a:[[PmWiki/Search|搜索]]: 搜索对于一个网站来说通常是必须的。PmWiki的搜索非常强大，有用。%0a
+time=1333460644
+title=Wiki构造

@@ -1,0 +1,7 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+name=PmWikiFr.MultipleWikis
+rev=6
+text=Pour les développeurs de sites web qui ont plusieurs clients sur un unique serveur, la PersonnalisationParGroupe permet de gérer plusieurs sites au sein d'une unique installation de PmWiki avec des personnalisations effectuées au niveau des fichiers @@Group.php@@. Afin de voir les nouveaux sites PmWiki, les étapes suivantes doivent être accomplies:%0a*Définissez la configuration du nouveau fichier @@Group.php@@%0a* Faites pointer le fichier index.php du groupe sur le fichier @@Group.php@@.%0a**@@%3c?php header("Location: http://www.domainname.com/chemin/vers/wiki/Groupname/pagename"); ?>@@%0a*Créez un fichier @@wiki@@ qui pointe vers le fichier @@pmwiki.php@@.%0a**@@%3c?php chdir("../pmwiki"); include("pmwiki.php"); ?>@@%0a*Créez le fichier .htaccess:%0a**@@%3cFiles wiki>@@%0a**  @@[=SetHandler=] application/x-httpd-php@@%0a**@@%3c/Files>@@
+time=1315669216

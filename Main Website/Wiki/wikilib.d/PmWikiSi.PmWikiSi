@@ -1,0 +1,10 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+author=Gregor
+charset=UTF-8
+csum=
+ctime=1142073457
+name=PmWikiSi.PmWikiSi
+rev=10
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud,PmWiki.Download,PmWiki.DocumentationIndex
+text=(:Language:Slovenščina:)%0a(:Summary:{$:Language}:)%0aPmWiki je [[PmWiki/WikiWikiWeb]] sistem, ki ga je razvil [[PmWiki/Patrick Michaud]] v programskem jeziku [[http://php.net|PHP]]. PmWiki je zasnovan  kot orodje za enostavno vzdrževanje in urejanje spletnih strani s strani večjega števila avtorjev. %0a%0aTa stran uporablja verzijo {$Version}. Programska oprema je prosto dostopna pod licenco  GNU General Public License (GPL) in si jo lahko prenesete na tej strani [[PmWiki/Download]].%0a%0a[[PmWiki/DocumentationIndex|Dokumentacija]] je na voljo preko seznama dokumentacije.%0a%0aBlagovno znamko PmWiki je registriral Patrick R. Michaud (http://pmichaud.com).%0a%0aTo je začetna stran Slovenskega prevoda PmWiki.\\%0a%0a(:pagelist group={$Group}:)%0a%0aŠtevilo strani, ki jih je potrebno prevesti je veliko, čas ki ga jaz imam na razpolago pa je omejen. Zato če kdorkoli hoče lahko pomaga.
+time=1328257247

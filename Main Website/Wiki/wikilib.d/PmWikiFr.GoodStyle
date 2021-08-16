@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=gb
+charset=UTF-8
+csum=orthographe
+ctime=1143983754
+name=PmWikiFr.GoodStyle
+rev=4
+targets=
+text=(:title Bon style:)%0aSoyez au courant de ces conventions, même si vous choisissez de ne pas les respecter.%0a%0aQuand vous écrivez ici, il est d'usage d'utiliser la deuxième ou la troisième personne. Rappelez vous: "les faits, rien que les faits". Donnez des conseils pratiques.%0a%0aQuand ''vous'' écrivez à la première personne, il est d'usage de signer votre texte. Pour signer une section, faite la suivre de votre nom écrit comme  [=[[~MonNom]]=]. (les descriptifs de personnes vont dans le groupe spécial 'Profils' et cette balise les y envoie).%0a%0aOn utilise essentiellement la première personne pour décrire ses propres expériences.%0a%0aIl est de règle de ne pas changer un paragraphe signé, sauf pour corriger des fautes grossières. Aussi, si vous voulez que le texte ne soit pas modifié, signez le.%0a%0aUn travail non signé est considéré ouvert à toute modification. Aussi, si vous voulez le modifier, pas d'hésitation.%0a%0aPratiquez la modération. Utilisez un langage clair. Soyez assuré et précis.
+time=1315669216
+title=Bon style

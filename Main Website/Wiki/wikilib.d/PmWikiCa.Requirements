@@ -1,0 +1,10 @@
+version=pmwiki-2.2.32 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=shorter.
+ctime=1316504250
+name=PmWikiCa.Requirements
+rev=4
+targets=Cookbook.Standalone,Cookbook.WikiOnAStick
+text=(:Summary:Prerequisits per a executar PmWiki:)(:Audience: administradores (bàsic) :)%0aPrerequisits per a executar PmWiki:%0a# [[http://php.net/ | PHP]] 4.3 o posterior%0a** Es recomana [[http://gophp5.org/ | PHP 5]] o posterior%0a# Algun tipus de servidor que pugui executar scripts PHP.%0a%0aS'ha informat que PmWiki funciona amb les següents combinacions de servidors web i sistemes operatius:%0a* Apache 1.3 o 2.0, sobre gairebé qualsevol cosa (Unix, GNU/Linux, Windows, i Mac OS/X)%0a** Es recomana [[http://httpd.apache.org/ | Apache 2.2]] o posterior%0a* lighttpd (1.4.19 php-fastcgi ssl) sota GNU/Linux%0a* nginx (0.8.47) sota Windows%0a* Microsoft Internet Information Server, sota Windows%0a* GNU/Linux + [[http://www.litespeedtech.com/|LiteSpeedWeb Server]] Standard Edition %0a* appWeb (un xicotet servidor web amb capacitat per a php) executant-se sobre un aparell Linksys NSLU2 Network Storage Link%0a%0aS'ha informat que PmWiki no funciona amb:%0a* Mac OS anterior a Mac OS X perquè no hi ha disponible cap PHP%0a* Muntatges específics (RC) de PHP 5.3 per a Windows poden donar problemes amb les contrasenyes%0a%0aLa recepta [[(Cookbook:)Standalone]] proporciona una aplicació especial què es pot fer servir per a executar PmWiki en llocs on no hi ha disponible cap altre servidor web.%0aTambé es pot executar PmWiki des d'una [[Cookbook:WikiOnAStick |unitat USB]].%0a
+time=1316504368

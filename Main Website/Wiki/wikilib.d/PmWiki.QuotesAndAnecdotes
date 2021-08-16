@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=chr
+charset=UTF-8
+ctime=1138111510
+name=PmWiki.QuotesAndAnecdotes
+rev=8
+targets=Profiles.BenWilson,Profiles.Chr
+text=This page contains quotes and anecdotes related to PmWiki, it's history and development.%0a%0a(:title Quotes and anecdotes:)%0a%0a!!! On the subject of backups%0a%0a[@%0aSubject: Re: On Backups%0a%0aOn Tue, Dec 13, 2005 at 04:01:00PM -0600, Ben Wilson wrote:%0a> %0a> One Cron to tar them all, One Cron to find them,%0a> One Cron to pull them all and in the darkness archive them%0a> In the Land of PmWiki where the Shadows lie.%0a> %0a> (Apologies to Mr. Tolkien)%0a%0aApologies to *Tolkien*?!?  I'm not sure I like the conjunction%0abetween "PmWiki" and "shadows" -- PmWiki is supposed to bring%0apeople out of darkness, not create it.  1/2 :-)%0a%0aHowever, the verse is extremely clever.  :-)%0a%0aPm%0a@]%0a* Maybe I should have said "Wikis" instead of Shadows? [[~BenWilson]] January 24, 2006, at 09:24 AM%0a** How about "Wiki-Wikis"? [[~chr]] 2006-01-24%0a%0a%0a!!! "On the map"?%0a%0aFrom Pm:%0a-> [@%0a> Needless to say, to tag into the VB user base could really put%0a> pmwiki on the map. %0a%0aGee, I thought PmWiki was already "on the map", or at least on%0a*a* map.@]%0a%0aFrom Neil:%0a-> @@ PmWiki is literally on the map! @@%0a   %0a   @@ Go to http://maps.google.com/ @@%0a%0a   [@In the search box enter "PmWiki" %0a%0aPress Search%0a%0aBingo! In my search PmWiki showed up in ten places on the map. @]%0a%0a
+time=1315670897
+title=Quotes and anecdotes

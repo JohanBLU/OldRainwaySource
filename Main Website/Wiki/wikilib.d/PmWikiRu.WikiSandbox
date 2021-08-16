@@ -1,0 +1,10 @@
+version=pmwiki-2.2.139 ordered=1 urlencoded=1
+author=я
+charset=UTF-8
+csum= (+28)
+ctime=1264338931
+name=PmWikiRu.WikiSandbox
+rev=118
+targets=AttachImg.Jpg,PmWiki.PmWiki,АПД.АПДФЛ
+text=Пожалуйста, экспериментируйте в песочнице, то есть здесь. %0aМожете просто взять и отредактировать эту страницу. Типо я умный ыы%0aпривет)))%25center%25%0a%0atest 1'^2^''_3_' тест%0a%0a[[Attach:img.jpg]]%0a%0aRemote link: [[PmWiki]]%0a%0a[[ АПД/АПД ФЛ ]]%0a[[ АПД.АПД ФЛ ]]%0a%0aФормула расчета пути S при известной начальной скорости V'_0_' и ускорения движения a:%0aS = V'_0_' * t + a * t'^2^' / 2
+time=1620935636

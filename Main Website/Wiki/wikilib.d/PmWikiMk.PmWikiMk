@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=LFS
+charset=UTF-8
+csum=
+ctime=1197454835
+name=PmWikiMk.PmWikiMk
+rev=9
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud,PmWikiMk.XLPage
+text=(:Language:Macedonian:)%0a(:Summary:{$:Language}:)%0aPmWiki e [[PmWiki/WikiWikiWeb]] систем развиен од [[PmWiki/Patrick Michaud]] во PHP јазик. \\%0aPmWiki е дизајниран како алатка за подршка на едноставно уредување и издавање на колаборативни вебсајтови.%0a%0aОвој сајт го користи верзија {$Version}. Софтверот е со слободен пристап под GNU General Public License (GPL) и може да се симнува од http://pmichaud.com/pub/pmwiki. %0a%0a!! PmWiki - регистрирана марка [[http://pmichaud.com | Patrick R. Michaud ]].%0a%0aДомашнaта страница PmWiki се наоѓа на [[(http://)pmwiki.org(/)]].%0a%0aЗип (Zip) со потребните датотеки за подршка и превод на командидте на PmWiki може да се сними од:%0ahttp://mathcasts.org/mtwiki/work/Mk/PmWikiMk.zip%0a%0a[[mailto:emath@emathforall.com?subject=PmWikiMk|Контакт]] - особено ако има грешки во преводот или сакате и помошните датотеки да ги преведиме!%0a%0a[[XLPage|XLPage за превод на термините]] %0a%0a%0a(:include PmWiki.OtherLanguages:)
+time=1315672422

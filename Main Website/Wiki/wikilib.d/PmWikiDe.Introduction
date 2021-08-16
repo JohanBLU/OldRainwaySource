@@ -1,0 +1,11 @@
+version=pmwiki-2.2.99 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=link to german Sandbox
+ctime=1458548335
+name=PmWikiDe.Introduction
+rev=3
+targets=PmWikiDe.WikiWikiWeb,PmWikiDe.PmWiki,PmWikiDe.BasicEditing,PmWikiDe.TextFormattingRules,PmWikiDe.WikiSandbox,PmWikiDe.Requirements,PmWikiDe.DocumentationIndex,PmWiki.Download,PmWikiDe.Installation,PmWikiDe.MailingLists,PmWikiDe.HowToGetAssistance
+text=(:title Einführung:)%0a(:Summary: Häufig vor der Installation von PmWiki aufgeworfene Fragen:)%0a(:Original_Page: PmWiki.{$Name}:)%0a(:Translation_Date: 2016-03-20:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Autoren:)%0a%0a%0a>>faq%3c%3c [[#faq]]%0a%0aQ: Was ist PmWiki?%0aA: PmWiki ist ein [[WikiWikiWeb|wiki-basiertes]] System für kooperative Erzeugung und Pflege von Webseiten. Siehe [[PmWikiDe(/PmWiki)]].%0a%0aQ: Was kann ich damit tun?%0aA: PmWiki-Seiten funktionieren und sehen aus wie normale Webseiten, außer dass sie einen 'Bearbeiten'-Knopf haben, der es einfach macht, existierende Seiten zu ändern und neue Seiten in die Website einzufügen, indem man [[basic editing|Basisschreibregeln]] benutzt. Sie müssen nichts über HTML oder CSS wissen. Das Schreiben der Seiten kann frei für die Öffentlichkeit sein oder auf eine kleine Gruppe von Autoren beschränkt werden. Fühlen Sie sich frei, [[Text Formatting Rules|+]] in der "[[PmWikiDe/WikiSandbox?action=edit | Sandkiste]]" auszuprobieren. Die Website, die Sie gerade ansehen, wird mit PmWiki geschaffen und gepflegt.%0a%0aQ: Welche Voraussetzungen gibt es?%0aA: Sehen Sie unter [[PmWikiDe.Requirements | PmWiki-Voraussetzungen]] nach.%0a%0aQ: Wo kann ich eine Dokumentation zu PmWiki finden?%0aA: Sehen Sie sich die Seite mit dem [[DocumentationIndex|+]] an.%0a%0aQ: Wie kann ich PmWiki herunterladen?%0aA: Sehen Sie unter [[PmWiki:Download | Download]] nach.%0a%0aQ: Wie installiere ich PmWiki?%0aA: Das ist auf der [[PmWikiDe.Installation | Installationsseite]] beschrieben.%0a%0aQ: Wie bekommen ich Hilfe zu PmWiki?%0aA: Sehen Sie nach in den [[Mailing lists|+]] und unter [[How to get assistance|+]].%0a%0aQ: Wie spricht man "Michaud" aus?%0aA: "Michaud" ist französisch und wird "Mie-Scho" ausgesprochen,  das End-"d" wird nicht mitgesprochen.%0a
+time=1499862873
+title=Einführung

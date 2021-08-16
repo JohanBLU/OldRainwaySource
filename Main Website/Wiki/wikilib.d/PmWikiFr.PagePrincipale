@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Patricia Fondimare
+charset=UTF-8
+csum=
+name=PmWikiFr.PagePrincipale
+rev=145
+targets=PmWikiFr.DocumentationGuidelines
+text=Ceci est la page par défaut d'une nouvelle installation PmWikiFr/PmWiki %0a. Si vous lisez cet écran, alors %0ale programme PmWikiFr/PmWiki est probablement configuré correctement.%0a%0a----%0a%0aVous trouverez ici quelques pages utiles installées en même temps que le programme PmWiki:%0a* PmWiki/PmWiki documentation est disponible sur [[Guide de documentation -> PmWikiFr.DocumentationGuidelines]]%0a* Qu'est-ce que le PmWiki/WikiWikiWeb ?%0a* PmWiki/BasicEditing and PmWiki/TextFormattingRules décrit comment créer des pages dans PmWiki/PmWiki.%0a* Exercez-vous à éditer et modifier des pages dans la page WikiSandbox.%0a%0aPlus d'informations sur PmWiki/PmWiki à l'adresse suivante : http://www.pmwiki.org/.%0a
+time=1315669216

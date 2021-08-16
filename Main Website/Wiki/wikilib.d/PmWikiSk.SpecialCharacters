@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=MartinLukac
+charset=UTF-8
+csum=initial version
+ctime=1166291867
+name=PmWikiSk.SpecialCharacters
+rev=2
+targets=
+text=Pri vytváraní stránok je bežné používať znaky obchodných značiek (trademarks), autorských práv (copyright), prehlásku (umlaut), a iné symboly, ktoré sa nenachádzajú na klávesnici. Preto je dôležité, aby ste mali spôsob ako zadať tieto špeciálne znaky.  %0a%0a!!!Kódy štandardu ISO%0aPmWiki podporuje výpis špeciálnych znakov HTML od w3c. [[http://www.w3.org/MarkUp/html-spec/html-spec_13.html |  W3C stránka kódov špeciálnych znakov štandardu ISO.]]%0a%0aTu je niekoľko príkladov: %0a(:markup:)[=%0a&#169; | &#188; | &#189; | &#174; | &#181; | &#168; =]%0a%0a(:markup:)[=%0a&#198; | 32&#176; | Un&#239;ted St&#228;tes | &#182; | &#165;Yen | PmWiki&#8482;=]%0a%0aPeknú tabuľku tých istých kódov, ktoré ukazujú kódy s výstupom nájdete na stránke špeciálnych znakov [[http://www.nobledesktop.com/specialcharacters.html | Noble Desktop]]. %0a%0a!!!Iné spôsoby ako to urobiť: %0a%0a!!!!Mapa znakov%0aNájdite pomôcku "Mapa znakov" v priečinku Systémové nástroje na svojom počítači. Kliknite na symbol, ktorý vás zaujíma, a všimnite si informáciu o klávesovej kombinácii v spodnej časti okna. Vykonáte ich ''podržaním "Alt"'' počas zadávania čísel ''na numerickej časti'' vašej klávesnice (nie čísel pozdĺž vrchnej časti klávesnice).%0a%0a[=&#169;=] = Alt+0169 = © | [=&#174;=] = Alt+0174 =  ® | [=&#176;=] = Alt+0176 = ° (stupne).%0a%0a!!!!Prilepenie%0a*Použijte Word alebo inú používateľskú aplikáciu pre vytvorenie vášho textu so špeciálnymi znakmi, ktoré chcete. Skopírujte a prilepte text do wiki stránky, ktorú upravujete alebo vytvárate.%0a*Nájdite výskyt špeciálneho znaku v online dokumente; skopírujte a prilepte znak do vašej wiki stránky:  ©%0a%0aZoznam špeciálnych znakov je v [[PmWiki:SpecialCharactersList | PmWiki:ZoznameŠpeciálnychZnakov]].%0aĎalšia ilustrácia je v [[PmWiki:Characters | PmWiki:Znaky]]
+time=1315672569

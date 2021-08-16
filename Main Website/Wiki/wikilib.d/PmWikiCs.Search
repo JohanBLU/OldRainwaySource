@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to local translation
+ctime=1270160767
+name=PmWikiCs.Search
+rev=2
+targets=
+text=(:Summary: Redirects to [[PmWikiCs/ProhledatWiki]]:)%0a(:redirect PmWikiCs/ProhledatWiki:)
+time=1315668571

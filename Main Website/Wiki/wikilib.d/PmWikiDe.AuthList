@@ -1,0 +1,10 @@
+version=pmwiki-2.2.99 ordered=1 urlencoded=1
+author=mfwolff
+charset=UTF-8
+csum=Summary
+ctime=1471777119
+name=PmWikiDe.AuthList
+rev=2
+targets=PmWikiDe.AuthList
+text=(:Original_Page: {$SiteAdminGroup}.{$Name}:)%0a(:Translation_Date: 2016-08-21:)%0a(:Translation_Status: %25green%25fertig%25%25:)%0a(:Audience: Administratoren (Grundlagen):)%0a(:Summary:[[PmWikiDe/Page lists|Liste]] aller Seiten mit gesetzten Zugriffsrechten im Standardrechtesystem:)%0aDiese Seite zeigt die Rechte der Seiten, in denen Zugriffsrechte mit dem Standardrechtesystem gesetzt sind. Felder, in denen "$[(protected)]" steht, bedeuten, dass Sie sich [[{*$FullName}?action=login | anmelden]] müssen (ggf. mit einem Administrator-Passwort), um die Rechte sehen zu können.  %0a%0a(:pagelist fmt=#authlist request=1:)%0a%0a(:if false:)%0a[@%0a[[#authlist]]%0a(:template defaults passwd=?* list=all:)%0a(:template first:)%0a|| class='indent authlist' cellspacing=0 cellpadding=0%0a(:template first {=$Group}:)%0a%0a'''{=$Group}:'''%0a%0a(:if exists {=$Group}.GroupAttributes:)%0a{=$Group}.GroupAttributes \%0a[- [[{=$Group}.GroupAttributes | (view)]] -] \%0a[- [[{=$Group}.GroupAttributes?action=attr | (attr)]] -] :%0a||read    ||{{=$Group}.GroupAttributes$PasswdRead}   ||%0a||edit    ||{{=$Group}.GroupAttributes$PasswdEdit}   ||%0a||attr    ||{{=$Group}.GroupAttributes$PasswdAttr}   ||%0a||upload&nbsp;&nbsp;&nbsp; ||{{=$Group}.GroupAttributes$PasswdUpload} ||%0a(:if:)%0a(:template each:)%0a%0a(:if ! equal {=$Name} GroupAttributes :)%0a{=$FullName} \%0a[- [[{=$FullName} | (view) ]] -] \%0a[- [[{=$FullName}?action=attr | (attr) ]] -] :%0a||read    ||{=$PasswdRead} ||%0a||edit    ||{=$PasswdEdit} ||%0a||attr    ||{=$PasswdAttr} ||%0a||upload&nbsp;&nbsp;&nbsp; ||{=$PasswdUpload} ||%0a(:if:)%0a(:template last:)%0a%0aEs wurden {$$PageCount} Seiten aufgeführt.%0a[[#authlistend]]%0a%0a@]
+time=1499849020

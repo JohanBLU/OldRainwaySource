@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=Add summary
+name=PmWiki.WikiGroups
+rev=5
+targets=
+text=(:Summary: Redirects to [[PmWiki/Wiki Group]]:)%0a(:redirect PmWiki/WikiGroup:)
+time=1315670897

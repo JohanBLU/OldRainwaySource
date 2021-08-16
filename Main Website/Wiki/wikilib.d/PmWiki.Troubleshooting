@@ -1,0 +1,10 @@
+version=pmwiki-2.2.94 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=IIRC external pages (mailing list) link here
+ctime=1419882247
+name=PmWiki.TroubleShooting
+rev=3
+targets=
+text=(:redirect Troubleshooting:)%0a(:Summary:Redirects to [[PmWiki.Troubleshooting]].:)
+time=1486854114

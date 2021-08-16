@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=moved
+name=PmWikiFr.IndexDocumentation
+rev=102
+targets=
+text=(:redirect DocumentationIndex:)
+time=1315669216

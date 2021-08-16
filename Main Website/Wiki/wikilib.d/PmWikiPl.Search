@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to local translation
+ctime=1270160979
+name=PmWikiPl.Search
+rev=2
+targets=
+text=(:Summary: Redirects to [[PmWikiPl/Szukaj]]:)%0a(:redirect PmWikiPl/Szukaj:)
+time=1315672569

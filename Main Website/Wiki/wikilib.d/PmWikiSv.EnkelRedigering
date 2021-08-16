@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=redirect to PmWikiSv.BasicEditing
+ctime=1138027059
+name=PmWikiSv.EnkelRedigering
+rev=6
+targets=
+text=(:Summary: Redirects to [[PmWikiSv/BasicEditing]]:)%0a(:redirect PmWikiSv/BasicEditing:)
+time=1315670581

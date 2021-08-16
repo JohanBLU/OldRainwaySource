@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+name=PmWikiFr.UninstallingPmWiki
+rev=9
+targets=PmWikiFr.IndexDocAdmin,PmWiki.UninstallingPmWiki
+text=(:title Désinstallation de PmWiki:)%0aLa plupart des fichiers créés et/ou utilisés par `PmWiki peuvent être détruits complètement par le propriètaire du compte. Cependant, un certain fichier système, créé durant la création du dossier @@wiki.d@@, ne peut être effacé de cette manière. Pour détruire  @@wiki.d@@, créez un fichier PHP contenant la ligne suivante:%0a%0a@@ [= %3c?php system ('/bin/rm -rf wiki.d') ?> =] @@%0a%0aPlacez le fichier dans votre dossier PmWiki et appelez le dans votre navigateur. Rien ne s'affichera, mais le dossier  @@wiki.d@@ et toutes les pages qu'il contient n'existeront plus. '''*A jamais !*'''. Aussi soyez sûr de vouloir faire ça avant d'essayer.%0a%0aUne fois ceci effectué, le propriétaire du compte devrait être capable de détruire le dossier PmWiki sans autres plaintes du serveur.%0a%0a----%0a%25trail%25%3c%3c|[[Index doc admin]]|>>%0a%0a----%0a%25tr%25Traduction de PmWiki:UninstallingPmWiki - Page originale sur PmWiki:PmWikiFr.DésinstallationDePmWiki
+time=1315669216
+title=Désinstallation de PmWiki

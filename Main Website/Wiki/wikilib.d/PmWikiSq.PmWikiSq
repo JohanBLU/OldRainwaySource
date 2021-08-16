@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Peter Bowers
+charset=UTF-8
+csum=typo
+ctime=1293449448
+name=PmWikiSq.PmWikiSq
+rev=3
+targets=
+text=(:Language:Shqip:)%0a(:Summary:{$:Language}:)%0aPmWiki është një sistem bazuar me konceptin "wiki" që përdoret per bashkë-krijimin dhe bashkë-mbarëvajtjen e web-sajtëve.%0a%0aSoftuari shkruhet në %25newwin%25[[http://php.net/|PHP]], dhe është gate të përdoret falas dhe lirisht me %25newwin%25[[http://www.gnu.org/copyleft/gpl.html|General Public License]] (Liçensa Publike te Pergjithshme) dhe mund të shkarkohet nga  http://pmwiki.org/pub/pmwiki/. Ky sajt ka verzionin {$Version}. Dokumentat për PmWiki gjendet në indeksin e dokumentacionit.%0a%0aPmWiki është një mark zyrtarisht të regjistruar nga [[http://www.pmichaud.com/ | Patrick R. Michaud ]].%0a%0a
+time=1315672569

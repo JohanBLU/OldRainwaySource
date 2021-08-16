@@ -1,0 +1,9 @@
+version=pmwiki-2.2.125 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=despam (+21)
+name=PmWikiVi.PmWikiVi
+rev=21
+targets=PmWiki.WikiWikiWeb,PmWiki.PatrickMichaud
+text=(:Language:Vi&#7879;t ng&#7919;:)%0a(:Summary:{$:Language}:)%0aPmWiki là một hệ thống [[PmWiki/WikiWikiWeb]] được [[PmWiki/Patrick Michaud]] viết bằng ngôn ngữ PHP. PmWiki là một công cụ hỗ trợ dễ dàng việc tạo lập, bảo trì và hợp tác trên trang Web.%0a%0aĐịa chỉ này hiện đang dùng phiên bản {$Version}. Phần mềm Wiki được dùng tự do trong khuôn khổ giấy phép GPL và có thể tải về từ địa chỉ http://pmichaud.com/pub/pmwiki. Các tài liệu hỗ trợ xin tìm thêm trong phần chỉ mục (index)%0a%0aPmWiki được đăng ký bản quyền bởi tác giả Patrick R. Michaud (http://pmichaud.com).%0a%0a%0a%0a%0a%0a%0a%0a%0a
+time=1580210787

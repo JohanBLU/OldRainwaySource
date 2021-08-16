@@ -1,0 +1,10 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=
+ctime=1214147770
+name=PmWikiBg.SideBar
+rev=2
+targets=PmWikiBg.PmWikiBg,PmWikiBg.WikiSandbox,PmWikiBg.RecentChanges
+text=* [[PmWikiBg/|Начална страница]]%0a* [[PmWikiBg/WikiSandbox|Пясъчник]]%0a* [[PmWikiBg/RecentChanges|Последни промени]]%0a%0a%25sidehead%25 Основно меню%0a(:include Site.SideBar:)
+time=1315672241

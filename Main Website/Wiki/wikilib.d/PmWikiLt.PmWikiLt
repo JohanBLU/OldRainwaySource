@@ -1,0 +1,9 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=SchreyP
+charset=UTF-8
+csum=update PTV Language
+name=PmWikiLt.PmWikiLt
+rev=34
+targets=PmWiki.WikiWikiWeb
+text=(:Language:Lietuvi&#371; [-(Lithuanian)-]:)%0a(:Summary:{$:Language}:)%0a%0aPmWiki yra [[PmWiki/WikiWikiWeb|wiki]] sistema, skirta kolektyviniam internetinių svetainių kūrimui ir palaikymui.%0a%0aPmWiki puslapiai atrodo ir veikia kaip įprasti žiniatinklio puslapiai, tačiau juose yra nuoroda „Redaguoti“, kuria sekant galima nesunkiai kurti ir redaguoti svetainės puslapius (vadovaujantis elementariomis redagavimo taisyklėmis). Tam nereikia išmanyti nei HTML, nei CSS, o puslapių redagavimas gali būti atviras visiems, arba leidžiamas tik mažoms autorių grupelėms.%0a%0aPmWiki sukurta naudojant PHP programavimo kalbą ir platinama pagal GNU Bendrąją Viešąją Licenciją (GNU GPL). PmWiki iš pagrindų suprojektuota taip, kad ją būtų lengva įdiegti, derinti ir palaikyti; ji tinka įvairiausioms reikmėms. Ši svetainė naudoja {$Version} versiją.%0a%0aPmWiki yra registruotas prekės ženklas, priklausantis [[http://pmichaud.com|Patrick R. Michaud]].%0a%0a----%0a%0a'''K:''' Kaip įjungti lietuvių kalbą savo PmWiki svetainėje?\\%0a'''A:''' Įdiegus PmWiki ir parsiuntus vertimo failus [[http://pmwiki.org/pub/pmwiki/i18n/i18n-lt.zip|i18n-lt.zip]], į local/config.php failą reikėtų įtraukti šias eilutes:%0a%0a[@%0ainclude_once($FarmD.'/scripts/xlpage-utf-8.php');%0aXLPage('lt','PmWikiLt.XLPage');%0aXLPage('lt','PmWikiLt.XLPageCookbook');%0a@]%0a----%0a%0aLietuviškojo vertimo puslapiai:%0a(:pagelist group=PmWikiLt list=normal:)%0a%0a----%0a
+time=1315672422

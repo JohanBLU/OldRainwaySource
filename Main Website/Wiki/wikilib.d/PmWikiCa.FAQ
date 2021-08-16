@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=Catalan translation
+ctime=1310992857
+name=PmWikiCa.FAQ
+rev=2
+targets=Site.Search,PmWiki.DocumentationIndex,PmWiki.Questions
+text=(:Language:Català:)%0a(:Title Preguntes més freqüents (FAQ) :)%0a(:Summary:Llista de preguntes més freqüents:)%0a%0aAquesta pàgina intenta resumir algunes de les preguntes que més habitualment es formulen. Les respostes les trobareu a la pàgina corresponent (seguiu l'enllaç). Si no trobeu la resposta a la vostra pregunta, podeu formular-la a la pàgina de [[(PmWiki:)Questions]] o fer una [[Site.Search |recerca]] entre la documentació. Podeu trobar més continguts a l'[[PmWiki.DocumentationIndex | índex de la documentació]].%0a%0a(:comment Les preguntes i respostes es guarden a cada pàgina respectiva, després es compilen d'acord amb la pàgina a la que pertanyen. Per favor, feu-hi els canvis a les respectives pàgines, enlloc de fer-los ací .:)%0a%0a(:pagelist trail=PmWikiCa.DocumentationIndex "[[#faq]]" fmt=#includefaq class=faqtoc :)
+time=1315672241
+title=Preguntes més freqüents (FAQ)

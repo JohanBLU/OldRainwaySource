@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=corr. trail
+ctime=1144268788
+name=PmWikiFr.MailingLists
+rev=15
+targets=PmWikiFr.IndexDocumentation
+text=(:title Listes de diffusion:)%0a%0aIl y a actuellement une liste de diffusion disponibles pour `PmWiki (en français).%0a%0a:[+[[http://www.pmichaud.com/mailman/listinfo/pmwiki-users-fr | pmwiki-utilisateurs-fr ]]+]: Cette liste est toute nouvelle, on doit pouvoir y trouver de l'aide en Francais pour `PmWiki. Le trafic est faible pour le moment .%0a%0a!!  Serveur de news (NNTP)%0avous pouvez être intéressé, cette liste et aussi accessible en "Serveur de news".%0a%0ale server NNTP et:%0a* news.gmane.org '^[[http://news.gmane.org/search.php?match=pmwiki|#]]^'%0a%0ale groupe et:%0a* gmane.comp.web.wiki.pmwiki.user.fr%0a%0aL'archive et disponible ici:%0a* http://blog.gmane.org/gmane.comp.web.wiki.pmwiki.user.fr%0a%0a%0aIl y a actuellement deux listes de diffusion disponibles pour `PmWiki (en Anglais).%0a%0a:[+[[http://www.pmichaud.com/lists/pmwiki-users | pmwiki-users]]+]: Cette liste est une ressource essentielle des administrateurs de `PmWiki ou l'on trouve de l'aide et on peut discuter du développement de `PmWiki. Le trafic est de 20 à 50 messages par jour.%0a%0aLes archives sont disponibles ici:%0a->http://www.pmichaud.com/pipermail/pmwiki-users_pmichaud.com%0a->http://news.gmane.org/gmane.comp.web.wiki.pmwiki.user%0a%0a->''Note'': Vous pouvez modifier vos paramètres sur la liste de diffusion en vous loguant ici:\\%0ahttp://www.pmichaud.com/mailman/listinfo/pmwiki-users_pmichaud.com%0a%0a:[+[[http://www.pmichaud.com/mailman/listinfo/pmwiki-announce_pmichaud.com   | pmwiki-announce]]+]: Cette liste existe pour diffuser les annonces de nouvelles révisions.\\%0aL'archive est sur:%0a:: :http://www.pmichaud.com/pipermail/pmwiki-announce_pmichaud.com%0a%0a---- %0a%25trail%25%3c%3c|[[IndexDocumentation]]|>>
+time=1315669216
+title=Listes de diffusion

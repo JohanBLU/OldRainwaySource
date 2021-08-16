@@ -1,0 +1,11 @@
+version=pmwiki-2.2.30 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=trail
+ctime=1174084753
+name=PmWiki.AQ
+rev=13
+targets=PmWiki.FAQ,Category.Questions
+text=(:Title Answered Questions (AQ):)%0a(:Summary:Repository for [[questions]] about PmWiki that have been answered, see also [[FAQ]]:)%0a%0aThis page is '''not''' a [[FAQ]]. It is just a repository for questions about PmWiki that have been answered. If you have asked a question about PmWiki and someone has given you the answer, please put them here. Then the next poor sod who has the same or similar question will at least have a chance of finding the answer on their own.%0a%0aThis page started in response to the following question.%0a%0a>>faq%3c%3c%0a%0aQ: Why don't we use a forum instead of this "AQ" page? %0aA: Because the forums (otherwise known as message boards or bulletin boards) are great for holding conversations, but sometimes poor for reaching conclusions. At least here someone can edit my inane comment, sparing future readers the agony of reading it.%0a%0aQ: Why not post "answers" on a page related to the question? %0aA: Because some users, while quite willing to enter the text, can't figure out where to put it. This page at least provides a home for the answer until it can be moved elsewhere. It also means that searchers ''may'' find the answer here.%0a%0aQ:Why doesn't my redirect file work?%0aA:When doing test, you probably don't want to use the "index.php" name to don't kill your site at first. But be aware that the redirect line you have to include is a php script and '''must''' be pasted in any file '''with the "php" extension"''', for example "test.php", '''not''' any test.html...%0a----%0a%0aCategory: [[!Questions]]
+time=1315670897
+title=Answered Questions (AQ)

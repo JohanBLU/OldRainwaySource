@@ -1,0 +1,10 @@
+version=pmwiki-2.2.71 ordered=1 urlencoded=1
+author=JohnnyN
+charset=UTF-8
+csum=Translated the Summary PTV into Danish.
+ctime=1413919456
+name=PmWikiDa.PageNotFound
+rev=2
+targets=PmWikiDa.PageNotFound
+text=(:Summary: Side der vises når PmWiki ikke kan finde den forespurgte side:)%0a(:nolinkwikiwords:)%0a(:if name {$SiteGroup}.PageNotFound:)%0a-> %25green font-style:italic%25 Denne side indeholder teksten der skal vises når PmWiki ikke kan finde en forespurgt side.  Administratorer kan redigere denne side, for at ændre beskeden.%0a(:ifend:)%0a%0a(:if !group Category:)%0aSiden "{$RequestedPage}" findes ikke.  %0a(:ifend:)%0a(:if auth edit:)%0a%25rel=nofollow%25 ([[{*$FullName}?action=edit | Opret {*$FullName}]]). %0a(:ifend:)%0a
+time=1421085821

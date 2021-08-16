@@ -1,0 +1,10 @@
+version=pmwiki-2.2.33 ordered=1 urlencoded=1
+author=simkin
+charset=UTF-8
+csum=New version.
+ctime=1310991429
+name=PmWikiCa.GroupFooter
+rev=4
+targets=PmWikiCa.DocumentationIndex,PmWikiCa.Variables,PmWikiCa.GroupFooter,PmWiki.GroupFooter
+text=(:Summary:Enllaços a la ruta i als comentaris de la pàgina:)%0a[[#trailstart]] (:comment included in PmWiki localisation headers and footers :)%0a(:if ontrail {*$Group}.DocumentationIndex#trailstart#trailend {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#eee;":)%0a%3c|[[{*$Group}/Documentation index(#trailstart#trailend)|+]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a(:if ontrail {*$Group}.Variables {*$Name}:) %0a(:div style="clear:right; float:right; font-size:smaller; background-color:#ddd;":)%0a%3c|[[{*$Group}/Variables]]|> %25%25%0a(:divend:)%0a(:ifend:)%0a[[#trailend]]%0a[[%3c%3c]]%0a%0a----%0a%25trad%25 [==]%0a(:if exists PmWiki.{*$Name}:)%0aTraducció de [[(http://www.pmwiki.org/wiki/)PmWiki.{*$Name}]] -%0a(:ifend:)%0a(:if ![ equal "{*$ScriptUrl}" "http://pmwiki.org/wiki" or equal "{*$ScriptUrl}" "http://www.pmwiki.org/wiki" ] :)%0aPàgina original a [[(http://www.pmwiki.org/wiki/){*$FullName}]] -%0a(:ifend:)%0a[[$[Backlinks]->{*$FullName}?action=search&q=link={*$FullName}&fmt=title]]\\%0a(:if [ equal "{*$ScriptUrl}" "http://pmwiki.org/wiki" or equal "{*$ScriptUrl}" "http://www.pmwiki.org/wiki" ] :)%0aDarreres modificacions:\\%0a[[{*$FullName}]]: {*$LastModified}\\%0a(:if2 exists PmWiki.{*$Name}:)%0a[[PmWiki.{*$Name}]]: {PmWiki.{*$Name}$LastModified}%0a(:if2end:)%0a(:ifend:)%0a
+time=1317393400
